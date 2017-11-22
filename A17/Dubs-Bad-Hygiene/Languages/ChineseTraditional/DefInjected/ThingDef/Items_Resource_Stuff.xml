@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WetWipe.label>濕巾</WetWipe.label>
+  <WetWipe.description>摺疊並單獨包裝的小濕巾，以備不時之需。</WetWipe.description>
+
+  <BedPan.label>便盆</BedPan.label>
+  <BedPan.description>盛放臥床患者尿液和糞便的容器。</BedPan.description>
+
+  <fecalsludge.label>糞肥</fecalsludge.label>
+  <fecalsludge.description>糞便發酵而成，用於鋪設土壤，使用未加工的人類糞便作為肥料很危險，裡面可能含有致病病原體。</fecalsludge.description>
+
+  <BurnBarrel.label>糞桶</BurnBarrel.label>
+  <BurnBarrel.description>一桶裝滿了需要焚燒的排泄物，請確保放置在遠離生活區的場所。</BurnBarrel.description>
+
+  <BurningBarrel.label>糞桶</BurningBarrel.label>
+  <BurningBarrel.description>一桶裝滿了需要焚燒的排泄物，請確保放置在遠離生活區的場所。</BurningBarrel.description>
+
+
+</LanguageData>
