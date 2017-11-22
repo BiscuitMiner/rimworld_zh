@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wooden Plated Gloves -->
+
+  <MedTimes_Bracers_Wooden.label>木護腕</MedTimes_Bracers_Wooden.label>
+  <MedTimes_Bracers_Wooden.description>(等級:0,輕甲)[近戰命中率:+5%][全局工作速度:+5%]把一些木板綁在一塊，為肉搏而生。</MedTimes_Bracers_Wooden.description>
+
+
+  <!-- Steel Plated Gloves -->
+
+  <MedTimes_Gloves_Plated.label>裝甲手套</MedTimes_Gloves_Plated.label>
+  <MedTimes_Gloves_Plated.description>(等級:1,輕甲)[近戰命中率:+5%][全局工作速度:+5%]在關鍵部位附上鐵板的皮手套，為肉搏而生。</MedTimes_Gloves_Plated.description>
+
+
+  <!-- Scaled Gloves -->
+
+  <MedTimes_Gloves_Scaled.label>鎖甲手套</MedTimes_Gloves_Scaled.label>
+  <MedTimes_Gloves_Scaled.description>(等級:1,重甲)[近戰命中率:+10%]覆有鱗片狀甲片的皮手套，為肉搏而生。</MedTimes_Gloves_Scaled.description>
+
+
+  <!-- Lamellar Gauntlets -->
+
+  <MedTimes_Gauntlets_Plated.label>全鋼手套</MedTimes_Gauntlets_Plated.label>
+  <MedTimes_Gauntlets_Plated.description>(等級:2,輕甲)[近戰命中率:+5%][全局工作速度:+5%]一雙覆甲的手套，設別設計不會妨礙活動。</MedTimes_Gauntlets_Plated.description>
+
+
+  <!-- Archers Bracers -->
+
+  <MedTimes_Bracer_Archer.label>射手護腕</MedTimes_Bracer_Archer.label>
+  <MedTimes_Bracer_Archer.description>(等級:2,輕甲)[射擊精確度:+7.5%][近戰命中率:+5%][全局工作速度:+5%]一對由皮革和鋼板製成的護腕和手套，可以有效保護使用者的前臂和手指，讓他能專心射擊。為射擊而生。</MedTimes_Bracer_Archer.description>
+
+
+  <!-- Steel Gauntlets -->
+
+  <MedTimes_Gauntlets_EncasedSteel.label>板甲手套</MedTimes_Gauntlets_EncasedSteel.label>
+  <MedTimes_Gauntlets_EncasedSteel.description>(等級:2,重甲)[近戰命中率:+10%]一雙完全被金屬包裹的手套，這也意味著戴著這雙手套難以完成日常工作。極致的保護意味著在激烈的肉搏戰中完全不必擔心丟掉手指。這使得這雙手套在肉搏中非常有效。</MedTimes_Gauntlets_EncasedSteel.description>
+
+
+  <!-- Royal Plated Gauntlets -->
+
+  <MedTimes_Gauntlets_RoyalPlated.label>皇家板甲手套</MedTimes_Gauntlets_RoyalPlated.label>
+  <MedTimes_Gauntlets_RoyalPlated.description>(等級:2,重甲)[近戰命中率:+10%][全局工作速度:+2.5%]雖然樣式與板甲手套有所區別，但還是一雙完全被金屬包裹的手套，這同樣意味著戴著這雙手套難以完成日常工作。極致的保護意味著在激烈的肉搏戰中完全不必擔心丟掉手指。這使得這雙手套在肉搏中非常有效。</MedTimes_Gauntlets_RoyalPlated.description>
+
+
+</LanguageData>

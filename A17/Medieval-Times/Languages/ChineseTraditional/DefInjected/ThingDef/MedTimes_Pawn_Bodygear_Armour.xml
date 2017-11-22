@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wooden Vest Plates(Shell): Norm Apparel -->
+
+  <MedTimes_WoodenPlates.label>木甲</MedTimes_WoodenPlates.label>
+  <MedTimes_WoodenPlates.description>(等級:0,輕甲)[移動速度:-5%]在胸前背後以及肩膀綁上木板的無袖護甲，最基本、最廉價的護甲。</MedTimes_WoodenPlates.description>
+
+
+  <!-- (Light) Plate & Chains: Norm Apparel -->
+
+  <MedTimes_PlateJack.label>無袖護甲</MedTimes_PlateJack.label>
+  <MedTimes_PlateJack.description>(等級:1,輕甲)[移動速度:-5%]在胸前背後附有鐵板的無袖護甲，肩甲和鎖鏈也提供部分防護，這是最常規的戰甲，使用最少的材料獲得最大的防護。</MedTimes_PlateJack.description>
+
+
+  <!-- (Light) Plate & Chains + Winter Cloak: Cold Apparel -->
+
+  <MedTimes_PlateJack_Cloaked.label>無袖護甲（冬季大衣）</MedTimes_PlateJack_Cloaked.label>
+  <MedTimes_PlateJack_Cloaked.description>(等級:1,輕甲)[移動速度:-5%]在胸前背後附有鐵板的無袖護甲，肩甲和鎖鏈也提供部分防護，這是最常規的戰甲，使用最少的材料獲得最大的防護。經過特殊設計，其結構可以附上用毛皮製成的大衣。可以有效抵禦凌冽寒風與刺骨寒冷。</MedTimes_PlateJack_Cloaked.description>
+
+
+  <!-- (Light) Plate & Chains, Tabard Blue: Norm Apparel -->
+
+  <MedTimes_PlateJack_TabardBlue.label>無袖護甲（藍色戰袍）</MedTimes_PlateJack_TabardBlue.label>
+  <MedTimes_PlateJack_TabardBlue.description>(等級:1,輕甲)[移動速度:-5%]在胸前背後附有鐵板的無袖護甲，肩甲和鎖鏈也提供部分防護，這是最常規的戰甲，使用最少的材料獲得最大的防護。</MedTimes_PlateJack_TabardBlue.description>
+
+
+  <!-- (Light) Plate & Chains, Tabard Green: Norm Apparel -->
+
+  <MedTimes_PlateJack_TabardGreen.label>無袖護甲（貴族）</MedTimes_PlateJack_TabardGreen.label>
+  <MedTimes_PlateJack_TabardGreen.description>(等級:1,輕甲)[移動速度:-5%]在胸前背後附有鐵板的無袖護甲，肩甲和鎖鏈也提供部分防護，這是最常規的戰甲，使用最少的材料獲得最大的防護。</MedTimes_PlateJack_TabardGreen.description>
+
+
+  <!-- (Light) Plate & Chains, Tabard Orange: Norm Apparel -->
+
+  <MedTimes_PlateJack_TabardOrange.label>無袖護甲（戰團）</MedTimes_PlateJack_TabardOrange.label>
+  <MedTimes_PlateJack_TabardOrange.description>(等級:1,輕甲)[移動速度:-5%]在胸前背後附有鐵板的無袖護甲，肩甲和鎖鏈也提供部分防護，這是最常規的戰甲，使用最少的材料獲得最大的防護。</MedTimes_PlateJack_TabardOrange.description>
+
+
+  <!-- (Heavy) Scaled Hauberk: Norm Apparel -->
+
+  <MedTimes_Hauberk.label>鎖甲</MedTimes_Hauberk.label>
+  <MedTimes_Hauberk.description>(等級:1,重甲)[移動速度:-10%][全局工作速度:-5%]一件及膝並帶有鋼板的護甲，有大量像魚鱗一樣排列的小甲片和鎖鏈作為額外保護措施。</MedTimes_Hauberk.description>
+
+
+  <!-- (Heavy) Scaled Hauberk + Winter Cloak: Cold Apparel -->
+
+  <MedTimes_Hauberk_Cloaked.label>鎖甲（冬季大衣）</MedTimes_Hauberk_Cloaked.label>
+  <MedTimes_Hauberk_Cloaked.description>(等級:1,重甲)[移動速度:-10%][全局工作速度:-5%]一件及膝並帶有鋼板的護甲，有大量像魚鱗一樣排列的小甲片和鎖鏈作為額外保護措施。經過特殊設計，其結構可以附上用毛皮製成的大衣。可以有效抵禦凌冽寒風與刺骨寒冷。</MedTimes_Hauberk_Cloaked.description>
+
+
+  <!-- (Heavy) Scaled Hauberk, Tabard Blue: Norm Apparel -->
+
+  <MedTimes_Hauberk_TabardBlue.label>鎖甲（藍色戰袍）</MedTimes_Hauberk_TabardBlue.label>
+  <MedTimes_Hauberk_TabardBlue.description>(等級:1,重甲)[移動速度:-10%][全局工作速度:-5%]一件及膝並帶有鋼板的護甲，有大量像魚鱗一樣排列的小甲片和鎖鏈作為額外保護措施。還包含一件藍色戰袍，有助於保持涼爽和辨別敵我。</MedTimes_Hauberk_TabardBlue.description>
+
+
+  <!-- (Heavy) Scaled Hauberk, Tabarded Green: Norm Apparel -->
+
+  <MedTimes_Hauberk_TabardGreen.label>鎖甲（貴族戰袍）</MedTimes_Hauberk_TabardGreen.label>
+  <MedTimes_Hauberk_TabardGreen.description>(等級:1,重甲)[移動速度:-10%][全局工作速度:-5%]一件及膝並帶有鋼板的護甲，有大量像魚鱗一樣排列的小甲片和鎖鏈作為額外保護措施。還包含一件貴族戰袍，有助於保持涼爽和辨別敵我。</MedTimes_Hauberk_TabardGreen.description>
+
+
+  <!-- (Heavy) Scaled Hauberk, Tabarded Orange: Norm Apparel -->
+
+  <MedTimes_Hauberk_TabardOrange.label>鎖甲（戰團戰袍）</MedTimes_Hauberk_TabardOrange.label>
+  <MedTimes_Hauberk_TabardOrange.description>(等級:1,重甲)[移動速度:-10%][全局工作速度:-5%]一件及膝並帶有鋼板的護甲，有大量像魚鱗一樣排列的小甲片和鎖鏈作為額外保護措施。還包含一件戰團戰袍，有助於保持涼爽和辨別敵我。</MedTimes_Hauberk_TabardOrange.description>
+
+
+  <!-- (Light) Brigandine: Norm Apparel -->
+
+  <MedTimes_Brigandine.label>鑲嵌甲</MedTimes_Brigandine.label>
+  <MedTimes_Brigandine.description>(等級:2,輕甲)[移動速度:-5%]一件及膝的，內層藏有鋼板，外部鑲嵌較小的甲片的護甲。</MedTimes_Brigandine.description>
+
+
+  <!-- Medieval Brigandine + Winter Cloak: Cold Apparel -->
+
+  <MedTimes_Brigandine_Cloaked.label>鑲嵌甲（冬季大衣）</MedTimes_Brigandine_Cloaked.label>
+  <MedTimes_Brigandine_Cloaked.description>(等級:2,輕甲)[移動速度:-5%]一件及膝的，內層藏有鋼板，外部鑲嵌較小的甲片的護甲。經過特殊設計，其結構可以附上用毛皮製成的大衣。可以有效抵禦凌冽寒風與刺骨寒冷。</MedTimes_Brigandine_Cloaked.description>
+
+
+  <!-- (Medieval) Brigandine, Tabard Blue: Norm Apparel -->
+
+  <MedTimes_Brigandine_TabardBlue.label>鑲嵌甲（藍色戰袍）</MedTimes_Brigandine_TabardBlue.label>
+  <MedTimes_Brigandine_TabardBlue.description>(等級:2,輕甲)[移動速度:-5%]一件及膝的，內層藏有鋼板，外部鑲嵌較小的甲片的護甲。還包含一件藍色戰袍，有助於保持涼爽和辨別敵我。</MedTimes_Brigandine_TabardBlue.description>
+
+
+  <!-- (Medieval) Brigandine, Tabarded Green: Norm Apparel -->
+
+  <MedTimes_Brigandine_TabardGreen.label>鑲嵌甲（貴族戰袍）</MedTimes_Brigandine_TabardGreen.label>
+  <MedTimes_Brigandine_TabardGreen.description>(等級:2,輕甲)[移動速度:-5%]一件及膝的，內層藏有鋼板，外部鑲嵌較小的甲片的護甲。還包含一件貴族戰袍，有助於保持涼爽和辨別敵我。</MedTimes_Brigandine_TabardGreen.description>
+
+
+  <!-- (Medieval) Brigandine, Tabarded Orange: Norm Apparel -->
+
+  <MedTimes_Brigandine_TabardOrange.label>鑲嵌甲（戰團戰袍）</MedTimes_Brigandine_TabardOrange.label>
+  <MedTimes_Brigandine_TabardOrange.description>(等級:2,輕甲)[移動速度:-5%]一件及膝的，內層藏有鋼板，外部鑲嵌較小的甲片的護甲。還包含一件戰團戰袍，有助於保持涼爽和辨別敵我。</MedTimes_Brigandine_TabardOrange.description>
+
+
+  <!-- (Heavy) Full Plate Armour: Norm Apparel -->
+
+  <MedTimes_FullPlated.label>全身甲</MedTimes_FullPlated.label>
+  <MedTimes_FullPlated.description>(等級:2,重甲)[移動速度:-10%][全局工作速度:-5%]這種沉重的盔甲由許多鋼板和皮墊製成，可以很好地抵禦各種傷害，但代價是降低穿戴者的移動速度。</MedTimes_FullPlated.description>
+
+
+  <!-- (Heavy) Full Plate Armour + Winter Cloak: Cold Apparel -->
+
+  <MedTimes_FullPlated_Cloaked.label>全身甲（冬季大衣）</MedTimes_FullPlated_Cloaked.label>
+  <MedTimes_FullPlated_Cloaked.description>(等級:2,重甲)[移動速度:-10%][全局工作速度:-5%]這種沉重的盔甲由許多鋼板和皮墊製成，可以很好地抵禦各種傷害，但代價是降低穿戴者的移動速度。經過特殊設計，其結構可以附上用毛皮製成的大衣。可以有效抵禦凌冽寒風與刺骨寒冷。</MedTimes_FullPlated_Cloaked.description>
+
+
+  <!-- (Heavy) Full Plate, Blue Tabard: Norm Apparel -->
+
+  <MedTimes_FullPlated_TabardBlue.label>全身甲（藍色戰袍）</MedTimes_FullPlated_TabardBlue.label>
+  <MedTimes_FullPlated_TabardBlue.description>(等級:2,重甲)[移動速度:-10%][全局工作速度:-5%]這種沉重的盔甲由許多鋼板和皮墊製成，可以很好地抵禦各種傷害，但代價是降低穿戴者的移動速度。還包含一件藍色戰袍，有助於保持涼爽和辨別敵我。</MedTimes_FullPlated_TabardBlue.description>
+
+
+  <!-- (Heavy) Full Plate, Green Tabard: Norm Apparel -->
+
+  <MedTimes_FullPlated_TabardGreen.label>全身甲（貴族戰袍）</MedTimes_FullPlated_TabardGreen.label>
+  <MedTimes_FullPlated_TabardGreen.description>(等級:2,重甲)[移動速度:-10%][全局工作速度:-5%]這種沉重的盔甲由許多鋼板和皮墊製成，可以很好地抵禦各種傷害，但代價是降低穿戴者的移動速度。還包含一件貴族戰袍，有助於保持涼爽和辨別敵我。</MedTimes_FullPlated_TabardGreen.description>
+
+
+  <!-- (Heavy) Full Plate, Orange Tabard: Norm Apparel -->
+
+  <MedTimes_FullPlated_TabardOrange.label>全身甲（戰團戰袍）</MedTimes_FullPlated_TabardOrange.label>
+  <MedTimes_FullPlated_TabardOrange.description>(等級:2,重甲)[移動速度:-10%][全局工作速度:-5%]這種沉重的盔甲由許多鋼板和皮墊製成，可以很好地抵禦各種傷害，但代價是降低穿戴者的移動速度。還包含一件戰團戰袍，有助於保持涼爽和辨別敵我。</MedTimes_FullPlated_TabardOrange.description>
+
+
+  <!-- (Heavy) Full Plate, Leather Caped: Hot Apparel -->
+
+  <MedTimes_EncasedSteel_Caped.label>全身甲（夏季斗篷）</MedTimes_EncasedSteel_Caped.label>
+  <MedTimes_EncasedSteel_Caped.description>(等級:2,重甲)[移動速度:-10%][全局工作速度:-5%]這種沉重的盔甲由許多鋼板和皮墊製成，可以很好地抵禦各種傷害，但代價是降低穿戴者的移動速度。還包含一件夏季斗篷，有助於保持涼爽。</MedTimes_EncasedSteel_Caped.description>
+
+
+  <!-- (Heavy) Full Plate, Blue Caped: Hot Apparel -->
+
+  <MedTimes_FullPlated_CapeBlue.label>全身甲（藍色斗篷）</MedTimes_FullPlated_CapeBlue.label>
+  <MedTimes_FullPlated_CapeBlue.description>(等級:2,重甲)[移動速度:-10%][全局工作速度:-5%]這種沉重的盔甲由許多鋼板和皮墊製成，可以很好地抵禦各種傷害，但代價是降低穿戴者的移動速度。還包含一件藍色斗篷，有助於保持涼爽。</MedTimes_FullPlated_CapeBlue.description>
+
+
+  <!-- (Heavy) Full Plate, Green Caped: Hot Apparel -->
+
+  <MedTimes_FullPlated_CapedGreen.label>全身甲（貴族斗篷）</MedTimes_FullPlated_CapedGreen.label>
+  <MedTimes_FullPlated_CapedGreen.description>(等級:2,重甲)[移動速度:-10%][全局工作速度:-5%]這種沉重的盔甲由許多鋼板和皮墊製成，可以很好地抵禦各種傷害，但代價是降低穿戴者的移動速度。還包含一件貴族斗篷，有助於保持涼爽。</MedTimes_FullPlated_CapedGreen.description>
+
+
+  <!-- (Heavy) Full Plate, Orange Caped: Hot Apparel -->
+
+  <MedTimes_FullPlated_CapedOrange.label>全身甲（戰團斗篷）</MedTimes_FullPlated_CapedOrange.label>
+  <MedTimes_FullPlated_CapedOrange.description>(等級:2,重甲)[移動速度:-10%][全局工作速度:-5%]這種沉重的盔甲由許多鋼板和皮墊製成，可以很好地抵禦各種傷害，但代價是降低穿戴者的移動速度。還包含一件戰團斗篷，有助於保持涼爽。</MedTimes_FullPlated_CapedOrange.description>
+
+
+  <!-- (Heavy) Royal Plate, Standard Apparel -->
+
+  <MedTimes_RoyalPlated.label>皇家板甲</MedTimes_RoyalPlated.label>
+  <MedTimes_RoyalPlated.description>(等級:2,重甲)[移動速度:-10%][全局工作速度:-5%]這種沉重的盔甲由許多鋼板和皮墊製成，可以很好地抵禦各種傷害，但代價是降低穿戴者的移動速度。</MedTimes_RoyalPlated.description>
+
+
+  <!-- (Heavy) Royal Death Plate, Standard Apparel -->
+
+  <MedTimes_RoyalPlated_Death.label>皇家死亡板甲</MedTimes_RoyalPlated_Death.label>
+  <MedTimes_RoyalPlated_Death.description>(等級:2,重甲)[移動速度:-10%][全局工作速度:-5%]這種沉重的盔甲由許多鋼板和皮墊製成，可以很好地抵禦各種傷害，但代價是降低穿戴者的移動速度。</MedTimes_RoyalPlated_Death.description>
+
+
+  <!-- (Heavy) Royal Plate, Blue Caped: Hot Apparel -->
+
+  <MedTimes_RoyalPlated_CapedBlue.label>皇家板甲（藍色斗篷）</MedTimes_RoyalPlated_CapedBlue.label>
+  <MedTimes_RoyalPlated_CapedBlue.description>(等級:2,重甲)[移動速度:-10%][全局工作速度:-5%]這種沉重的盔甲由許多鋼板和皮墊製成，可以很好地抵禦各種傷害，但代價是降低穿戴者的移動速度。還包含一件藍色斗篷，有助於保持涼爽。</MedTimes_RoyalPlated_CapedBlue.description>
+
+
+  <!-- (Heavy) Royal Plate, Green Caped: Hot Apparel -->
+
+  <MedTimes_RoyalPlated_CapedGreen.label>皇家板甲（貴族斗篷）</MedTimes_RoyalPlated_CapedGreen.label>
+  <MedTimes_RoyalPlated_CapedGreen.description>(等級:2,重甲)[移動速度:-10%][全局工作速度:-5%]這種沉重的盔甲由許多鋼板和皮墊製成，可以很好地抵禦各種傷害，但代價是降低穿戴者的移動速度。還包含一件貴族斗篷，有助於保持涼爽。</MedTimes_RoyalPlated_CapedGreen.description>
+
+
+  <!-- (Heavy) Royal Plate, Orange Caped: Hot Apparel -->
+
+  <MedTimes_RoyalPlated_CapedOrange.label>皇家板甲（戰團斗篷）</MedTimes_RoyalPlated_CapedOrange.label>
+  <MedTimes_RoyalPlated_CapedOrange.description>(等級:2,重甲)[移動速度:-10%][全局工作速度:-5%]這種沉重的盔甲由許多鋼板和皮墊製成，可以很好地抵禦各種傷害，但代價是降低穿戴者的移動速度。還包含一件戰團斗篷，有助於保持涼爽。</MedTimes_RoyalPlated_CapedOrange.description>
+
+
+</LanguageData>

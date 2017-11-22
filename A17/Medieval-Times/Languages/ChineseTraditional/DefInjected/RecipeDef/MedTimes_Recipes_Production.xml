@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Adobe Bricks -->
+
+  <MedTimes_MakeAdobeBricks.label>製造土坯磚</MedTimes_MakeAdobeBricks.label>
+  <MedTimes_MakeAdobeBricks.description>(x20)製造可以用於建設的土坯磚。</MedTimes_MakeAdobeBricks.description>
+  <MedTimes_MakeAdobeBricks.jobString>製造土坯磚中。</MedTimes_MakeAdobeBricks.jobString>
+
+
+  <!-- Make Ice Blocks -->
+
+  <MedTimes_MakeIceBlocks.label>製造冰塊</MedTimes_MakeIceBlocks.label>
+  <MedTimes_MakeIceBlocks.description>(x5)用吸熱材料製造冰塊。</MedTimes_MakeIceBlocks.description>
+  <MedTimes_MakeIceBlocks.jobString>製造冰塊中。</MedTimes_MakeIceBlocks.jobString>
+
+
+  <!-- Gather Ice Blocks -->
+
+  <MedTimes_GatherIceBlocks.label>採集冰塊</MedTimes_GatherIceBlocks.label>
+  <MedTimes_GatherIceBlocks.description>(x10)簡單的說就是看著水結成冰</MedTimes_GatherIceBlocks.description>
+  <MedTimes_GatherIceBlocks.jobString>採集冰塊中。</MedTimes_GatherIceBlocks.jobString>
+
+
+  <!-- Coal Chemfuel -->
+
+  <MedTimes_MakeChemfuelCoal.label>用煤製造化合燃料</MedTimes_MakeChemfuelCoal.label>
+  <MedTimes_MakeChemfuelCoal.description>用加氫法製造化合燃料。\n\n譯者注：原諒我化學不好沒搞懂在說啥。難道不是分餾。</MedTimes_MakeChemfuelCoal.description>
+  <MedTimes_MakeChemfuelCoal.jobString>用煤精煉化合燃料中。</MedTimes_MakeChemfuelCoal.jobString>
+
+
+  <!-- Books: Graphic Novel -->
+
+  <MedTimes_BookCreation_GraphicNovel.label>寫作圖文並茂的小說</MedTimes_BookCreation_GraphicNovel.label>
+  <MedTimes_BookCreation_GraphicNovel.description>寫作一本圖文並茂的小說</MedTimes_BookCreation_GraphicNovel.description>
+  <MedTimes_BookCreation_GraphicNovel.jobString>寫作圖文並茂的小說中。</MedTimes_BookCreation_GraphicNovel.jobString>
+
+
+  <!-- Coal Chunks -->
+
+  <MedTimes_MakeStoneChunks_Coal.label>採掘煤塊</MedTimes_MakeStoneChunks_Coal.label>
+  <MedTimes_MakeStoneChunks_Coal.description>(x25)從地下煤層開採出可用的煤塊。</MedTimes_MakeStoneChunks_Coal.description>
+  <MedTimes_MakeStoneChunks_Coal.jobString>開採中。</MedTimes_MakeStoneChunks_Coal.jobString>
+
+
+  <!-- Stone Chunks: Sandstone -->
+
+  <MedTimes_MakeStoneChunks_Sandstone.label>採掘砂岩塊</MedTimes_MakeStoneChunks_Sandstone.label>
+  <MedTimes_MakeStoneChunks_Sandstone.description>將岩體切成可用的石塊。</MedTimes_MakeStoneChunks_Sandstone.description>
+  <MedTimes_MakeStoneChunks_Sandstone.jobString>開採中。</MedTimes_MakeStoneChunks_Sandstone.jobString>
+
+
+  <!-- Stone Chunks: Granite -->
+
+  <MedTimes_MakeStoneChunks_Granite.label>採掘花崗岩塊</MedTimes_MakeStoneChunks_Granite.label>
+  <MedTimes_MakeStoneChunks_Granite.description>將岩體切成可用的石塊。</MedTimes_MakeStoneChunks_Granite.description>
+  <MedTimes_MakeStoneChunks_Granite.jobString>開採中。</MedTimes_MakeStoneChunks_Granite.jobString>
+
+
+  <!-- Stone Chunks: Limestone -->
+
+  <MedTimes_MakeStoneChunks_Limestone.label>採掘石灰岩塊</MedTimes_MakeStoneChunks_Limestone.label>
+  <MedTimes_MakeStoneChunks_Limestone.description>將岩體切成可用的石塊。</MedTimes_MakeStoneChunks_Limestone.description>
+  <MedTimes_MakeStoneChunks_Limestone.jobString>開採中。</MedTimes_MakeStoneChunks_Limestone.jobString>
+
+
+  <!-- Stone Chunks: Slate -->
+
+  <MedTimes_MakeStoneChunks_Slate.label>採掘板岩塊</MedTimes_MakeStoneChunks_Slate.label>
+  <MedTimes_MakeStoneChunks_Slate.description>將岩體切成可用的石塊。</MedTimes_MakeStoneChunks_Slate.description>
+  <MedTimes_MakeStoneChunks_Slate.jobString>開採中。</MedTimes_MakeStoneChunks_Slate.jobString>
+
+
+  <!-- Stone Chunks: Marble -->
+
+  <MedTimes_MakeStoneChunks_Marble.label>採掘大理石塊</MedTimes_MakeStoneChunks_Marble.label>
+  <MedTimes_MakeStoneChunks_Marble.description>將岩體切成可用的石塊。</MedTimes_MakeStoneChunks_Marble.description>
+  <MedTimes_MakeStoneChunks_Marble.jobString>開採中。</MedTimes_MakeStoneChunks_Marble.jobString>
+
+
+  <!-- WoodPitchWicked -->
+
+  <MedTimes_MakeQuicklimePitch.label>製造石灰焦油彈</MedTimes_MakeQuicklimePitch.label>
+  <MedTimes_MakeQuicklimePitch.description>(x5)為屠殺孔製造石灰焦油彈彈藥</MedTimes_MakeQuicklimePitch.description>
+  <MedTimes_MakeQuicklimePitch.jobString>製造石灰焦油彈中。</MedTimes_MakeQuicklimePitch.jobString>
+
+
+  <!-- Explosive Pots -->
+
+  <MedTimes_MakeExplosivePots.label>製造爆炸罐</MedTimes_MakeExplosivePots.label>
+  <MedTimes_MakeExplosivePots.description>(x3)為投石機製造爆炸罐彈藥</MedTimes_MakeExplosivePots.description>
+  <MedTimes_MakeExplosivePots.jobString>製造爆炸罐中。</MedTimes_MakeExplosivePots.jobString>
+
+
+  <!-- Disassemble Apparel -->
+
+  <MedTimes_DisassembleApparel.label>拆卸服裝</MedTimes_DisassembleApparel.label>
+  <MedTimes_DisassembleApparel.description>拆卸各種中世紀服裝來回收可用材料。</MedTimes_DisassembleApparel.description>
+  <MedTimes_DisassembleApparel.jobString>拆卸服裝中。</MedTimes_DisassembleApparel.jobString>
+
+
+  <!-- Disassemble Weapons -->
+
+  <MedTimes_DisassembleWeapon.label>拆卸武器</MedTimes_DisassembleWeapon.label>
+  <MedTimes_DisassembleWeapon.description>拆卸各種中世紀武器來回收可用材料。</MedTimes_DisassembleWeapon.description>
+  <MedTimes_DisassembleWeapon.jobString>拆卸武器中。</MedTimes_DisassembleWeapon.jobString>
+
+
+  <!-- Smelt Armour -->
+
+  <MedTimes_SmeltArmor.label>熔煉盔甲</MedTimes_SmeltArmor.label>
+  <MedTimes_SmeltArmor.description>高溫融化金屬盔甲來回收可用材料。</MedTimes_SmeltArmor.description>
+  <MedTimes_SmeltArmor.jobString>熔煉盔甲中。</MedTimes_SmeltArmor.jobString>
+
+
+</LanguageData>

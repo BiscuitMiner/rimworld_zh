@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- (Medieval) Fancy Icebox -->
+
+  <MedTimes_Icebox.label>冰盒</MedTimes_Icebox.label>
+  <MedTimes_Icebox.description>(热功率:-10)(冰块消耗:15)(清洁度-10，美观度-5)一个传统的制冷器，不需要通电即可运行。如果你有足够的冰块放入这个金属盒子甚至可以将房间的温度降至近乎冰点。里面的冰将在几天内融化。这是个相当简陋的盒子，四处漏水还容易生锈。</MedTimes_Icebox.description>
+  <MedTimes_Icebox_Blueprint.label>冰盒(蓝图)</MedTimes_Icebox_Blueprint.label>
+  <MedTimes_Icebox_Blueprint_Install.label>冰盒(蓝图)</MedTimes_Icebox_Blueprint_Install.label>
+  <MedTimes_Icebox_Frame.label>冰盒(建造中)</MedTimes_Icebox_Frame.label>
+  <MedTimes_Icebox_Frame.description>(热功率:-10)(冰块消耗:15)(清洁度-10，美观度-5)一个传统的制冷器，不需要通电即可运行。如果你有足够的冰块放入这个金属盒子甚至可以将房间的温度降至近乎冰点。里面的冰将在几天内融化。这是个相当简陋的盒子，四处漏水还容易生锈。</MedTimes_Icebox_Frame.description>
+
+  <MedTimes_IceboxFancy.label>精致冰盒</MedTimes_IceboxFancy.label>
+  <MedTimes_IceboxFancy.description>(热功率:-10)(冰块消耗:15)(美观度10)一个传统的制冷器，不需要通电即可运行。如果你有足够的冰块放入这个金属盒子甚至可以将房间的温度降至近乎冰点。里面的冰将在几天内融化。这个特别的冰盒非常精美，带有收集融化冰水的装置。 </MedTimes_IceboxFancy.description>
+  <MedTimes_IceboxFancy_Blueprint.label>精致冰盒(蓝图)</MedTimes_IceboxFancy_Blueprint.label>
+  <MedTimes_IceboxFancy_Blueprint_Install.label>精致冰盒(蓝图)</MedTimes_IceboxFancy_Blueprint_Install.label>
+  <MedTimes_IceboxFancy_Frame.label>精致冰盒(建造中)</MedTimes_IceboxFancy_Frame.label>
+  <MedTimes_IceboxFancy_Frame.description>(热功率:-10)(冰块消耗:15)(美观度10)一个传统的制冷器，不需要通电即可运行。如果你有足够的冰块放入这个金属盒子甚至可以将房间的温度降至近乎冰点。里面的冰将在几天内融化。这个特别的冰盒非常精美，带有收集融化冰水的装置。</MedTimes_IceboxFancy_Frame.description>
+
+
+  <!-- (Medieval)Fancy Icebox -->
+
+</LanguageData>

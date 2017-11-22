@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- (Tradegood) Wood Pitch Glue -->
+
+  <MedTimes_WoodPitchGlue.label>木瀝青膠</MedTimes_WoodPitchGlue.label>
+  <MedTimes_WoodPitchGlue.description>一種易燃但粘性極好的物質，一般來說用松脂，也可以用“乾餾法”從任何木頭提取的膠質，然後和木炭混合而成。一般稱之為瀝青膠。</MedTimes_WoodPitchGlue.description>
+
+
+  <!-- (Tradegood) Storage Pot -->
+
+  <MedTimes_StoragePot.label>儲存罐</MedTimes_StoragePot.label>
+  <MedTimes_StoragePot.description>用黏土製成的簡單罐子。許多年來被廣泛用於儲存大量物資。因為其用途廣泛並且容易製造，它們很容易買到或者賣出去。譯者注：你還得在中世紀菜單中把它建出來。</MedTimes_StoragePot.description>
+
+
+  <!-- (Tradegood) Stuffed Doll -->
+
+  <MedTimes_GraphicNovel.label>圖文並茂的小說</MedTimes_GraphicNovel.label>
+  <MedTimes_GraphicNovel.description>一本包含許多圖片的短篇故事書。</MedTimes_GraphicNovel.description>
+
+  <MedTimes_StuffedDoll.label>布娃娃</MedTimes_StuffedDoll.label>
+  <MedTimes_StuffedDoll.description>孩子們的玩具娃娃，用來貿易或者逗小孩子開心。</MedTimes_StuffedDoll.description>
+
+
+  <!-- (Tradegood) Cup -->
+
+  <MedTimes_DrinkingCup.label>酒杯</MedTimes_DrinkingCup.label>
+  <MedTimes_DrinkingCup.description>各式各樣的酒杯，通常被用來喝東西，也可以賣給那些想喝酒的傢伙。</MedTimes_DrinkingCup.description>
+
+
+  <!-- (Tradegood) Puzzlebox -->
+
+  <MedTimes_Puzzlebox.label>迷箱</MedTimes_Puzzlebox.label>
+  <MedTimes_Puzzlebox.description>上面有各式各樣的拼圖和機關，一般人們把它用來保存重要的東西或者送給朋友。在不知道訣竅的情況下很難在不破壞盒子的同時打開它。譯者注：玩過未上鎖的房間嗎，大概就是那個東西。</MedTimes_Puzzlebox.description>
+
+
+  <!-- (Tradegood) Crafting Hand Tools -->
+
+  <MedTimes_CraftingTools.label>手持工具</MedTimes_CraftingTools.label>
+  <MedTimes_CraftingTools.description>工匠在生產物資時會用到的各種工具。</MedTimes_CraftingTools.description>
+
+
+  <!-- (Tradegood) Steel Bow -->
+
+  <MedTimes_SteelBow.label>鋼弩弓</MedTimes_SteelBow.label>
+  <MedTimes_SteelBow.description>用於製造十字弩和十字勁弩的弩弓。\n\n譯者注：其實早期的十字弩的弩弓都不是鋼製的。</MedTimes_SteelBow.description>
+
+
+  <!-- (Tradegood) Advanced Trigger Mechanism -->
+
+  <MedTimes_AdvancedTriggerMechanism.label>先進弩機</MedTimes_AdvancedTriggerMechanism.label>
+  <MedTimes_AdvancedTriggerMechanism.description>一種用於製造十字勁弩的先進弩機</MedTimes_AdvancedTriggerMechanism.description>
+
+
+  <!-- (Tradegood)Wood Pitch Glue -->
+  <!-- (Tradegood)Storage Pot -->
+  <!-- (Tradegood)Stuffed Doll -->
+  <!-- (Tradegood)Cup -->
+  <!-- (Tradegood)Puzzlebox -->
+  <!-- (Tradegood)Crafting Hand Tools -->
+  <!-- (Tradegood)Steel Bow -->
+  <!-- (Tradegood)Advanced Trigger Mechanism -->
+
+</LanguageData>

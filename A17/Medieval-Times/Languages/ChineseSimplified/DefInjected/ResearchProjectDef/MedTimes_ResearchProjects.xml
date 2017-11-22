@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Start Tech -->
+
+  <MedTimes_MedievalTechnologies.label>(中世纪)中世纪技术</MedTimes_MedievalTechnologies.label>
+  <MedTimes_MedievalTechnologies.description>开始研究中世纪相关技术，走进中世纪的生活与战火之中。这项技术提供更够制作简单食物也能为整个家族取暖的石质壁炉，烟房可以为你提供过冬用的干果和熏肉，铁匠熔炉可以让你制造一些基本的护甲和武器，还有解决在科技低下的时候的照明设备。</MedTimes_MedievalTechnologies.description>
+
+  <MedTimes_IceWalls.label>(中世纪)冰墙</MedTimes_IceWalls.label>
+  <MedTimes_IceWalls.description>用“新”的资源“冰块”来建造墙。有一天你的殖民者突然想起，说：“我们用冰来造墙怎么样？”如果你碰巧住在冰天雪地的北方，温度常年都低于0度，那么建造一个冰城是一个好主意。然而，你要是住在比较温暖的地方，这个想法毫无意义。</MedTimes_IceWalls.description>
+
+
+  <!-- Tier 1 Tech -->
+
+  <MedTimes_MedievalTailoring.label>(中世纪)裁剪技术</MedTimes_MedievalTailoring.label>
+  <MedTimes_MedievalTailoring.description>建造裁剪台来为你的中世纪生活制作必要的衣物，当然，他也可以用来回收衣物。</MedTimes_MedievalTailoring.description>
+
+  <MedTimes_MedievalCrafting.label>(中世纪)制造技术</MedTimes_MedievalCrafting.label>
+  <MedTimes_MedievalCrafting.description>为你的中世纪生活提供必要的工具和物品。在制造台制造各种贸易商品、生活用品和军需品。</MedTimes_MedievalCrafting.description>
+
+  <MedTimes_MedievalDefenses.label>(中世纪)防御设施</MedTimes_MedievalDefenses.label>
+  <MedTimes_MedievalDefenses.description>为你的城市提供中世纪的防御措施。包括矮护墙、床弩和铁蒺藜，善用这些，没有敌人能够挑战你的威严。</MedTimes_MedievalDefenses.description>
+
+  <MedTimes_MedievalFoodStorage.label>(中世纪)食物储藏技术</MedTimes_MedievalFoodStorage.label>
+  <MedTimes_MedievalFoodStorage.description>探索学习中世纪食品储藏技术。在食物制备台为你日益增多的人民准备食物，学会奶酪的制作方法，甚至是制冰来保存食物的办法。</MedTimes_MedievalFoodStorage.description>
+
+
+  <!-- Tier 2 Tech -->
+
+  <MedTimes_AdvancedMedievalSmithing.label>(中世纪)先进锻造技术</MedTimes_AdvancedMedievalSmithing.label>
+  <MedTimes_AdvancedMedievalSmithing.description>炉温越高意味着质量越好，更好的武器和盔甲。解锁各种可以保护自己也可以快速杀死敌人的武器盔甲，而且你也可以熔炼废弃的金属了。</MedTimes_AdvancedMedievalSmithing.description>
+
+  <MedTimes_ImprovedMedievalDefenses.label>(中世纪)先进防御设施</MedTimes_ImprovedMedievalDefenses.label>
+  <MedTimes_ImprovedMedievalDefenses.description>屠杀孔，投石机和垛口。</MedTimes_ImprovedMedievalDefenses.description>
+
+
+</LanguageData>

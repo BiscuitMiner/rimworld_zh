@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- (Warband) Trader -->
+
+  <MedTimes_Warband_Trader.label>游商</MedTimes_Warband_Trader.label>
+  <MedTimes_Warband_Trader.labelPlural>游商</MedTimes_Warband_Trader.labelPlural>
+
+
+  <!-- (Warband) Peasant -->
+
+  <MedTimes_Warband_Peasant.label>農民</MedTimes_Warband_Peasant.label>
+  <MedTimes_Warband_Peasant.labelPlural>農民</MedTimes_Warband_Peasant.labelPlural>
+
+
+  <!-- (Warband) Conscript -->
+
+  <MedTimes_Warband_Conscript.label>有抱負的雇傭兵</MedTimes_Warband_Conscript.label>
+  <MedTimes_Warband_Conscript.labelPlural>有抱負的雇傭兵</MedTimes_Warband_Conscript.labelPlural>
+
+  <MedTimes_Warband_Conscript_Cheap.label>有抱負的雇傭兵</MedTimes_Warband_Conscript_Cheap.label>
+  <MedTimes_Warband_Conscript_Cheap.labelPlural>有抱負的雇傭兵</MedTimes_Warband_Conscript_Cheap.labelPlural>
+
+
+  <!-- (Warband) Archer -->
+
+  <MedTimes_Warband_Archer.label>弓箭手</MedTimes_Warband_Archer.label>
+  <MedTimes_Warband_Archer.labelPlural>弓箭手</MedTimes_Warband_Archer.labelPlural>
+
+  <MedTimes_Warband_Archer_Cheap.label>弓箭手</MedTimes_Warband_Archer_Cheap.label>
+  <MedTimes_Warband_Archer_Cheap.labelPlural>弓箭手</MedTimes_Warband_Archer_Cheap.labelPlural>
+
+
+  <!-- (Warband) Sapper -->
+
+  <MedTimes_Warband_LeadSapper.label>工兵頭領</MedTimes_Warband_LeadSapper.label>
+  <MedTimes_Warband_LeadSapper.labelPlural>工兵頭領</MedTimes_Warband_LeadSapper.labelPlural>
+
+
+  <!-- (Warband) Alternate Sapper -->
+
+  <MedTimes_Warband_Sapper.label>工兵</MedTimes_Warband_Sapper.label>
+  <MedTimes_Warband_Sapper.labelPlural>工兵</MedTimes_Warband_Sapper.labelPlural>
+
+
+  <!-- (Warband) Squire -->
+
+  <MedTimes_Warband_Squire.label>名譽掃地的家臣</MedTimes_Warband_Squire.label>
+  <MedTimes_Warband_Squire.labelPlural>名譽掃地的家臣</MedTimes_Warband_Squire.labelPlural>
+
+  <MedTimes_Warband_Squire_Cheap.label>名譽掃地的家臣</MedTimes_Warband_Squire_Cheap.label>
+  <MedTimes_Warband_Squire_Cheap.labelPlural>名譽掃地的家臣</MedTimes_Warband_Squire_Cheap.labelPlural>
+
+
+  <!-- (Warband) Man at Arms -->
+
+  <MedTimes_Warband_ManAtArms.label>雇傭兵</MedTimes_Warband_ManAtArms.label>
+  <MedTimes_Warband_ManAtArms.labelPlural>雇傭兵</MedTimes_Warband_ManAtArms.labelPlural>
+
+  <MedTimes_Warband_ManAtArms_Cheap.label>雇傭兵</MedTimes_Warband_ManAtArms_Cheap.label>
+  <MedTimes_Warband_ManAtArms_Cheap.labelPlural>雇傭兵</MedTimes_Warband_ManAtArms_Cheap.labelPlural>
+
+
+  <!-- (Warband) Elite Bowman -->
+
+  <MedTimes_Warband_EliteBowman.label>雇傭神射手</MedTimes_Warband_EliteBowman.label>
+  <MedTimes_Warband_EliteBowman.labelPlural>雇傭神射手</MedTimes_Warband_EliteBowman.labelPlural>
+
+  <MedTimes_Warband_EliteBowman_Cheap.label>雇傭神射手</MedTimes_Warband_EliteBowman_Cheap.label>
+  <MedTimes_Warband_EliteBowman_Cheap.labelPlural>雇傭神射手</MedTimes_Warband_EliteBowman_Cheap.labelPlural>
+
+
+  <!-- (Warband) Knight -->
+
+  <MedTimes_Warband_Knight.label>臭名昭著的騎士</MedTimes_Warband_Knight.label>
+  <MedTimes_Warband_Knight.labelPlural>臭名昭著的騎士</MedTimes_Warband_Knight.labelPlural>
+
+  <MedTimes_Warband_Knight_Cheap.label>臭名昭著的騎士</MedTimes_Warband_Knight_Cheap.label>
+  <MedTimes_Warband_Knight_Cheap.labelPlural>臭名昭著的騎士</MedTimes_Warband_Knight_Cheap.labelPlural>
+
+
+  <!-- (Warband) Royal Guard -->
+
+  <MedTimes_Warband_RoyalGuard.label>死亡守衛</MedTimes_Warband_RoyalGuard.label>
+  <MedTimes_Warband_RoyalGuard.labelPlural>死亡守衛</MedTimes_Warband_RoyalGuard.labelPlural>
+
+  <MedTimes_Warband_RoyalGuard_Cheap.label>死亡守衛</MedTimes_Warband_RoyalGuard_Cheap.label>
+  <MedTimes_Warband_RoyalGuard_Cheap.labelPlural>死亡守衛</MedTimes_Warband_RoyalGuard_Cheap.labelPlural>
+
+
+  <!-- (Warband) God King -->
+
+  <MedTimes_Warband_Warlord.label>戰爭領主</MedTimes_Warband_Warlord.label>
+  <MedTimes_Warband_Warlord.labelPlural>戰爭領主</MedTimes_Warband_Warlord.labelPlural>
+
+
+  <!-- (Warband)Trader -->
+  <!-- (Warband)Peasant -->
+  <!-- (Warband)Conscript -->
+  <!-- (Warband)Archer -->
+  <!-- (Warband)Sapper -->
+  <!-- (Warband)Alternate Sapper -->
+  <!-- (Warband)Squire -->
+  <!-- (Warband)Man at Arms -->
+  <!-- (Warband)Elite Bowman -->
+  <!-- (Warband)Knight -->
+  <!-- (Warband)Royal Guard -->
+  <!-- (Warband)God King -->
+
+</LanguageData>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recurved Bow & Ammo -->
+
+  <Medieval_Arrow_Recurve.label>反曲弓矢</Medieval_Arrow_Recurve.label>
+
+  <MedTimes_Ranged_Recurve.label>反曲弓</MedTimes_Ranged_Recurve.label>
+  <MedTimes_Ranged_Recurve.description>结构简单却有力的反曲弓。</MedTimes_Ranged_Recurve.description>
+
+
+  <!-- Longbow & Ammo -->
+
+  <Medieval_Arrow_Longbow.label>长弓矢</Medieval_Arrow_Longbow.label>
+
+  <MedTimes_Ranged_Longbow.label>英格兰长弓</MedTimes_Ranged_Longbow.label>
+  <MedTimes_Ranged_Longbow.description>射程极远的英格兰传统长弓，使用臭名昭著的锥子箭。\n\n译者注：扯淡，有轻、重箭之分。</MedTimes_Ranged_Longbow.description>
+
+
+  <!-- Crossbow & Ammo -->
+
+  <Medieval_Bolt_Crossbow.label>十字弩矢</Medieval_Bolt_Crossbow.label>
+
+  <MedTimes_Ranged_Crossbow.label>十字弩</MedTimes_Ranged_Crossbow.label>
+  <MedTimes_Ranged_Crossbow.description>十字弩，比普通的弓更容易使用，射击更加精准，但装填更慢。</MedTimes_Ranged_Crossbow.description>
+
+  <MedTimes_Ranged_HandCrossbow.label>单手弩</MedTimes_Ranged_HandCrossbow.label>
+  <MedTimes_Ranged_HandCrossbow.description>小型单手弩，比普通的弓更容易使用，射击更加精准，但装填更慢。</MedTimes_Ranged_HandCrossbow.description>
+
+
+  <!-- Arbalest & Ammo -->
+
+  <Medieval_Bolt_Arbalest.label>劲弩矢</Medieval_Bolt_Arbalest.label>
+
+  <MedTimes_Ranged_Arbalest.label>十字劲弩</MedTimes_Ranged_Arbalest.label>
+  <MedTimes_Ranged_Arbalest.description>一把由先进的技术和回火钢制成的巨弩。\n\n译者注：Arbalest是12世纪在欧洲出现的变种弩，这才是真正的使用钢制弩弓的一种弩。由于其弩弓太硬有时候还会配上辅助上弦的装置。</MedTimes_Ranged_Arbalest.description>
+
+
+</LanguageData>

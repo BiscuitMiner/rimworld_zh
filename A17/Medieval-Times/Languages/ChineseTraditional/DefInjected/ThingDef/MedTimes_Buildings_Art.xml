@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Small Ice Sculpture -->
+
+  <MedTimes_IceSculptureSmall.label>小冰雕</MedTimes_IceSculptureSmall.label>
+  <MedTimes_IceSculptureSmall.description>由一塊軀幹大小的材料塑造而成的藝術品。</MedTimes_IceSculptureSmall.description>
+  <MedTimes_IceSculptureSmall_Blueprint_Install.label>小冰雕(藍圖)</MedTimes_IceSculptureSmall_Blueprint_Install.label>
+
+
+  <!-- Large Ice Sculpture -->
+
+  <MedTimes_IceSculptureLarge.label>大冰雕</MedTimes_IceSculptureLarge.label>
+  <MedTimes_IceSculptureLarge.description>由一塊成人大小的材料塑造而成的藝術品。</MedTimes_IceSculptureLarge.description>
+  <MedTimes_IceSculptureLarge_Blueprint_Install.label>大冰雕(藍圖)</MedTimes_IceSculptureLarge_Blueprint_Install.label>
+
+
+  <!-- Grand Ice Sculpture -->
+
+  <MedTimes_IceSculptureGrand.label>宏偉冰雕</MedTimes_IceSculptureGrand.label>
+  <MedTimes_IceSculptureGrand.description>由一塊汽車大小的材料塑造而成的藝術品。</MedTimes_IceSculptureGrand.description>
+  <MedTimes_IceSculptureGrand_Blueprint_Install.label>宏偉冰雕(藍圖)</MedTimes_IceSculptureGrand_Blueprint_Install.label>
+
+
+  <!-- Random Number God Shrine -->
+
+  <MedTimes_Shrine_RandomNumberGod.label>隨機數之神的神龕</MedTimes_Shrine_RandomNumberGod.label>
+  <MedTimes_Shrine_RandomNumberGod.description>"讚美他的榮光，隨機數之神能賜予我們一切，也能奪走一切。噢，偉大的隨機數之神啊，您的榮耀之手將指引我，當有幾率失敗時，當恐懼包圍我時，您，只有您在黑暗中閃耀著一絲微光。"</MedTimes_Shrine_RandomNumberGod.description>
+  <MedTimes_Shrine_RandomNumberGod_Blueprint_Install.label>隨機數之神的神龕(藍圖)</MedTimes_Shrine_RandomNumberGod_Blueprint_Install.label>
+
+
+  <!-- Shrine to the Creator -->
+
+  <MedTimes_Shrine_Creator.label>造物主的神龕</MedTimes_Shrine_Creator.label>
+  <MedTimes_Shrine_Creator.description>有人說我們的宇宙是由一個強大的存在創造的，命運之線是早就被編織好的。世界的法則和我們的存在早已揭示了我們其實是被一個極其強大的個體所創造。在世界諸神之中我們將其稱之為泰南（Tynan），偉大的造物主。我們意識到，全能的神可以因一時興起而改變我們的世界，只有向他表示敬意，才能避免他降下的怒火。譯者注：Tynan是rimworld的作者。</MedTimes_Shrine_Creator.description>
+  <MedTimes_Shrine_Creator_Blueprint_Install.label>造物主的神龕(藍圖)</MedTimes_Shrine_Creator_Blueprint_Install.label>
+
+
+  <!-- God King's Throne -->
+
+  <MedTimes_GodKingThrone.label>領主的寶座</MedTimes_GodKingThrone.label>
+  <MedTimes_GodKingThrone.description>[舒適度x1.8](美觀度+300)這種富麗堂皇又高冷的玩意專屬於那些自大的上等人。它擁有又大又軟的墊子，非常適合休息...和坐在上面作威作福。</MedTimes_GodKingThrone.description>
+  <MedTimes_GodKingThrone_Blueprint_Install.label>領主的寶座(藍圖)</MedTimes_GodKingThrone_Blueprint_Install.label>
+
+
+</LanguageData>

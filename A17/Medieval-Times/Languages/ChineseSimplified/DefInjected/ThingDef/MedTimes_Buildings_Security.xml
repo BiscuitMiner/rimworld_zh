@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Medieval Bolt, In-Motion -->
+
+  <MedTimes_Bolt_Ballista.label>重型弩箭</MedTimes_Bolt_Ballista.label>
+
+
+  <!-- Wood Pitch, In Motion -->
+
+  <MedTimes_Round_Quicklime.label>飞溅的石灰焦油</MedTimes_Round_Quicklime.label>
+
+
+  <!-- Explosive Pot, In Motion -->
+
+  <MedTimes_Round_ExplosivePot.label>爆炸罐范围</MedTimes_Round_ExplosivePot.label>
+
+
+  <!-- Medieval Ballista, Turrent -->
+
+  <MedTimes_Turrent_BallistaTop.label>床弩发射器</MedTimes_Turrent_BallistaTop.label>
+  <MedTimes_Turrent_BallistaTop.description>像十字弩的大型武器。</MedTimes_Turrent_BallistaTop.description>
+
+
+  <!-- Medieval Murder Hole, Artillery -->
+
+  <MedTimes_Artillery_MurderHoleTop.label>屠杀孔</MedTimes_Artillery_MurderHoleTop.label>
+  <MedTimes_Artillery_MurderHoleTop.description>石灰焦油弹发射器。发射可以越过墙壁的石灰焦油弹，准确但射程很短。</MedTimes_Artillery_MurderHoleTop.description>
+
+
+  <!-- Medieval Catapult, Artillery -->
+
+  <MedTimes_Artillery_CatapultTop.label>中世纪投石器</MedTimes_Artillery_CatapultTop.label>
+  <MedTimes_Artillery_CatapultTop.description>燃烧弹发射器。发射可以越过墙壁的燃烧弹，准确但射程很短。</MedTimes_Artillery_CatapultTop.description>
+
+
+  <!-- Wooden Barricade -->
+
+  <MedTimes_Trap_WoodenBarricade.label>木制路障</MedTimes_Trap_WoodenBarricade.label>
+  <MedTimes_Trap_WoodenBarricade.description>[陷阱：伤害~10](美观度-5)这样架起来的尖锐木头使得在不花费大量时间或者受到伤害的前提下安全通过这里变得困难起来。\n\n(谨记，一旦一个敌人趟过了一个路障，所有与之相邻的路障都不再视为障碍。为了保持有威慑力的障碍区，在中间留出空隙，使得敌人需要踩着陷阱进来踩着陷阱出去)</MedTimes_Trap_WoodenBarricade.description>
+  <MedTimes_Trap_WoodenBarricade_Blueprint.label>木制路障(蓝图)</MedTimes_Trap_WoodenBarricade_Blueprint.label>
+  <MedTimes_Trap_WoodenBarricade_Blueprint_Install.label>木制路障(蓝图)</MedTimes_Trap_WoodenBarricade_Blueprint_Install.label>
+  <MedTimes_Trap_WoodenBarricade_Frame.label>木制路障(建造中)</MedTimes_Trap_WoodenBarricade_Frame.label>
+  <MedTimes_Trap_WoodenBarricade_Frame.description>[陷阱：伤害~10](美观度-5)这样架起来的尖锐木头使得在不花费大量时间或者受到伤害的前提下安全通过这里变得困难起来。\n\n(谨记，一旦一个敌人趟过了一个路障，所有与之相邻的路障都不再视为障碍。为了保持有威慑力的障碍区，在中间留出空隙，使得敌人需要踩着陷阱进来踩着陷阱出去)</MedTimes_Trap_WoodenBarricade_Frame.description>
+
+  <MedTimes_Trap_Caltrops.label>铁蒺藜</MedTimes_Trap_Caltrops.label>
+  <MedTimes_Trap_Caltrops.description>[陷阱：伤害~15](美观度-5)这样铺设的小金属钉使得在不花费大量时间或者受到伤害的前提下安全通过这里变得困难起来,与木制路障不同的是具有低可燃性。\n\n(谨记，一旦一个敌人趟过了一个路障，所有与之相邻的路障都不再视为障碍。为了保持有威慑力的障碍区，在中间留出空隙，使得敌人需要踩着陷阱进来踩着陷阱出去)</MedTimes_Trap_Caltrops.description>
+  <MedTimes_Trap_Caltrops_Blueprint.label>铁蒺藜(蓝图)</MedTimes_Trap_Caltrops_Blueprint.label>
+  <MedTimes_Trap_Caltrops_Blueprint_Install.label>铁蒺藜(蓝图)</MedTimes_Trap_Caltrops_Blueprint_Install.label>
+  <MedTimes_Trap_Caltrops_Frame.label>铁蒺藜(建造中)</MedTimes_Trap_Caltrops_Frame.label>
+  <MedTimes_Trap_Caltrops_Frame.description>[陷阱：伤害~15](美观度-5)这样铺设的小金属钉使得在不花费大量时间或者受到伤害的前提下安全通过这里变得困难起来,与木制路障不同的是具有低可燃性。\n\n(谨记，一旦一个敌人趟过了一个路障，所有与之相邻的路障都不再视为障碍。为了保持有威慑力的障碍区，在中间留出空隙，使得敌人需要踩着陷阱进来踩着陷阱出去)</MedTimes_Trap_Caltrops_Frame.description>
+
+
+  <!-- Ballista -->
+
+  <MedTimes_Turrent_Ballista.label>床弩</MedTimes_Turrent_Ballista.label>
+  <MedTimes_Turrent_Ballista.description>[炮台：伤害~35，必须有人操纵。](美观度-5)一种最初由罗马人发明的大型攻城武器。发射重型十字弩箭。</MedTimes_Turrent_Ballista.description>
+  <MedTimes_Turrent_Ballista_Blueprint.label>床弩(蓝图)</MedTimes_Turrent_Ballista_Blueprint.label>
+  <MedTimes_Turrent_Ballista_Blueprint_Install.label>床弩(蓝图)</MedTimes_Turrent_Ballista_Blueprint_Install.label>
+  <MedTimes_Turrent_Ballista_Frame.label>床弩(建造中)</MedTimes_Turrent_Ballista_Frame.label>
+  <MedTimes_Turrent_Ballista_Frame.description>[炮台：伤害~35，必须有人操纵。](美观度-5)一种最初由罗马人发明的大型攻城武器。发射重型十字弩箭。</MedTimes_Turrent_Ballista_Frame.description>
+
+
+  <!-- Murder Hole -->
+
+  <MedTimes_Artillery_MurderHole.label>屠杀孔</MedTimes_Artillery_MurderHole.label>
+  <MedTimes_Artillery_MurderHole.description>[炮台：伤害~15，燃烧弹，必须有人操纵。](弹药:石灰焦油弹)(美观度-15，清洁度-10)储存并抛射滚烫的热油和燃烧的引火物的东西。它的术语其实叫做堞口（Machicolation），但叫做屠杀孔更有趣。必须有人操作！\n\n译者注：自己发明奇怪的新单词一点也不有趣！这个东西其实是城堡突出部的防御工事。就是那个在影视作品中常见的，把大门一关，门口的天花板打开往下倒热油那个玩意儿。</MedTimes_Artillery_MurderHole.description>
+  <MedTimes_Artillery_MurderHole_Blueprint.label>屠杀孔(蓝图)</MedTimes_Artillery_MurderHole_Blueprint.label>
+  <MedTimes_Artillery_MurderHole_Frame.label>屠杀孔(建造中)</MedTimes_Artillery_MurderHole_Frame.label>
+  <MedTimes_Artillery_MurderHole_Frame.description>[炮台：伤害~15，燃烧弹，必须有人操纵。](弹药:石灰焦油弹)(美观度-15，清洁度-10)储存并抛射滚烫的热油和燃烧的引火物的东西。它的术语其实叫做堞口（Machicolation），但叫做屠杀孔更有趣。必须有人操作！</MedTimes_Artillery_MurderHole_Frame.description>
+
+
+  <!-- Catapult -->
+
+  <MedTimes__Artillery_Catapult.label>投石机</MedTimes__Artillery_Catapult.label>
+  <MedTimes__Artillery_Catapult.description>[炮台：伤害~25,燃烧弹，必须有人操纵。](弹药:爆炸罐)(美观度-5)发射爆炸/燃烧弹药的投射装置。</MedTimes__Artillery_Catapult.description>
+  <MedTimes__Artillery_Catapult_Blueprint.label>投石机(蓝图)</MedTimes__Artillery_Catapult_Blueprint.label>
+  <MedTimes__Artillery_Catapult_Blueprint_Install.label>投石机(蓝图)</MedTimes__Artillery_Catapult_Blueprint_Install.label>
+  <MedTimes__Artillery_Catapult_Frame.label>投石机(建造中)</MedTimes__Artillery_Catapult_Frame.label>
+  <MedTimes__Artillery_Catapult_Frame.description>[炮台：伤害~25,燃烧弹，必须有人操纵。](弹药:爆炸罐)(美观度-5)发射爆炸/燃烧弹药的投射装置。</MedTimes__Artillery_Catapult_Frame.description>
+
+
+  <!-- Medieval Bolt，In-Motion -->
+  <!-- Wood Pitch，In Motion -->
+  <!-- Explosive Pot，In Motion -->
+  <!-- Medieval Ballista，Turrent -->
+  <!-- Medieval Murder Hole，Artillery -->
+  <!-- Medieval Catapult，Artillery -->
+
+</LanguageData>

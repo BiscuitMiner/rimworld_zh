@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Embrasure Wall -->
+
+  <MedTimes_Wall_Embrasure.label>垛口</MedTimes_Wall_Embrasure.label>
+  <MedTimes_Wall_Embrasure.description>一道有著狭窄垂直小缝的墙，射手可以进行射击。(不同于普通射击墙，敌人可以攀爬上来)</MedTimes_Wall_Embrasure.description>
+  <MedTimes_Wall_Embrasure_Blueprint.label>垛口(蓝图)</MedTimes_Wall_Embrasure_Blueprint.label>
+  <MedTimes_Wall_Embrasure_Frame.label>垛口(建造中)</MedTimes_Wall_Embrasure_Frame.label>
+  <MedTimes_Wall_Embrasure_Frame.description>一道有著狭窄垂直小缝的墙，射手可以进行射击。(不同于普通射击墙，敌人可以攀爬上来)</MedTimes_Wall_Embrasure_Frame.description>
+
+
+  <!-- Parapet -->
+
+  <MedTimes_Wall_Parapet.label>矮护墙</MedTimes_Wall_Parapet.label>
+  <MedTimes_Wall_Parapet.description>一种加固的矮墙，设计和建造用来防御投射物的攻击。它被设计为略高于腰部并拥有用来射击的垛口。它的运作方式除了可以使用各种材料外类似于沙袋。</MedTimes_Wall_Parapet.description>
+  <MedTimes_Wall_Parapet_Blueprint.label>矮护墙(蓝图)</MedTimes_Wall_Parapet_Blueprint.label>
+  <MedTimes_Wall_Parapet_Frame.label>矮护墙(建造中)</MedTimes_Wall_Parapet_Frame.label>
+  <MedTimes_Wall_Parapet_Frame.description>一种加固的矮墙，设计和建造用来防御投射物的攻击。它被设计为略高于腰部并拥有用来射击的垛口。它的运作方式除了可以使用各种材料外类似于沙袋。</MedTimes_Wall_Parapet_Frame.description>
+
+
+  <!-- Ice Wall -->
+
+  <MedTimes_Wall_Ice.label>冰墙</MedTimes_Wall_Ice.label>
+  <MedTimes_Wall_Ice.description>(温度高于冰点会逐渐毁坏)由冰块组成的墙。需要大量工作但耗费很少资源的中世纪科技。它主要由压实的冰块组成。</MedTimes_Wall_Ice.description>
+  <MedTimes_Wall_Ice_Blueprint.label>冰墙(蓝图)</MedTimes_Wall_Ice_Blueprint.label>
+  <MedTimes_Wall_Ice_Frame.label>冰墙(建造中)</MedTimes_Wall_Ice_Frame.label>
+  <MedTimes_Wall_Ice_Frame.description>(温度高于冰点会逐渐毁坏)由冰块组成的墙。需要大量工作但耗费很少资源的中世纪科技。它主要由压实的冰块组成。</MedTimes_Wall_Ice_Frame.description>
+
+
+  <!-- Ice Wall Embrasure Wall -->
+
+  <MedTimes_Wall_IceEmbrasure.label>冰垛口</MedTimes_Wall_IceEmbrasure.label>
+  <MedTimes_Wall_IceEmbrasure.description>(温度高于冰点会逐渐毁坏)一道有著狭窄垂直小缝的墙，射手可以进行射击。(不同于普通射击墙，敌人可以攀爬上来)</MedTimes_Wall_IceEmbrasure.description>
+  <MedTimes_Wall_IceEmbrasure_Blueprint.label>冰垛口(蓝图)</MedTimes_Wall_IceEmbrasure_Blueprint.label>
+  <MedTimes_Wall_IceEmbrasure_Frame.label>冰垛口(建造中)</MedTimes_Wall_IceEmbrasure_Frame.label>
+  <MedTimes_Wall_IceEmbrasure_Frame.description>(温度高于冰点会逐渐毁坏)一道有著狭窄垂直小缝的墙，射手可以进行射击。(不同于普通射击墙，敌人可以攀爬上来)</MedTimes_Wall_IceEmbrasure_Frame.description>
+
+
+  <!-- Ice Wall Parapet -->
+
+  <MedTimes_Wall_IceParapet.label>冰矮护墙</MedTimes_Wall_IceParapet.label>
+  <MedTimes_Wall_IceParapet.description>(温度高于冰点会逐渐毁坏)一种加固的矮墙，设计和建造用来防御投射物的攻击。它被设计为略高于腰部并拥有用来射击的垛口。它的运作方式除了可以使用各种材料外类似于沙袋。</MedTimes_Wall_IceParapet.description>
+  <MedTimes_Wall_IceParapet_Blueprint.label>冰矮护墙(蓝图)</MedTimes_Wall_IceParapet_Blueprint.label>
+  <MedTimes_Wall_IceParapet_Frame.label>冰矮护墙(建造中)</MedTimes_Wall_IceParapet_Frame.label>
+  <MedTimes_Wall_IceParapet_Frame.description>(温度高于冰点会逐渐毁坏)一种加固的矮墙，设计和建造用来防御投射物的攻击。它被设计为略高于腰部并拥有用来射击的垛口。它的运作方式除了可以使用各种材料外类似于沙袋。</MedTimes_Wall_IceParapet_Frame.description>
+
+
+  <!-- Wooden Gate -->
+
+  <MedTimes_Gate_Wooden.label>木制栅栏门</MedTimes_Gate_Wooden.label>
+  <MedTimes_Gate_Wooden.description>和木制栅栏相搭配的栅栏门。只能手动开关，会减慢人的速度。</MedTimes_Gate_Wooden.description>
+  <MedTimes_Gate_Wooden_Blueprint.label>木制栅栏门(蓝图)</MedTimes_Gate_Wooden_Blueprint.label>
+  <MedTimes_Gate_Wooden_Frame.label>木制栅栏门(建造中)</MedTimes_Gate_Wooden_Frame.label>
+  <MedTimes_Gate_Wooden_Frame.description>和木制栅栏相搭配的栅栏门。只能手动开关，会减慢人的速度。</MedTimes_Gate_Wooden_Frame.description>
+
+
+  <!-- Wooden Fencing -->
+
+  <MedTimes_Fencing_Wooden.label>木质栅栏</MedTimes_Fencing_Wooden.label>
+  <MedTimes_Fencing_Wooden.description>简单的用来保护农田不受野生动物侵害的栅栏，造价便宜，对付敌人没什么用。</MedTimes_Fencing_Wooden.description>
+  <MedTimes_Fencing_Wooden_Blueprint.label>木质栅栏(蓝图)</MedTimes_Fencing_Wooden_Blueprint.label>
+  <MedTimes_Fencing_Wooden_Frame.label>木质栅栏(建造中)</MedTimes_Fencing_Wooden_Frame.label>
+  <MedTimes_Fencing_Wooden_Frame.description>简单的用来保护农田不受野生动物侵害的栅栏，造价便宜，对付敌人没什么用。</MedTimes_Fencing_Wooden_Frame.description>
+
+
+</LanguageData>

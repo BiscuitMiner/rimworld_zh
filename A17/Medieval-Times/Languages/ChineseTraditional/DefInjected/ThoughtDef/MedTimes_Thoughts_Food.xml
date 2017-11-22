@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Basic quality thoughts -->
+
+  <MedTimes_AteHeartyStew.stages.0.label>吃了豐盛燉菜</MedTimes_AteHeartyStew.stages.0.label>
+  <MedTimes_AteHeartyStew.stages.0.description>這豐盛燉菜簡直太棒了，我覺得我的身體和靈魂都被滋養了。</MedTimes_AteHeartyStew.stages.0.description>
+
+  <MedTimes_AteWeakStew.stages.0.label>吃了簡易燉菜</MedTimes_AteWeakStew.stages.0.label>
+  <MedTimes_AteWeakStew.stages.0.description>我吃了簡易燉菜，雖然並不是很多，但是它是即溫暖又美味的。吃飽喝足，至少我現在是這樣。</MedTimes_AteWeakStew.stages.0.description>
+
+  <MedTimes_AteCheese.stages.0.label>吃了奶酪</MedTimes_AteCheese.stages.0.label>
+  <MedTimes_AteCheese.stages.0.description>我吃了一些奶酪！神啊，我還想要！</MedTimes_AteCheese.stages.0.description>
+
+  <MedTimes_AteDried.stages.0.label>吃了燻制食物</MedTimes_AteDried.stages.0.label>
+  <MedTimes_AteDried.stages.0.description>我吃了一些燻乾的食物。我喜歡它們，又簡單又好吃。</MedTimes_AteDried.stages.0.description>
+
+
+</LanguageData>

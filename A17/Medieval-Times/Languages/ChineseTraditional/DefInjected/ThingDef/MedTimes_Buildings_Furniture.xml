@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Street Lamp -->
+
+  <MedTimes_StreetLamp.label>街燈</MedTimes_StreetLamp.label>
+  <MedTimes_StreetLamp.description>(發光半徑:12，無可種植範圍，不受雨水傷害)(熱功率:2)(燃料消耗速度:1)(清潔度-3)掛有燃著一小團火焰的金屬籠子的木樁。有著鮮明中世紀風格的照明設施，用木頭作為燃料。</MedTimes_StreetLamp.description>
+  <MedTimes_StreetLamp_Blueprint.label>街燈(藍圖)</MedTimes_StreetLamp_Blueprint.label>
+  <MedTimes_StreetLamp_Blueprint_Install.label>街燈(藍圖)</MedTimes_StreetLamp_Blueprint_Install.label>
+  <MedTimes_StreetLamp_Frame.label>街燈(建造中)</MedTimes_StreetLamp_Frame.label>
+  <MedTimes_StreetLamp_Frame.description>(發光半徑:12，無可種植範圍,不受雨水傷害)(熱功率:2)(燃料消耗速度:1)(清潔度-3)掛有燃著一小團火焰的金屬籠子的木樁。有著鮮明中世紀風格的照明設施，用木頭作為燃料。</MedTimes_StreetLamp_Frame.description>
+
+
+  <!-- Brazier -->
+
+  <MedTimes_Brazier.label>火盆</MedTimes_Brazier.label>
+  <MedTimes_Brazier.description>(發光半徑:8，無可種植範圍,不受雨水傷害)(熱功率:2)(燃料消耗速度:1)(美觀度+5，清潔度-3)燃著一小團火焰的金屬盆。有著鮮明中世紀風格的照明設施。</MedTimes_Brazier.description>
+  <MedTimes_Brazier_Blueprint.label>火盆(藍圖)</MedTimes_Brazier_Blueprint.label>
+  <MedTimes_Brazier_Blueprint_Install.label>火盆(藍圖)</MedTimes_Brazier_Blueprint_Install.label>
+  <MedTimes_Brazier_Frame.label>火盆(建造中)</MedTimes_Brazier_Frame.label>
+  <MedTimes_Brazier_Frame.description>(發光半徑:8，無可種植範圍,不受雨水傷害)(熱功率:2)(燃料消耗速度:1)(美觀度+5，清潔度-3)燃著一小團火焰的金屬盆。有著鮮明中世紀風格的照明設施。</MedTimes_Brazier_Frame.description>
+
+
+  <!-- Reflector -->
+
+  <MedTimes_Reflector.label>光線反射器</MedTimes_Reflector.label>
+  <MedTimes_Reflector.description>(發光半徑:3，可種植範圍:3,不受雨水傷害)(熱功率:2)(煤炭消耗:5)(美觀度+5，清潔度-3)高度拋光的金屬可以在小範圍內反射大量的火光。不是最好的種植方法但聊勝於無。產生這麼高的亮度需要煤作為燃料。</MedTimes_Reflector.description>
+  <MedTimes_Reflector_Blueprint.label>光線反射器(藍圖)</MedTimes_Reflector_Blueprint.label>
+  <MedTimes_Reflector_Blueprint_Install.label>光線反射器(藍圖)</MedTimes_Reflector_Blueprint_Install.label>
+  <MedTimes_Reflector_Frame.label>光線反射器(建造中)</MedTimes_Reflector_Frame.label>
+  <MedTimes_Reflector_Frame.description>(發光半徑:3，可種植範圍:3,不受雨水傷害)(熱功率:2)(煤炭消耗:5)(美觀度+5，清潔度-3)高度拋光的金屬可以在小範圍內反射大量的火光。不是最好的種植方法但聊勝於無。產生這麼高的亮度需要煤作為燃料。</MedTimes_Reflector_Frame.description>
+
+
+  <!-- Small Table -->
+
+  <MedTimes_SmallTable.label>小桌子</MedTimes_SmallTable.label>
+  <MedTimes_SmallTable.description>可以用於吃東西的小桌子。也可以用來看書或者遊戲。</MedTimes_SmallTable.description>
+  <MedTimes_SmallTable_Blueprint.label>小桌子(藍圖)</MedTimes_SmallTable_Blueprint.label>
+  <MedTimes_SmallTable_Blueprint_Install.label>小桌子(藍圖)</MedTimes_SmallTable_Blueprint_Install.label>
+  <MedTimes_SmallTable_Frame.label>小桌子(建造中)</MedTimes_SmallTable_Frame.label>
+  <MedTimes_SmallTable_Frame.description>可以用於吃東西的小桌子。也可以用來看書或者遊戲。</MedTimes_SmallTable_Frame.description>
+
+
+  <!-- Personal Computer -->
+
+  <MedTimes_PersonalComputer.label>個人電腦</MedTimes_PersonalComputer.label>
+  <MedTimes_PersonalComputer.description>一台個人電腦可以滿足你所有的遊戲需求。它甚至預裝了一些現在最流行的遊戲。對於某些人來說這是用來放鬆和娛樂的愛好。</MedTimes_PersonalComputer.description>
+  <MedTimes_PersonalComputer_Blueprint.label>個人電腦(藍圖)</MedTimes_PersonalComputer_Blueprint.label>
+  <MedTimes_PersonalComputer_Blueprint_Install.label>個人電腦(藍圖)</MedTimes_PersonalComputer_Blueprint_Install.label>
+  <MedTimes_PersonalComputer_Frame.label>個人電腦(建造中)</MedTimes_PersonalComputer_Frame.label>
+  <MedTimes_PersonalComputer_Frame.description>一台個人電腦可以滿足你所有的遊戲需求。它甚至預裝了一些現在最流行的遊戲。對於某些人來說這是用來放鬆和娛樂的愛好。</MedTimes_PersonalComputer_Frame.description>
+
+
+  <!-- Combat Stand -->
+
+  <MedTimes_CombatStandPlaced.label>戰爭儲備箱</MedTimes_CombatStandPlaced.label>
+  <MedTimes_CombatStandPlaced.description>儲存於此的物品即使露天也不會老化。</MedTimes_CombatStandPlaced.description>
+  <MedTimes_CombatStandPlaced_Blueprint.label>戰爭儲備箱(藍圖)</MedTimes_CombatStandPlaced_Blueprint.label>
+  <MedTimes_CombatStandPlaced_Blueprint_Install.label>戰爭儲備箱(藍圖)</MedTimes_CombatStandPlaced_Blueprint_Install.label>
+  <MedTimes_CombatStandPlaced_Frame.label>戰爭儲備箱(建造中)</MedTimes_CombatStandPlaced_Frame.label>
+  <MedTimes_CombatStandPlaced_Frame.description>儲存於此的物品即使露天也不會老化。</MedTimes_CombatStandPlaced_Frame.description>
+
+
+  <!-- Storage Pot -->
+
+  <MedTimes_FuelRack.label>燃料架</MedTimes_FuelRack.label>
+  <MedTimes_FuelRack.description>儲存於此的物品即使露天也不會老化。</MedTimes_FuelRack.description>
+  <MedTimes_FuelRack_Blueprint.label>燃料架(藍圖)</MedTimes_FuelRack_Blueprint.label>
+  <MedTimes_FuelRack_Blueprint_Install.label>燃料架(藍圖)</MedTimes_FuelRack_Blueprint_Install.label>
+  <MedTimes_FuelRack_Frame.label>燃料架(建造中)</MedTimes_FuelRack_Frame.label>
+  <MedTimes_FuelRack_Frame.description>儲存於此的物品即使露天也不會老化。</MedTimes_FuelRack_Frame.description>
+
+  <MedTimes_StoragePotPlaced.label>儲物罐</MedTimes_StoragePotPlaced.label>
+  <MedTimes_StoragePotPlaced.description>儲存於此的物品即使露天也不會老化。</MedTimes_StoragePotPlaced.description>
+  <MedTimes_StoragePotPlaced_Blueprint.label>儲物罐(藍圖)</MedTimes_StoragePotPlaced_Blueprint.label>
+  <MedTimes_StoragePotPlaced_Blueprint_Install.label>儲物罐(藍圖)</MedTimes_StoragePotPlaced_Blueprint_Install.label>
+  <MedTimes_StoragePotPlaced_Frame.label>儲物罐(建造中)</MedTimes_StoragePotPlaced_Frame.label>
+  <MedTimes_StoragePotPlaced_Frame.description>儲存於此的物品即使露天也不會老化。</MedTimes_StoragePotPlaced_Frame.description>
+
+
+  <!-- SmallTable -->
+  <!-- PersonalComputer -->
+  <!-- CombatStand -->
+
+</LanguageData>

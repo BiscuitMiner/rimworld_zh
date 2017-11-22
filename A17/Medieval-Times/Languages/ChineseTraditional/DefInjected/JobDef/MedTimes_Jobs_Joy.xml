@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Stoking Fire -->
+
+  <MedTimes_AttendFire.reportString>參與並引燃火焰。</MedTimes_AttendFire.reportString>
+
+
+  <!-- R.N.G. Praying -->
+
+  <MedTimes_Prayer_RNG.reportString>向幾位神靈祈禱。</MedTimes_Prayer_RNG.reportString>
+
+
+  <!-- The Creator Praying -->
+
+  <MedTimes_Prayer_Creator.reportString>向造物主Tynan祈禱。</MedTimes_Prayer_Creator.reportString>
+
+
+  <!-- Personal Desk interaction -->
+
+  <MedTimes_DeskJoyReading.reportString>閱讀一本書。</MedTimes_DeskJoyReading.reportString>
+  <MedTimes_DeskJoyReadingShort.reportString>閱讀一篇短篇故事。</MedTimes_DeskJoyReadingShort.reportString>
+  <MedTimes_DeskJoyMagazine.reportString>閱讀一本髒髒的雜誌。</MedTimes_DeskJoyMagazine.reportString>
+  <MedTimes_DeskJoyStory.reportString>正在書寫一篇短篇故事。</MedTimes_DeskJoyStory.reportString>
+  <MedTimes_DeskJoyDraw.reportString>練習繪畫。</MedTimes_DeskJoyDraw.reportString>
+  <MedTimes_DeskJoyPersonalLogs.reportString>寫個人日誌。</MedTimes_DeskJoyPersonalLogs.reportString>
+  <MedTimes_DeskJoyWork.reportString>做記錄，制定計劃，做工作。</MedTimes_DeskJoyWork.reportString>
+
+
+  <!-- Personal Computer interaction -->
+
+  <MedTimes_PCJoyFPS.reportString>用PC玩fps遊戲。</MedTimes_PCJoyFPS.reportString>
+  <MedTimes_PCJoyCombatGame.reportString>用PC玩動作遊戲。</MedTimes_PCJoyCombatGame.reportString>
+  <MedTimes_PCJoyStrategy.reportString>用PC玩策略遊戲。</MedTimes_PCJoyStrategy.reportString>
+  <MedTimes_PCJoySurfing.reportString>用PC瀏覽關於老舊衛星網絡的訊息庫。</MedTimes_PCJoySurfing.reportString>
+  <MedTimes_PCJoyLewd.reportString>用PC做一些不是那麼和諧的事...</MedTimes_PCJoyLewd.reportString>
+  <MedTimes_PCJoyPersonalLogs.reportString>用PC記錄個人日誌。</MedTimes_PCJoyPersonalLogs.reportString>
+  <MedTimes_PCJoyMovies.reportString>用PC看訊息存儲盤中的經典電影。</MedTimes_PCJoyMovies.reportString>
+  <MedTimes_PCJoyModing.reportString>修改PC中的遊戲數據。</MedTimes_PCJoyModing.reportString>
+
+
+</LanguageData>

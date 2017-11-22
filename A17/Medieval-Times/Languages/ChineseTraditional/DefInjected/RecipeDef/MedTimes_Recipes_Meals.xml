@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- (Medieval) Jerked Meats Single -->
+
+  <MedTimes_CookMealJerkedMeats.label>烹製燻肉</MedTimes_CookMealJerkedMeats.label>
+  <MedTimes_CookMealJerkedMeats.description>通過在火上烘焙肉來製作一份相對簡單的食物。 </MedTimes_CookMealJerkedMeats.description>
+  <MedTimes_CookMealJerkedMeats.jobString>烹煮並烘製生肉中</MedTimes_CookMealJerkedMeats.jobString>
+
+
+  <!-- (Medieval) Jerked Meats Bulk -->
+
+  <MedTimes_CookMealJerkedMeatsBulk.label>烹製燻肉(x10)</MedTimes_CookMealJerkedMeatsBulk.label>
+  <MedTimes_CookMealJerkedMeatsBulk.description>通過在火上烘焙肉來製作一些相對簡單的食物。 </MedTimes_CookMealJerkedMeatsBulk.description>
+  <MedTimes_CookMealJerkedMeatsBulk.jobString>烹煮並烘製生肉中</MedTimes_CookMealJerkedMeatsBulk.jobString>
+
+
+  <!-- (Medieval) Dried Agave Fruit Single -->
+
+  <MedTimes_CookMealDriedAgaveFruit.label>烹製龍舌蘭乾果</MedTimes_CookMealDriedAgaveFruit.label>
+  <MedTimes_CookMealDriedAgaveFruit.description>通過在火上烘製水果來製作一份相對簡單的食物。</MedTimes_CookMealDriedAgaveFruit.description>
+  <MedTimes_CookMealDriedAgaveFruit.jobString>烹煮並烘製水果中</MedTimes_CookMealDriedAgaveFruit.jobString>
+
+
+  <!-- (Medieval) Dried Agave Fruits Bulk -->
+
+  <MedTimes_CookMealDriedAgaveFruitBulk.label>烹製龍舌蘭乾果(x10)</MedTimes_CookMealDriedAgaveFruitBulk.label>
+  <MedTimes_CookMealDriedAgaveFruitBulk.description>通過在火上烘製水果來製作一些相對簡單的食物。</MedTimes_CookMealDriedAgaveFruitBulk.description>
+  <MedTimes_CookMealDriedAgaveFruitBulk.jobString>烹煮並烘製水果中</MedTimes_CookMealDriedAgaveFruitBulk.jobString>
+
+
+  <!-- (Medieval) Dried Berries Single -->
+
+  <MedTimes_CookMealDriedBerries.label>烹製煨漿果</MedTimes_CookMealDriedBerries.label>
+  <MedTimes_CookMealDriedBerries.description>通過在火上烘製漿果來製作一份相對簡單的食物。</MedTimes_CookMealDriedBerries.description>
+  <MedTimes_CookMealDriedBerries.jobString>烹煮並烘製水果中</MedTimes_CookMealDriedBerries.jobString>
+
+
+  <!-- (Medieval) Dried Agave Fruits Bulk -->
+
+  <MedTimes_CookMealDriedBerriesBulk.label>烹製煨漿果(x10)</MedTimes_CookMealDriedBerriesBulk.label>
+  <MedTimes_CookMealDriedBerriesBulk.description>通過在火上烘製漿果來製作一些相對簡單的食物。</MedTimes_CookMealDriedBerriesBulk.description>
+  <MedTimes_CookMealDriedBerriesBulk.jobString>烹煮並烘製水果中</MedTimes_CookMealDriedBerriesBulk.jobString>
+
+
+  <!-- (Medieval) Cheese Single -->
+
+  <MedTimes_CookMealCheese.label>製作奶酪</MedTimes_CookMealCheese.label>
+  <MedTimes_CookMealCheese.description>通過向煮沸的奶中添加檸檬汁使得奶中的蛋白質混合在一起。將這些蛋白質倒到一塊布上擠壓成塊，就成了奶酪。</MedTimes_CookMealCheese.description>
+  <MedTimes_CookMealCheese.jobString>正在使奶凝固成乾酪</MedTimes_CookMealCheese.jobString>
+
+
+  <!-- (Medieval) Cheese Bulk -->
+
+  <MedTimes_CookMealCheeseBulk.label>製作奶酪(x10)</MedTimes_CookMealCheeseBulk.label>
+  <MedTimes_CookMealCheeseBulk.description>通過向煮沸的奶中添加檸檬汁使得奶中的蛋白質混合在一起。將這些蛋白質倒到一塊布上擠壓成塊，就成了奶酪。</MedTimes_CookMealCheeseBulk.description>
+  <MedTimes_CookMealCheeseBulk.jobString>正在使奶凝固成乾酪</MedTimes_CookMealCheeseBulk.jobString>
+
+
+  <!-- (Medieval) Weak Stew -->
+
+  <MedTimes_CookMealWeakStew.label>烹飪簡易燉菜</MedTimes_CookMealWeakStew.label>
+  <MedTimes_CookMealWeakStew.description>用少許材料來烹製一份簡易的燉菜。</MedTimes_CookMealWeakStew.description>
+  <MedTimes_CookMealWeakStew.jobString>正在烹飪簡易燉菜</MedTimes_CookMealWeakStew.jobString>
+
+
+  <!-- (Medieval) Weak Stew Bulk -->
+
+  <MedTimes_CookMealWeakStewBulk.label>烹飪簡易燉菜(x10)</MedTimes_CookMealWeakStewBulk.label>
+  <MedTimes_CookMealWeakStewBulk.description>用少許材料來烹製一鍋簡易的燉菜。</MedTimes_CookMealWeakStewBulk.description>
+  <MedTimes_CookMealWeakStewBulk.jobString>正在烹飪簡易燉菜</MedTimes_CookMealWeakStewBulk.jobString>
+
+
+  <!-- (Medieval) Hearty Stew -->
+
+  <MedTimes_CookMealHeartyStew.label>烹飪豐盛燉菜</MedTimes_CookMealHeartyStew.label>
+  <MedTimes_CookMealHeartyStew.description>用肉和蔬菜來烹製一份相對複雜的餐點。</MedTimes_CookMealHeartyStew.description>
+  <MedTimes_CookMealHeartyStew.jobString>正在烹飪豐盛燉菜</MedTimes_CookMealHeartyStew.jobString>
+
+
+  <!-- (Medieval) Hearty Stew Bulk -->
+
+  <MedTimes_CookMealHeartyStewBulk.label>烹飪豐盛燉菜(x10)</MedTimes_CookMealHeartyStewBulk.label>
+  <MedTimes_CookMealHeartyStewBulk.description>用肉和蔬菜來烹製一鍋相對複雜的餐點。</MedTimes_CookMealHeartyStewBulk.description>
+  <MedTimes_CookMealHeartyStewBulk.jobString>正在烹飪豐盛燉菜</MedTimes_CookMealHeartyStewBulk.jobString>
+
+
+</LanguageData>

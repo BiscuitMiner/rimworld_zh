@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Jerked Meats -->
+
+  <MedTimes_MealJerkedMeats.label>燻肉</MedTimes_MealJerkedMeats.label>
+  <MedTimes_MealJerkedMeats.description>被燻乾的可以長期儲存的肉類。</MedTimes_MealJerkedMeats.description>
+
+
+  <!-- Cheese -->
+
+  <MedTimes_MealCheese.label>奶酪</MedTimes_MealCheese.label>
+  <MedTimes_MealCheese.description>奶酪是牛奶製成的，是牛奶中的蛋白質凝結的意外產物。</MedTimes_MealCheese.description>
+
+
+  <!-- Dried Agave Fruit -->
+
+  <MedTimes_MealDriedAgave.label>龍舌蘭乾果</MedTimes_MealDriedAgave.label>
+  <MedTimes_MealDriedAgave.description>被燻乾的可以長期儲存的龍舌蘭果。</MedTimes_MealDriedAgave.description>
+
+
+  <!-- Dried Berries -->
+
+  <MedTimes_MealDriedBerries.label>煨漿果</MedTimes_MealDriedBerries.label>
+  <MedTimes_MealDriedBerries.description>被燻乾的可以長期儲存的多種漿果。</MedTimes_MealDriedBerries.description>
+
+
+  <!-- Weak Stew -->
+
+  <MedTimes_MealWeakStew.label>簡易燉菜</MedTimes_MealWeakStew.label>
+  <MedTimes_MealWeakStew.description>用少許材料烹制的一鍋簡易燉菜。</MedTimes_MealWeakStew.description>
+
+
+  <!-- Hearty Stew -->
+
+  <MedTimes_MealHeartyStew.label>豐盛燉菜</MedTimes_MealHeartyStew.label>
+  <MedTimes_MealHeartyStew.description>豐盛的燉菜，由多種材料加上合適的火候烹煮而成。</MedTimes_MealHeartyStew.description>
+
+
+</LanguageData>

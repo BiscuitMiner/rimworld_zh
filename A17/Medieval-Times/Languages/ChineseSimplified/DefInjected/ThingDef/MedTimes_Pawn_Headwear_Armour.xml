@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wooden Helmet -->
+
+  <MedTimes_Helmet_Wooden.label>木盔</MedTimes_Helmet_Wooden.label>
+  <MedTimes_Helmet_Wooden.description>(等级:0,轻甲)内填棉花的皮帽，外面覆上了木板抵挡攻击。冬天用很暖和。</MedTimes_Helmet_Wooden.description>
+
+
+  <!-- Padded Head-wrap -->
+
+  <MedTimes_Helmet_Headwrap.label>覆铁盔</MedTimes_Helmet_Headwrap.label>
+  <MedTimes_Helmet_Headwrap.description>(等级:1,轻甲)内填棉花的皮帽，外面覆上了铁板抵挡攻击。冬天用很暖和。</MedTimes_Helmet_Headwrap.description>
+
+
+  <!-- Domed Helmet -->
+
+  <MedTimes_Helmet_Domed.label>圆顶头盔</MedTimes_Helmet_Domed.label>
+  <MedTimes_Helmet_Domed.description>(等级:1,重甲)内填棉花的皮帽，上面有一个大圆顶头盔并附有锁链面罩。所有部件组合起来能在不降低移动速度或者能见度的情况下提供良好的防护，这些部件也提供了在冬季的保暖性。</MedTimes_Helmet_Domed.description>
+
+
+  <!-- Sallet Helmet -->
+
+  <MedTimes_Helmet_Sallet.label>轻型钢盔</MedTimes_Helmet_Sallet.label>
+  <MedTimes_Helmet_Sallet.description>(等级:1,重甲)内填棉花的皮帽，上面有一个轻型钢盔并附有锁链面罩。所有部件组合起来能在不降低移动速度或者能见度的情况下提供良好的防护，这些部件也提供了在冬季的保暖性。</MedTimes_Helmet_Sallet.description>
+
+
+  <!-- Nasal Helmet -->
+
+  <MedTimes_Helmet_Nasal.label>诺曼头盔</MedTimes_Helmet_Nasal.label>
+  <MedTimes_Helmet_Nasal.description>(等级:1,重甲)内填棉花的皮帽，上面有一个诺曼头盔并附有锁链面罩。所有部件组合起来能在不降低移动速度或者能见度的情况下提供良好的防护，这些部件也提供了在冬季的保暖性。</MedTimes_Helmet_Nasal.description>
+
+
+  <!-- Bascinet -->
+
+  <MedTimes_Helmet_Bascinet.label>狗面盔</MedTimes_Helmet_Bascinet.label>
+  <MedTimes_Helmet_Bascinet.description>(等级:2,重甲)内填棉花的皮帽，上面有一个狗面盔并附有锁链面罩，这种头盔的面部可以取下来。所有部件组合起来能在不降低移动速度或者能见度的情况下提供良好的防护，这些部件也提供了在冬季的保暖性。</MedTimes_Helmet_Bascinet.description>
+
+
+  <!-- Conical Bascinet -->
+
+  <MedTimes_Helmet_ConicalBascinet.label>锥形狗面盔</MedTimes_Helmet_ConicalBascinet.label>
+  <MedTimes_Helmet_ConicalBascinet.description>(等级:2,重甲)内填棉花的皮帽，上面有一个锥形狗面盔并附有锁链面罩，这种头盔的面部可以取下来。所有部件组合起来能在不降低移动速度或者能见度的情况下提供良好的防护，这些部件也提供了在冬季的保暖性。</MedTimes_Helmet_ConicalBascinet.description>
+
+
+  <!-- Royal Mask -->
+
+  <MedTimes_Helmet_RoyalMask.label>皇家面具</MedTimes_Helmet_RoyalMask.label>
+  <MedTimes_Helmet_RoyalMask.description>(等级:2,重甲)内填棉花的皮帽，上面有一个装饰华丽的头盔并附有锁链面罩，这种头盔的面部可以取下来。所有部件组合起来能在不降低移动速度或者能见度的情况下提供良好的防护，这些部件也提供了在冬季的保暖性。</MedTimes_Helmet_RoyalMask.description>
+
+
+  <!-- Death Mask -->
+
+  <MedTimes_Helmet_DeathMask.label>死亡面具</MedTimes_Helmet_DeathMask.label>
+  <MedTimes_Helmet_DeathMask.description>(等级:2,重甲)内填棉花的皮帽，上面有一个装饰华丽的头盔并附有锁链面罩，这种头盔的面部可以取下来。所有部件组合起来能在不降低移动速度或者能见度的情况下提供良好的防护，这些部件也提供了在冬季的保暖性。</MedTimes_Helmet_DeathMask.description>
+
+
+</LanguageData>

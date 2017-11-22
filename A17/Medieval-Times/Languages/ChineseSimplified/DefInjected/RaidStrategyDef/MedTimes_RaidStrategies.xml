@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MedTimes_ImmediateAttack.arrivalTextFriendly>他们会马上过来支援你。</MedTimes_ImmediateAttack.arrivalTextFriendly>
+  <MedTimes_ImmediateAttack.arrivalTextEnemy>他们会立刻发动进攻。</MedTimes_ImmediateAttack.arrivalTextEnemy>
+  <MedTimes_ImmediateAttack.letterLabelEnemy>袭击</MedTimes_ImmediateAttack.letterLabelEnemy>
+  <MedTimes_ImmediateAttack.letterLabelFriendly>友军</MedTimes_ImmediateAttack.letterLabelFriendly>
+
+  <MedTimes_ImmediateAttackSmart.arrivalTextFriendly>他们会马上过来支援你。</MedTimes_ImmediateAttackSmart.arrivalTextFriendly>
+  <MedTimes_ImmediateAttackSmart.arrivalTextEnemy>他们会立刻发动进攻。\n\n注意——他们似乎异常聪明地采取了战术。</MedTimes_ImmediateAttackSmart.arrivalTextEnemy>
+  <MedTimes_ImmediateAttackSmart.letterLabelEnemy>袭击</MedTimes_ImmediateAttackSmart.letterLabelEnemy>
+  <MedTimes_ImmediateAttackSmart.letterLabelFriendly>友军</MedTimes_ImmediateAttackSmart.letterLabelFriendly>
+
+  <MedTimes_ImmediateAttackSmartLarge.arrivalTextFriendly>他们会马上过来支援你。</MedTimes_ImmediateAttackSmartLarge.arrivalTextFriendly>
+  <MedTimes_ImmediateAttackSmartLarge.arrivalTextEnemy>他们会立刻发动进攻。\n\n注意——这支部队规模很大而且异常聪明地采取了战术。</MedTimes_ImmediateAttackSmartLarge.arrivalTextEnemy>
+  <MedTimes_ImmediateAttackSmartLarge.letterLabelEnemy>大规模袭击</MedTimes_ImmediateAttackSmartLarge.letterLabelEnemy>
+  <MedTimes_ImmediateAttackSmartLarge.letterLabelFriendly>友军</MedTimes_ImmediateAttackSmartLarge.letterLabelFriendly>
+
+  <MedTimes_StageThenAttack.arrivalTextFriendly>他们在支援你之前需要再准备一段时间。</MedTimes_StageThenAttack.arrivalTextFriendly>
+  <MedTimes_StageThenAttack.arrivalTextEnemy>有一支大部队要过来摧毁你。\n\n他们会准备一段时间，然后发动攻击。\n\n准备防御或是制敌于先机。</MedTimes_StageThenAttack.arrivalTextEnemy>
+  <MedTimes_StageThenAttack.letterLabelEnemy>大规模袭击</MedTimes_StageThenAttack.letterLabelEnemy>
+  <MedTimes_StageThenAttack.letterLabelFriendly>友军</MedTimes_StageThenAttack.letterLabelFriendly>
+
+  <MedTimes_ImmediateAttackSappers.arrivalTextEnemy>一支小规模的掠夺队接近了。\n\n看起来他们似乎想通过工兵来突破你的防御。\n\n这可能是一队斥候，被派来刺探你的防御实力。</MedTimes_ImmediateAttackSappers.arrivalTextEnemy>
+  <MedTimes_ImmediateAttackSappers.letterLabelEnemy>袭击</MedTimes_ImmediateAttackSappers.letterLabelEnemy>
+
+  <MedTimes_ImmediateAttackSappersLarge.arrivalTextEnemy>一支相当大规模的攻击部队接近了。\n\n看起来他们似乎想通过工兵来突破你的防御。\n\n这回我们可能要完了...</MedTimes_ImmediateAttackSappersLarge.arrivalTextEnemy>
+  <MedTimes_ImmediateAttackSappersLarge.letterLabelEnemy>大规模袭击</MedTimes_ImmediateAttackSappersLarge.letterLabelEnemy>
+
+  <MedTimes_Siege.arrivalTextFriendly>看起来他们想通过围城战术来支援你。</MedTimes_Siege.arrivalTextFriendly>
+  <MedTimes_Siege.arrivalTextEnemy>一支相当大规模的攻击部队接近了。\n\n他们似乎想要包围你的殖民地并用远程武器攻击你——你可以等他们离开，或是主动出击。\n\n呼叫一些援军或许会是个好主意。</MedTimes_Siege.arrivalTextEnemy>
+  <MedTimes_Siege.letterLabelEnemy>大规模围城</MedTimes_Siege.letterLabelEnemy>
+  <MedTimes_Siege.letterLabelFriendly>友军</MedTimes_Siege.letterLabelFriendly>
+
+  <MedTimes_TheKing.arrivalTextFriendly>看来国王决定亲自来协助你了，我们不能确定这会是好事还是灾难...</MedTimes_TheKing.arrivalTextFriendly>
+  <MedTimes_TheKing.arrivalTextEnemy>一支相当大规模的攻击部队接近了。\n\n看起来他们的国王亲自来“照顾”你了...\n\n这回我们可能要完了...\n\n如果我们有任何朋友的话，那么呼叫他们说声再见应该不是什么坏主意...</MedTimes_TheKing.arrivalTextEnemy>
+  <MedTimes_TheKing.letterLabelEnemy>国王攻击</MedTimes_TheKing.letterLabelEnemy>
+  <MedTimes_TheKing.letterLabelFriendly>国王驾到</MedTimes_TheKing.letterLabelFriendly>
+
+  <MedTimes_TheWarlord.arrivalTextFriendly>看起来当地的战争领主决定亲自来协助你了，我们不能确定这会是好事还是灾难...</MedTimes_TheWarlord.arrivalTextFriendly>
+  <MedTimes_TheWarlord.arrivalTextEnemy>一支相当大规模的攻击部队接近了。\n\n看起来他们的领主亲自来“照顾”你了...\n\n这回我们可能要完了...\n\n如果我们有任何朋友的话，那么呼叫他们说声再见应该不是什么坏主意...</MedTimes_TheWarlord.arrivalTextEnemy>
+  <MedTimes_TheWarlord.letterLabelEnemy>战争领主攻击</MedTimes_TheWarlord.letterLabelEnemy>
+  <MedTimes_TheWarlord.letterLabelFriendly>战争领主到来</MedTimes_TheWarlord.letterLabelFriendly>
+
+
+</LanguageData>

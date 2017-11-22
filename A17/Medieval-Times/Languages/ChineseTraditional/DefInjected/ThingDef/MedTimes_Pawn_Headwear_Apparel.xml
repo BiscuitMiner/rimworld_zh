@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Arming Cap -->
+
+  <MedTimes_Headgear_ArmingCap.label>武裝帽</MedTimes_Headgear_ArmingCap.label>
+  <MedTimes_Headgear_ArmingCap.description>用皮革或織物製成的厚帽子。非常適合冬季保暖。</MedTimes_Headgear_ArmingCap.description>
+
+
+  <!-- Winter Hat -->
+
+  <MedTimes_Headgear_WinterHat.label>冬帽</MedTimes_Headgear_WinterHat.label>
+  <MedTimes_Headgear_WinterHat.description>用皮革或織物製成的軟帽，設計簡單但十分保暖。在北方非常受歡迎，同時也是醉鬼們的象徵。</MedTimes_Headgear_WinterHat.description>
+
+
+</LanguageData>

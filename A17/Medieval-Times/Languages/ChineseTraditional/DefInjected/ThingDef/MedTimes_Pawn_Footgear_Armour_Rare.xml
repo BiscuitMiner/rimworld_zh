@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Techno Socks -->
+
+  <MedTimes_Socks_Techno_Art.label>高科技襪子</MedTimes_Socks_Techno_Art.label>
+  <MedTimes_Socks_Techno_Art.description>(人造品)[移動速度:+3%]設計時髦的高科技襪子，為一些星球上的明星或運動員所愛。主要由超級布料製成，有自我調節冷熱的能力，填充有塑形超泡沫材料和超凝膠來確保長期使用的舒適性。正因為如此，它也深受閃耀世界軍事人員的喜愛。</MedTimes_Socks_Techno_Art.description>
+
+
+  <!-- Godking Boots -->
+
+  <MedTimes_Boots_Godking_Art.label>領主之靴</MedTimes_Boots_Godking_Art.label>
+  <MedTimes_Boots_Godking_Art.description>(人造品)[移動速度:+10%][社交效果:+2%]覆有金箔的裝甲靴，這靴子為養尊處優的皇家領主尊貴的腳部而特別設計。用超級布料做花邊，敲擊獸角和稀有毛皮作為裝飾，甚至於底部都是由珍貴稀有的特殊橡膠製成。完美的表現出皇室尊貴的氣息，每走一步都會明確的讓其他人明白誰才是這片土地的主人。</MedTimes_Boots_Godking_Art.description>
+
+
+  <!-- Combat Boots -->
+
+  <MedTimes_Boots_Combat_Art.label>戰鬥靴</MedTimes_Boots_Combat_Art.label>
+  <MedTimes_Boots_Combat_Art.description>(人造品)[移動速度:+10%]由超級布料和塑鋼批量製造的戰鬥靴，經過特殊設計，採用超凝膠和塑形超泡沫材料保證所有使用者腳部的舒適。</MedTimes_Boots_Combat_Art.description>
+
+
+  <!-- Techno Boots -->
+
+  <MedTimes_Boots_Techno_Art.label>高科技靴子</MedTimes_Boots_Techno_Art.label>
+  <MedTimes_Boots_Techno_Art.description>(人造品)[移動速度:+15%]太空科技產物，這些現代科技的奇妙產物是由納米彈性材料加上超微塑鋼反饋塗層而成。它還包括歐米伽絕緣系統、重力液壓輔助系統、熱動力輔助系統和納米觸覺感受器，甚至還使用超凝膠和塑形超泡沫材料來保證靴子與腳的完美契合。</MedTimes_Boots_Techno_Art.description>
+
+
+  <!-- Techno Socks -->
+
+  <MedTimes_Socks_Techno_Leg.label>高科技襪子</MedTimes_Socks_Techno_Leg.label>
+  <MedTimes_Socks_Techno_Leg.description>(傳奇物品)[移動速度:+3%]設計時髦的高科技襪子，為一些星球上的明星或運動員所愛。主要由超級布料製成，有自我調節冷熱的能力，填充有塑形超泡沫材料和超凝膠來確保長期使用的舒適性。正因為如此，它也深受閃耀世界軍事人員的喜愛。</MedTimes_Socks_Techno_Leg.description>
+
+
+  <!-- Godking Boots -->
+
+  <MedTimes_Boots_Godking_Leg.label>領主之靴</MedTimes_Boots_Godking_Leg.label>
+  <MedTimes_Boots_Godking_Leg.description>(傳奇物品)[移動速度:+12%][社交效果:+5%]覆有金箔的裝甲靴，這靴子為養尊處優的皇家領主尊貴的腳部而特別設計。用超級布料做花邊，敲擊獸角和稀有毛皮作為裝飾，甚至於底部都是由珍貴稀有的特殊橡膠製成。完美的表現出皇室尊貴的氣息，每走一步都會明確的讓其他人明白誰才是這片土地的主人。</MedTimes_Boots_Godking_Leg.description>
+
+
+  <!-- Combat Boots -->
+
+  <MedTimes_Boots_Combat_Leg.label>戰鬥靴</MedTimes_Boots_Combat_Leg.label>
+  <MedTimes_Boots_Combat_Leg.description>(傳奇物品)[移動速度:+12%]由超級布料和塑鋼批量製造的戰鬥靴，經過特殊設計，採用超凝膠和塑形超泡沫材料保證所有使用者腳部的舒適。</MedTimes_Boots_Combat_Leg.description>
+
+
+  <!-- Techno Boots -->
+
+  <MedTimes_Boots_Techno_Leg.label>高科技靴子</MedTimes_Boots_Techno_Leg.label>
+  <MedTimes_Boots_Techno_Leg.description>(傳奇物品)[移動速度:+18%]太空科技產物，這些現代科技的奇妙產物是由納米彈性材料加上超微塑鋼反饋塗層而成。它還包括歐米伽絕緣系統、重力液壓輔助系統、熱動力輔助系統和納米觸覺感受器，甚至還使用超凝膠和塑形超泡沫材料來保證靴子與腳的完美契合。</MedTimes_Boots_Techno_Leg.description>
+
+
+</LanguageData>

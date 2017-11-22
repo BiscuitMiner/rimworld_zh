@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Frag grenade -->
+
+  <MedTimes_Ranged_MedievalGrenade_Proj.label>中世紀投彈</MedTimes_Ranged_MedievalGrenade_Proj.label>
+
+  <MedTimes_Ranged_MedievalGrenade.label>中世紀投彈</MedTimes_Ranged_MedievalGrenade.label>
+  <MedTimes_Ranged_MedievalGrenade.description>用陶罐裝滿易燃液體和木瀝青膠。帶有燃燒的燈芯所以撞擊時會爆炸。</MedTimes_Ranged_MedievalGrenade.description>
+  <MedTimes_Ranged_MedievalGrenade.verbs.0.label>投擲中世紀投彈</MedTimes_Ranged_MedievalGrenade.verbs.0.label>
+
+
+  <!-- Holy Hand Grenade -->
+
+  <MedTimes_Ranged_GrenadeAntiochProj.label>神聖手雷</MedTimes_Ranged_GrenadeAntiochProj.label>
+
+  <MedTimes_Ranged_GrenadesAntioch.label>安提阿的神聖手雷</MedTimes_Ranged_GrenadesAntioch.label>
+  <MedTimes_Ranged_GrenadesAntioch.description>(人造品)一次性的聖遺物。非常古老而神聖的遺物，源於二十二世紀末的“大地”和“蒙蒂邪教”。不知道這個東西是如何創造的也不知道為何要創造它，但它無與倫比的威力顯示了它就是存在。\n\n裝備手冊第九至第二十一篇：\n“上帝說：\n首先取下聖栓，\n然後不多不少數到三。\n應該數到三，\n你數到的數字是三。\n你除了數到三，\n既不要數到四，\n也不要數到二，\n五是數多了。\n‘三’一旦被數到，\n成為被數到的第三個數字，\n就高高的向敵人扔出安提拉的神聖手雷。”\n~阿門。\n\n譯者注：這是《巨蟒與聖杯》中的一段，反覆要求數到3，但是亞瑟不識數，所以他數的是“一、二、五”。之後許多作品也這樣調侃...實際上是基督教中叫做(Globus_cruciger)的東西，中文是金蘋果或者十字聖球（我沒翻到比較靠譜的翻譯），象徵宗教權威的東西。</MedTimes_Ranged_GrenadesAntioch.description>
+  <MedTimes_Ranged_GrenadesAntioch.verbs.0.label>投擲神聖手雷</MedTimes_Ranged_GrenadesAntioch.verbs.0.label>
+
+
+  <!-- Holy Hand Grenade Dud -->
+
+  <MedTimes_Ranged_GrenadeAntiochProj_Dud.label>神聖手雷</MedTimes_Ranged_GrenadeAntiochProj_Dud.label>
+
+  <MedTimes_Ranged_GrenadesAntioch_Dud.label>安提阿的神聖手雷</MedTimes_Ranged_GrenadesAntioch_Dud.label>
+  <MedTimes_Ranged_GrenadesAntioch_Dud.description>(人造品)一次性的聖遺物。非常古老而神聖的遺物，源於二十二世紀末的“大地”和“蒙蒂邪教”。不知道這個東西是如何創造的也不知道為何要創造它，但它無與倫比的威力顯示了它就是存在。\n\n裝備手冊第九至第二十一篇：\n“上帝說：\n首先取下聖栓，\n然後不多不少數到三。\n應該數到三，\n你數到的數字是三。\n你除了數到三，\n既不要數到四，\n也不要數到二，\n五是數多了。\n‘三’一旦被數到，\n成為被數到的第三個數字，\n就高高的向敵人扔出安提拉的神聖手雷。”\n~阿門。\n\n譯者注：這是《巨蟒與聖杯》中的一段，反覆要求數到3，但是亞瑟不識數，所以他數的是“一、二、五”。之後許多作品也這樣調侃...實際上是基督教中叫做(Globus_cruciger)的東西，中文是金蘋果或者十字聖球（我沒翻到比較靠譜的翻譯），象徵宗教權威的東西。</MedTimes_Ranged_GrenadesAntioch_Dud.description>
+  <MedTimes_Ranged_GrenadesAntioch_Dud.verbs.0.label>投擲神聖手雷</MedTimes_Ranged_GrenadesAntioch_Dud.verbs.0.label>
+
+
+</LanguageData>

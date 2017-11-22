@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- (Medieval) Blackheart - 1h Knife -->
+
+  <MedTimes_Melee_KnifeBlackheart_Art.label>黑心</MedTimes_Melee_KnifeBlackheart_Art.label>
+  <MedTimes_Melee_KnifeBlackheart_Art.description>(人造品)(削切)[近戰命中率:+10%][烹飪速度:+10%][屠宰速度:+10%]顯然，這是一把“博伊刀”，但是這一把刀片長度超過1英尺。非常優質的刀具而且非常合手。有一些這種刀散落在這個星球上，每一把都被認為是珍寶，被所有士兵和收藏家所追捧。\n\n譯者注：博伊刀最初設計就是用來格鬥的，很可能有一英尺長，之後被改良成為了一種生存用刀，當然，尺寸大大縮減了。一英尺=30.48釐米</MedTimes_Melee_KnifeBlackheart_Art.description>
+
+
+  <!-- (Medieval) Techno Sword - 1h Sword -->
+
+  <MedTimes_Melee_SwordTechno_Art.label>高科技長劍</MedTimes_Melee_SwordTechno_Art.label>
+  <MedTimes_Melee_SwordTechno_Art.description>(人造品)(削切)[近戰命中率:+10%]這把劍拿在手上感覺很奇怪而且不穩定。它的重心不好掌握，手感也不是很好。很顯然，它的製造者不是個武者也不是劍客。但不得不說這把劍仍是現代技術的奇跡，它難以置信的輕巧和堅固。這把劍約束電子沿著劍的邊緣產生等離子體，並帶有調節溫度分布的溫控系統。由塑鋼和一些不明零件、材料製成，手柄是某種膠質品和合成皮革製作的。這種劍可能是在某個閃耀世界中大量製造的，同時也意味著這玩意沒有經歷過實戰的考驗。有很多遺失在這個星球周圍宇宙空間的可憐閃耀世界士兵墜毀到這個星球上然後交出了這把劍，無論他們願不願意。</MedTimes_Melee_SwordTechno_Art.description>
+
+
+  <!-- (Medieval) Viscious - 2h Sword -->
+
+  <MedTimes_Melee_SwordVicious_Art.label>惡毒</MedTimes_Melee_SwordVicious_Art.label>
+  <MedTimes_Melee_SwordVicious_Art.description>(人造品)(削切)[近戰命中率:+10%]百煉鋼製武士刀，雖然有點舊了甚至有點生鏽，但依舊好用。這些武士刀遺失在這個星球，沒人知道它們的由來。最有可能的是一個愚蠢的閃耀世界收藏家帶來的。這是一個可笑的故事，一些來自閃耀世界的劍類收藏家想要在當地的野生動物身上測試一下這些刀，當然，按照劇情，在當地的武裝人員到來時，發生了一些可怕的意外。我認為一定是炒作，但一定是個有趣的故事。</MedTimes_Melee_SwordVicious_Art.description>
+
+
+  <!-- (Medieval) Caladbog - 2h Sword -->
+
+  <MedTimes_Melee_SwordCaladbog_Art.label>螺旋劍（Caladbolg）</MedTimes_Melee_SwordCaladbog_Art.label>
+  <MedTimes_Melee_SwordCaladbog_Art.description>(人造品)(削切)[近戰命中率:+10%]由傳說中的英雄弗格斯·馬克·羅伊（Fergus_mac_Róich）所持的魔劍，這個詞本意是“堅固的雷電”或“雷電般的一擊”，並且有可以在一擊之間劈碎敵人武器的能力。傳說中這把劍經由偉大的亞瑟王之手成為了著名的石中劍，最後在口耳相傳中故事漸漸演變成為了亞瑟王手中的勝利與誓約之劍。不管這是仿造的，還是真的，人們都認為這是仿造的，特別是在他們附近有一個大量生產這些的廠商。這些劍都是精工製造，質量一流，不管怎麼說，這是能用錢買到的最好的劍了。</MedTimes_Melee_SwordCaladbog_Art.description>
+
+
+  <!-- (Medieval) Answeller - 2h Sword -->
+
+  <MedTimes_Melee_SwordAnsweller_Art.label>告解者（Answeller）</MedTimes_Melee_SwordAnsweller_Art.label>
+  <MedTimes_Melee_SwordAnsweller_Art.description>(人造品)(削切)[近戰命中率:+10%]亦被稱作“冰牙刃”（Ice_Fang_Blade）。告解者（Answeller）是北境的英雄和最終之王巴巴羅斯（Balbarous）的傳奇佩劍。在傳說中詳細描述了北方王國伊斯卡利亞（Escalia）史詩一般的興衰史和與被稱為“上帝審判庭”（The_Great_Father's_Court）的帝國之間的艱難鬥爭。整個故事充斥著政治陰謀和背叛，最後以伊斯卡利亞的覆滅而告終。在故事中伊斯卡利亞是在巴巴羅斯的兄弟薩博巴（Saboba）與其秘密情人卡珊德拉（Cassandra）結婚之後覆滅的，而卡珊德拉是馬拉托里斯（Melatoris）的女兒被尊為“上帝審判庭”的公主（聖女？）。在這場聯姻後，薩博巴調轉他的矛頭帶著卡珊德拉與她父親支援的軍隊和自己的部屬指向了原來的兄弟。他們在一個被稱作“冰雪之境”的巨型地下洞穴發生了一場史詩般的戰鬥。據傳，巴巴羅斯被殺之後整個世界都籠罩在“烈日的炙烤”之中。在這個故事中對於佩劍有著極其詳盡的描述，包括著名的被鑲在劍柄上的被稱為“北境之心”的藍色寶石。所以多年以來不計其數的匠師都想按照它在傳說中所描述的樣子復原此劍。無論這把是真正的傳說之劍或者僅僅只是一個玩笑，它都是材質優良的精美武器。\n\n譯者注：這個故事我並不知其來由，所以全都是亂翻的。2333</MedTimes_Melee_SwordAnsweller_Art.description>
+
+
+  <!-- (Medieval) Talent Breaker - 2h Club -->
+
+  <MedTimes_Melee_ClubTalentBreaker_Art.label>天才粉碎器</MedTimes_Melee_ClubTalentBreaker_Art.label>
+  <MedTimes_Melee_ClubTalentBreaker_Art.description>(人造品)(鈍擊)[近戰命中率:+10%]邊緣世界土著最喜歡的武器，在附近有許多來自工業化世界的財團大量生產並運輸到各個邊緣世界當中。甚至還有一些資源豐富的土著城市可以生產，也意味著有不少財團在這個世界活動。這種武器在這些財團口中被稱為“天才粉碎器”，因為它們可以讓一個不熟練的人輕易擊敗比他們技巧高超的敵人。運氣好的話，這件武器可以輕易地弄殘或者殺死一個全副武裝的敵人。正因為如此相當多的地方領主開始限制這種武器的銷售，並且開始列裝它和其他武器以降低受到敵人和強盜進攻的風險。</MedTimes_Melee_ClubTalentBreaker_Art.description>
+
+
+  <!-- (Medieval) Blackheart - 1h Knife -->
+
+  <MedTimes_Melee_KnifeBlackheart_Leg.label>黑心</MedTimes_Melee_KnifeBlackheart_Leg.label>
+  <MedTimes_Melee_KnifeBlackheart_Leg.description>(傳奇物品)(削切)[近戰命中率:+10%][烹飪速度:+10%][屠宰速度:+10%]顯然，這是一把“博伊刀”，但是這一把刀片長度超過1英尺。非常優質的刀具而且非常合手。有一些這種刀散落在這個星球上，每一把都被認為是珍寶，被所有士兵和收藏家所追捧。\n\n譯者注：博伊刀最初設計就是用來格鬥的，很可能有一英尺長，之後被改良成為了一種生存用刀，當然，尺寸大大縮減了。一英尺=30.48釐米</MedTimes_Melee_KnifeBlackheart_Leg.description>
+
+
+  <!-- (Medieval) Techno Sword - 1h Sword -->
+
+  <MedTimes_Melee_SwordTechno_Leg.label>高科技長劍</MedTimes_Melee_SwordTechno_Leg.label>
+  <MedTimes_Melee_SwordTechno_Leg.description>(傳奇物品)(削切)[近戰命中率:+10%]這把劍拿在手上感覺很奇怪而且不穩定。它的重心不好掌握，手感也不是很好。很顯然，它的製造者不是個武者也不是劍客。但不得不說這把劍仍是現代技術的奇跡，它難以置信的輕巧和堅固。這把劍約束電子沿著劍的邊緣產生等離子體，並帶有調節溫度分布的溫控系統。由塑鋼和一些不明零件、材料製成，手柄是某種膠質品和合成皮革製作的。這種劍可能是在某個閃耀世界中大量製造的，同時也意味著這玩意沒有經歷過實戰的考驗。有很多遺失在這個星球周圍宇宙空間的可憐閃耀世界士兵墜毀到這個星球上然後交出了這把劍，無論他們願不願意。</MedTimes_Melee_SwordTechno_Leg.description>
+
+
+  <!-- (Medieval) Viscious - 2h Sword -->
+
+  <MedTimes_Melee_SwordVicious_Leg.label>惡毒</MedTimes_Melee_SwordVicious_Leg.label>
+  <MedTimes_Melee_SwordVicious_Leg.description>(傳奇物品)(削切)[近戰命中率:+10%]百煉鋼製武士刀，雖然有點舊了甚至有點生鏽，但依舊好用。這些武士刀遺失在這個星球，沒人知道它們的由來。最有可能的是一個愚蠢的閃耀世界收藏家帶來的。這是一個可笑的故事，一些來自閃耀世界的劍類收藏家想要在當地的野生動物身上測試一下這些刀，當然，按照劇情，在當地的武裝人員到來時，發生了一些可怕的意外。我認為一定是炒作，但一定是個有趣的故事。</MedTimes_Melee_SwordVicious_Leg.description>
+
+
+  <!-- (Medieval) Caladbog - 2h Sword -->
+
+  <MedTimes_Melee_SwordCaladbog_Leg.label>螺旋劍（Caladbolg）</MedTimes_Melee_SwordCaladbog_Leg.label>
+  <MedTimes_Melee_SwordCaladbog_Leg.description>(傳奇物品)(削切)[近戰命中率:+10%]由傳說中的英雄弗格斯·馬克·羅伊（Fergus_mac_Róich）所持的魔劍，這個詞本意是“堅固的雷電”或“雷電般的一擊”，並且有可以在一擊之間劈碎敵人武器的能力。傳說中這把劍經由偉大的亞瑟王之手成為了著名的石中劍，最後在口耳相傳中故事漸漸演變成為了亞瑟王手中的勝利與誓約之劍。不管這是仿造的，還是真的，人們都認為這是仿造的，特別是在他們附近有一個大量生產這些的廠商。這些劍都是精工製造，質量一流，不管怎麼說，這是能用錢買到的最好的劍了。</MedTimes_Melee_SwordCaladbog_Leg.description>
+
+
+  <!-- (Medieval) Answeller - 2h Sword -->
+
+  <MedTimes_Melee_SwordAnsweller_Leg.label>告解者（Answeller）</MedTimes_Melee_SwordAnsweller_Leg.label>
+  <MedTimes_Melee_SwordAnsweller_Leg.description>(傳奇物品)(削切)[近戰命中率:+10%]亦被稱作“冰牙刃”（Ice_Fang_Blade）。告解者（Answeller）是北境的英雄和最終之王巴巴羅斯（Balbarous）的傳奇佩劍。在傳說中詳細描述了北方王國伊斯卡利亞（Escalia）史詩一般的興衰史和與被稱為“上帝審判庭”（The_Great_Father's_Court）的帝國之間的艱難鬥爭。整個故事充斥著政治陰謀和背叛，最後以伊斯卡利亞的覆滅而告終。在故事中伊斯卡利亞是在巴巴羅斯的兄弟薩博巴（Saboba）與其秘密情人卡珊德拉（Cassandra）結婚之後覆滅的，而卡珊德拉是馬拉托里斯（Melatoris）的女兒被尊為“上帝審判庭”的公主（聖女？）。在這場聯姻後，薩博巴調轉他的矛頭帶著卡珊德拉與她父親支援的軍隊和自己的部屬指向了原來的兄弟。他們在一個被稱作“冰雪之境”的巨型地下洞穴發生了一場史詩般的戰鬥。據傳，巴巴羅斯被殺之後整個世界都籠罩在“烈日的炙烤”之中。在這個故事中對於佩劍有著極其詳盡的描述，包括著名的被鑲在劍柄上的被稱為“北境之心”的藍色寶石。所以多年以來不計其數的匠師都想按照它在傳說中所描述的樣子復原此劍。無論這把是真正的傳說之劍或者僅僅只是一個玩笑，它都是材質優良的精美武器。\n\n譯者注：這個故事我並不知其來由，所以全都是亂翻的。2333</MedTimes_Melee_SwordAnsweller_Leg.description>
+
+
+  <!-- (Medieval) Talent Breaker - 2h Club -->
+
+  <MedTimes_Melee_ClubTalentBreaker_Leg.label>天才粉碎器</MedTimes_Melee_ClubTalentBreaker_Leg.label>
+  <MedTimes_Melee_ClubTalentBreaker_Leg.description>(人造品)(鈍擊)[近戰命中率:+10%]邊緣世界土著最喜歡的武器，在附近有許多來自工業化世界的財團大量生產並運輸到各個邊緣世界當中。甚至還有一些資源豐富的土著城市可以生產，也意味著有不少財團在這個世界活動。這種武器在這些財團口中被稱為“天才粉碎器”，因為它們可以讓一個不熟練的人輕易擊敗比他們技巧高超的敵人。運氣好的話，這件武器可以輕易地弄殘或者殺死一個全副武裝的敵人。正因為如此相當多的地方領主開始限制這種武器的銷售，並且開始列裝它和其他武器以降低受到敵人和強盜進攻的風險。</MedTimes_Melee_ClubTalentBreaker_Leg.description>
+
+
+  <!-- (Medieval) Vidar's Cleaver - 2h Axe -->
+
+  <MedTimes_Melee_MedTimes_AxeBlood_Leg.label>血吼</MedTimes_Melee_MedTimes_AxeBlood_Leg.label>
+  <MedTimes_Melee_MedTimes_AxeBlood_Leg.description>(傳奇物品)(削切)[近戰命中率:+10%]血吼是非常神秘的物品，成百上千的被它的斧刃所殺的靈魂詛咒者這把斧。它有著似乎在輕微顫動的血紅色斧刃，並且時不時有血色的光芒在表面浮現。深受收藏家和戰士的喜愛。</MedTimes_Melee_MedTimes_AxeBlood_Leg.description>
+
+  <MedTimes_Melee_AxeVidar_Leg.label>維達的切肉斧</MedTimes_Melee_AxeVidar_Leg.label>
+  <MedTimes_Melee_AxeVidar_Leg.description>(傳奇物品)(削切)[近戰命中率:+10%]沒人知道這把造型野蠻的雙手戰斧的來歷，只有它在戰場上掀起的血浪能顯示它的存在。如果它處在一名身經百戰的戰士手中，將敵人劈成兩半的場面並不罕見。因此它深受戰爭領主和收藏家的追捧，當地人用北歐神中戰爭與復仇之神維達的名字來命名它。他是全世界所有雇傭兵的守護神，主神奧丁的兒子，沉默寡言的穿著重靴的神。據說他的力量僅次於雷神托爾，也就是說，比奧丁更強。</MedTimes_Melee_AxeVidar_Leg.description>
+
+
+  <!-- (Medieval) Void Hammer - 2h Hammer -->
+
+  <MedTimes_Melee_HammerVoid_Leg.label>虛空神錘</MedTimes_Melee_HammerVoid_Leg.label>
+  <MedTimes_Melee_HammerVoid_Leg.description>(傳奇物品)(鈍擊)[近戰命中率:+10%]雙手錘，甚至已經成了當地的一個傳說。一些東西在周圍漂浮著，這些錘子是一段時間前被同一個人製造的。工藝精湛造型也同樣精美，這錘子是用一種極其特殊的石頭製造的，一種簡稱為“虛空石”的觸感冰寒的光滑黑色石頭。沒人知道這種石頭是如何製造的，但一位來自閃耀世界的尖端科學家將它命名為“達文”（Davin）並猜測這是某種形態的魯伯特之淚其中還含有少量的暗物質。這種石頭因為其不可思議的沉重和堅硬而為人所知。</MedTimes_Melee_HammerVoid_Leg.description>
+
+
+</LanguageData>

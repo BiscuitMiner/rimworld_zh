@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- (Artifact) Happy Shield -->
+
+  <MedTimes_Acc_HappyMerchant_Art.label>快樂的商人</MedTimes_Acc_HappyMerchant_Art.label>
+  <MedTimes_Acc_HappyMerchant_Art.description>(人造品)[交易價格改善:+5%][社交效果:+5%][外交禮物效果:+5%]一個單人用的能量護盾裝置。它能阻擋從一定距離外射來的任何高速彈頭或能量攻擊。但對近戰攻擊或零距離貼近射擊無效。同時也會阻礙穿戴者從內往外的射擊。不同於常見的批量製造的護盾腰帶，這個應該是一個當地人製造的。從這上面的表現來看，這個土著的心理狀態很有趣。它的造型像是一個戴在頸部的大護符。一個巨大的笑臉呈現在正面，背面也刻有許多花紋，它充血的眼睛似乎緊盯著你。牙齒是由參差不齊的金屬製造的，其間有紅色的不明物質流露出來。這個東西是如何製造的，它的能量來源是什麼都是個迷。當裝備它時，裝備者會發出比平時更為低沉的聲音，原因還不得而知。</MedTimes_Acc_HappyMerchant_Art.description>
+
+
+  <!-- (Legendary) Happy Shield -->
+
+  <MedTimes_Acc_HappyMerchant_Leg.label>快樂的商人</MedTimes_Acc_HappyMerchant_Leg.label>
+  <MedTimes_Acc_HappyMerchant_Leg.description>(傳奇物品)[交易價格改善:+5%][社交效果:+5%][外交禮物效果:+5%]一個單人用的能量護盾裝置。它能阻擋從一定距離外射來的任何高速彈頭或能量攻擊。但對近戰攻擊或零距離貼近射擊無效。同時也會阻礙穿戴者從內往外的射擊。不同於常見的批量製造的護盾腰帶，這個應該是一個當地人製造的。從這上面的表現來看，這個土著的心理狀態很有趣。它的造型像是一個戴在頸部的大護符。一個巨大的笑臉呈現在正面，背面也刻有許多花紋，它充血的眼睛似乎緊盯著你。牙齒是由參差不齊的金屬製造的，其間有紅色的不明物質流露出來。這個東西是如何製造的，它的能量來源是什麼都是個迷。當裝備它時，裝備者會發出比平時更為低沉的聲音，原因還不得而知。</MedTimes_Acc_HappyMerchant_Leg.description>
+
+
+  <!-- (Artifact)Happy Shield -->
+  <!-- (Legendary)Happy Shield -->
+
+</LanguageData>

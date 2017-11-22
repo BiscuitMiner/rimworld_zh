@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wooden Boots -->
+
+  <MedTimes_Boots_Wooden.label>木靴</MedTimes_Boots_Wooden.label>
+  <MedTimes_Boots_Wooden.description>(等級:0)[移動速度:+8%]在皮靴上面縫上木靴底和甲片。</MedTimes_Boots_Wooden.description>
+
+
+  <!-- Steel Plated Boots -->
+
+  <MedTimes_Boots_Plated.label>覆鐵靴</MedTimes_Boots_Plated.label>
+  <MedTimes_Boots_Plated.description>(等級:1,輕甲)[移動速度:+8%]一雙綁上鐵製護脛的靴子。</MedTimes_Boots_Plated.description>
+
+
+  <!-- Scaled Boots -->
+
+  <MedTimes_Boots_Scaled.label>鎖甲靴</MedTimes_Boots_Scaled.label>
+  <MedTimes_Boots_Scaled.description>(等級:1,重甲)[移動速度:+5%]一雙有大量像魚鱗一樣排列的小甲片的靴子。</MedTimes_Boots_Scaled.description>
+
+
+  <!-- Light Armours -->
+
+  <MedTimes_Boots_FullPlated.label>鑲嵌甲靴</MedTimes_Boots_FullPlated.label>
+  <MedTimes_Boots_FullPlated.description>(等級:2,輕甲)[移動速度:+8%]靴子上使用特別方式鑲嵌的甲片會在不降低防護性的同時保持最大的機動性。</MedTimes_Boots_FullPlated.description>
+
+
+  <!-- Steel Encased Boots -->
+
+  <MedTimes_Boots_EncasedSteel.label>板靴</MedTimes_Boots_EncasedSteel.label>
+  <MedTimes_Boots_EncasedSteel.description>(等級:2,重甲)[移動速度:+5%]一雙完全包裹在金屬中的靴子，提供極好的防禦，但與其他靴子相比機動性沒那麼好。</MedTimes_Boots_EncasedSteel.description>
+
+
+  <!-- Royal Plated Boots -->
+
+  <MedTimes_Boots_RoyalPlated.label>皇家板靴</MedTimes_Boots_RoyalPlated.label>
+  <MedTimes_Boots_RoyalPlated.description>(等級:2,重甲)[移動速度:+5%]一雙包裹在大大小小的甲片裡的板靴，提供了極好的防護，但與其他靴子相比機動性沒那麼好。</MedTimes_Boots_RoyalPlated.description>
+
+
+</LanguageData>

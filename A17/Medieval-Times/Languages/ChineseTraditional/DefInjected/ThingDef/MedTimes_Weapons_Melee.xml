@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pitchfork: Farming -->
+
+  <MedTimes_Melee_Pitchfork.label>乾草叉</MedTimes_Melee_Pitchfork.label>
+  <MedTimes_Melee_Pitchfork.description>(戳刺)[種植速度:+5%]木製的大叉子，有利於栽培植物。它的末端很尖銳，被烤乾之後堅硬如鐵。在近身格鬥中也能用，當然，是在你別無選擇的時候。</MedTimes_Melee_Pitchfork.description>
+
+  <MedTimes_Melee_PrimativeSpear.label>原始長矛</MedTimes_Melee_PrimativeSpear.label>
+  <MedTimes_Melee_PrimativeSpear.description>(戳刺)[近戰命中率:+5%]石質矛頭的長矛，跟削尖的木棍差不多簡陋。</MedTimes_Melee_PrimativeSpear.description>
+
+
+  <!-- HandSicle: Farming -->
+
+  <MedTimes_Melee_HandSickle.label>手持鐮刀</MedTimes_Melee_HandSickle.label>
+  <MedTimes_Melee_HandSickle.description>(削切)[種植速度:+10%]常見的鐮刀，用於收穫作物。末端相當尖銳，內側也很鋒利，所以在近身戰鬥中也用得上。</MedTimes_Melee_HandSickle.description>
+
+
+  <!-- Cleaver: Cooking -->
+
+  <MedTimes_Melee_Cleaver.label>切肉刀</MedTimes_Melee_Cleaver.label>
+  <MedTimes_Melee_Cleaver.description>(削切)[烹飪速度:+10%][屠宰速度:+10%]一把制式切肉刀，用於烹飪。邊緣非常鋒利，彎曲的角度極其有利於切割肉體。因此，在近身戰鬥中很有用。</MedTimes_Melee_Cleaver.description>
+
+
+  <!-- Cleaver: Blacksmithing -->
+
+  <MedTimes_Melee_HammerBlacksmith.label>鐵匠錘</MedTimes_Melee_HammerBlacksmith.label>
+  <MedTimes_Melee_HammerBlacksmith.description>(鈍擊)[鍛造速度:+10%]常見的鐵匠錘，用於鍛造。它很笨重，提供巨大的衝擊力。所以，在近身戰鬥中也有用。</MedTimes_Melee_HammerBlacksmith.description>
+
+
+  <!-- Pickaxe: Minning -->
+
+  <MedTimes_Melee_Pickaxe.label>鶴嘴鋤</MedTimes_Melee_Pickaxe.label>
+  <MedTimes_Melee_Pickaxe.description>(戳刺)[採礦速度:+10%]標準的鶴嘴鋤，用來採礦。末端非常尖銳，所以拿它打穿敵人的腦袋也很容易。</MedTimes_Melee_Pickaxe.description>
+  <MedTimes_Melee_Pickaxe.verbs.0.label>採礦中</MedTimes_Melee_Pickaxe.verbs.0.label>
+
+
+  <!-- Forrester's Axe: Farming -->
+
+  <MedTimes_Melee_AxeForester.label>守林人斧</MedTimes_Melee_AxeForester.label>
+  <MedTimes_Melee_AxeForester.description>(削切)[種植速度:+10%]標準林業用斧，用於砍樹，砍人也不錯。</MedTimes_Melee_AxeForester.description>
+
+
+  <!-- (Medieval) War Knife -->
+
+  <MedTimes_Melee_WarKnife.label>軍刀</MedTimes_Melee_WarKnife.label>
+  <MedTimes_Melee_WarKnife.description>(削切)[近戰命中率:+5%]經常有人問到如果不計鐵匠的手藝和製作材料，什麼武器是優先選擇的。使用“軍刀”是這個世界上歷史悠久的一個傳統，當然由於刀片形制的不同，有時會出現不同的叫法。這種武器由於其材料便宜而大量生產並深受農民和士兵的喜愛。由於其大量使用，它有非常多的獨特有趣的綽號，但“軍刀”還是占主流的名字。它使用簡單原始的結構和材料，單面開刃，有大型握把。利於劈砍，主要用於對抗無甲的敵人，比如說部落之類的，對抗著甲的敵人效果不佳。</MedTimes_Melee_WarKnife.description>
+
+
+  <!-- (Medieval) Short-Sword -->
+
+  <MedTimes_Melee_ShortSword.label>單手劍</MedTimes_Melee_ShortSword.label>
+  <MedTimes_Melee_ShortSword.description>(削切)[近戰命中率:+5%]傳統的中世紀單手劍，儘管製造工藝比較原始，但用料考究、製造精良。</MedTimes_Melee_ShortSword.description>
+
+
+  <!-- (Medieval) Boar Spear -->
+
+  <MedTimes_Melee_BoarSpear.label>野豬長矛</MedTimes_Melee_BoarSpear.label>
+  <MedTimes_Melee_BoarSpear.description>(戳刺)[近戰命中率:+7.5%]中世紀風格的野豬長矛，有著鋒銳的尖端並在兩側附有耳狀物以格擋敵人的攻擊。沒有戰斧那麼強力，但即使是未經訓練的人也容易使用它。</MedTimes_Melee_BoarSpear.description>
+
+
+  <!-- (Medieval) Spatha-Sword -->
+
+  <MedTimes_Melee_SwordSpatha.label>羅馬長劍</MedTimes_Melee_SwordSpatha.label>
+  <MedTimes_Melee_SwordSpatha.description>(削切)[近戰命中率:+5%]中世紀羅馬風格的單手劍，儘管製造工藝比較原始，但用料考究、製造精良。</MedTimes_Melee_SwordSpatha.description>
+
+
+  <!-- (Medieval) One-Handed Mace -->
+
+  <MedTimes_Melee_MaceHand.label>單手錘</MedTimes_Melee_MaceHand.label>
+  <MedTimes_Melee_MaceHand.description>(鈍擊)[近戰命中率:+5%]中世紀風格的單手錘，儘管製造工藝比較原始，但用料考究、製造精良。</MedTimes_Melee_MaceHand.description>
+
+
+  <!-- (Medieval) Bandit Hammer -->
+
+  <MedTimes_Melee_HammerBandit.label>強盜錘</MedTimes_Melee_HammerBandit.label>
+  <MedTimes_Melee_HammerBandit.description>(鈍擊)[近戰命中率:+5%]木製戰鬥用錘。造價便宜、使用簡單，對重裝敵人效果很好，所以成為了強盜的首選裝備。</MedTimes_Melee_HammerBandit.description>
+
+
+  <!-- (Medieval) Bearded Battle Axe -->
+
+  <MedTimes_Melee_AxeBearded.label>鉤斧</MedTimes_Melee_AxeBearded.label>
+  <MedTimes_Melee_AxeBearded.description>(削切)[近戰命中率:+5%]為戰鬥特別設計，可以刺、砍、砸、鉤的綜合性武器。這種特別的鉤斧版擁有特別巨大的斧面，所以更擅於劈砍。很鋒利，近身戰鬥很強。\n\n譯者注：Bearded Battle Axe作者發明的新詞語，可以理解為斧面加大的戰斧。</MedTimes_Melee_AxeBearded.description>
+
+
+  <!-- (Medieval) Gisarme -->
+
+  <MedTimes_Melee_Gisarme.label>鉤鐮槍</MedTimes_Melee_Gisarme.label>
+  <MedTimes_Melee_Gisarme.description>(戳刺)[近戰命中率:+5%]可以刺、砍、鉤的綜合性武器，它形制多樣，有很多名字。有一個鉤用於把騎兵從馬背上拖下來，一個槍尖來捅死敵人。</MedTimes_Melee_Gisarme.description>
+
+
+  <!-- (Medieval) Arming-Sword -->
+
+  <MedTimes_Melee_SwordArming.label>騎士長劍</MedTimes_Melee_SwordArming.label>
+  <MedTimes_Melee_SwordArming.description>(削切)[近戰命中率:+5%]中世紀風格的騎士單手長劍，儘管製造工藝比較原始，但用料考究、製造精良。</MedTimes_Melee_SwordArming.description>
+
+
+  <!-- (Medieval) One-Handed Mace -->
+
+  <MedTimes_Melee_MaceFlanged.label>凸緣釘頭錘</MedTimes_Melee_MaceFlanged.label>
+  <MedTimes_Melee_MaceFlanged.description>(鈍擊)[近戰命中率:+5%]中世紀風格的凸緣釘頭錘，它但用料考究、製造精良，所以又輕又好用。</MedTimes_Melee_MaceFlanged.description>
+
+
+  <!-- (Medieval) Long-Sword -->
+
+  <MedTimes_Melee_SwordLong.label>中世紀長劍</MedTimes_Melee_SwordLong.label>
+  <MedTimes_Melee_SwordLong.description>(削切)[近戰命中率:+5%]中世紀風格的中世紀長劍，儘管製造工藝比較原始，但用料考究、製造精良。這把精雕細琢的劍比一般的要好一些。</MedTimes_Melee_SwordLong.description>
+
+
+  <!-- (Medieval) Warhammer -->
+
+  <MedTimes_Melee_WarHammer.label>戰錘</MedTimes_Melee_WarHammer.label>
+  <MedTimes_Melee_WarHammer.description>(鈍擊)[近戰命中率:+5%]為戰鬥設計的雙手戰錘，可以輕易地將敵人擊倒並碾碎他們的骨頭。設計的初衷是應對傳統的劍和斧頭難以穿透的重甲。</MedTimes_Melee_WarHammer.description>
+
+
+  <!-- (Medieval) Halberd -->
+
+  <MedTimes_Melee_Halberd.label>戟</MedTimes_Melee_Halberd.label>
+  <MedTimes_Melee_Halberd.description>(戳刺)[近戰命中率:+5%]可以刺、砍、鉤的綜合性武器，它形制多樣，有很多名字。有一個鉤用於把騎兵從馬背上拖下來，一個槍尖來捅死敵人。</MedTimes_Melee_Halberd.description>
+
+
+  <!-- (Medieval) Battle Axe -->
+
+  <MedTimes_Melee_BattleAxe.label>戰斧</MedTimes_Melee_BattleAxe.label>
+  <MedTimes_Melee_BattleAxe.description>(削切)[近戰命中率:+5%]為戰鬥特別設計，可以刺、砍、砸、鉤的綜合性武器。很鋒利，近身戰鬥很強。</MedTimes_Melee_BattleAxe.description>
+
+
+  <!-- (Medieval) Claymore -->
+
+  <MedTimes_Melee_Claymore.label>雙手大劍</MedTimes_Melee_Claymore.label>
+  <MedTimes_Melee_Claymore.description>(削切)[近戰命中率:+5%]雙手大劍起源於黑暗時代的一個叫蘇格蘭的小國。之後被神化並在各種民間傳說中大量出現。這把劍設計傳統但用料考究、製造精良。\n\n譯者注：黑暗時代大概在公元前12到9世紀。</MedTimes_Melee_Claymore.description>
+
+
+</LanguageData>

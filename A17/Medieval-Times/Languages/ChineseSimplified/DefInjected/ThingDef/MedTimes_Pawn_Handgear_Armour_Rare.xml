@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Archers Bracers -->
+
+  <MedTimes_Bracer_Marksman_Art.label>神射手护腕</MedTimes_Bracer_Marksman_Art.label>
+  <MedTimes_Bracer_Marksman_Art.description>(人造品)[射击精确度:+12%][近战命中率:+5%]一对由皮革和钢板制成的护腕和手套，可以有效保护使用者的前臂和手指，让他能专心射击。为射击而生。</MedTimes_Bracer_Marksman_Art.description>
+
+
+  <!-- God King's Gauntlets -->
+
+  <MedTimes_Gauntlets_Godking_Art.label>领主手套</MedTimes_Gauntlets_Godking_Art.label>
+  <MedTimes_Gauntlets_Godking_Art.description>(人造品)[近战命中率:+12%]一双镀金的重甲手套，工艺和质量已经达到人类巅峰，以至于人们猜想是否有工匠的一生都献给了这件杰作。</MedTimes_Gauntlets_Godking_Art.description>
+
+
+  <!-- Combat Gloves -->
+
+  <MedTimes_Gloves_Combat_Art.label>战斗手套</MedTimes_Gloves_Combat_Art.label>
+  <MedTimes_Gloves_Combat_Art.description>(人造品)[近战命中率:+10%][射击精确度:+5%][全局工作速度:+5%]大规模生产的由超织物编织并植入玻璃钢加固的手套。纳米弹性材料和塑形超泡沫材料使得其适合所有手型，使用纳米触觉接收器确保防滑性。军人们常说这手套摸起来像橡胶制的粘性物质。无论肉搏还是枪战都可以适用。</MedTimes_Gloves_Combat_Art.description>
+
+
+  <!-- Techno Gauntlets -->
+
+  <MedTimes_Gauntlets_Techno_Art.label>高科技战斗手套</MedTimes_Gauntlets_Techno_Art.label>
+  <MedTimes_Gauntlets_Techno_Art.description>(人造品)[近战命中率:+15%][射击精确度:+15%][瞄准延时系数:-10%][全局工作速度:+5%]由星际工程定制，这些高端战斗手套几乎完全是由纳米超织物弹性材料和玻璃钢板制成的。其上加装的欧米茄绞合织物、热动力辅助模块甚至纳米触觉接收器都是用来确保其良好防滑性的。即使加装了如此多的模块，设计师们仍为其添置了梅尔科™辅助瞄准设备。纳米拉伸材料和超泡沫材料确保任何手型都能舒服地穿进去。这些手套受那些足够幸运或富有而能拥有它们的士兵们喜爱。就连最阔气的闪光世界中，都难以见到这种奢侈品。无论远程或肉搏作战，这双手套都是天赐之宝。</MedTimes_Gauntlets_Techno_Art.description>
+
+
+  <!-- Archers Bracers -->
+
+  <MedTimes_Bracer_Marksman_Leg.label>神射手护腕</MedTimes_Bracer_Marksman_Leg.label>
+  <MedTimes_Bracer_Marksman_Leg.description>(传奇物品)[射击精确度:+15%][近战命中率:+5%]一对由皮革和钢板制成的护腕和手套，可以有效保护使用者的前臂和手指，让他能专心射击。为射击而生。</MedTimes_Bracer_Marksman_Leg.description>
+
+
+  <!-- God King's Gauntlets -->
+
+  <MedTimes_Gauntlets_Godking_Leg.label>领主手套</MedTimes_Gauntlets_Godking_Leg.label>
+  <MedTimes_Gauntlets_Godking_Leg.description>(传奇物品)[近战命中率:+15%]一双镀金的重甲手套，工艺和质量已经达到人类巅峰，以至于人们猜想是否有工匠的一生都献给了这件杰作。</MedTimes_Gauntlets_Godking_Leg.description>
+
+
+  <!-- Combat Gloves -->
+
+  <MedTimes_Gloves_Combat_Leg.label>战斗手套</MedTimes_Gloves_Combat_Leg.label>
+  <MedTimes_Gloves_Combat_Leg.description>(传奇物品)[近战命中率:+12%][射击精确度:+8%][全局工作速度:+8%]大规模生产的由超织物编织并植入玻璃钢加固的手套。纳米弹性材料和塑形超泡沫材料使得其适合所有手型，使用纳米触觉接收器确保防滑性。军人们常说这手套摸起来像橡胶制的粘性物质。无论肉搏还是枪战都可以适用。</MedTimes_Gloves_Combat_Leg.description>
+
+
+  <!-- Techno Gauntlets -->
+
+  <MedTimes_Gauntlets_Techno_Leg.label>高科技战斗手套</MedTimes_Gauntlets_Techno_Leg.label>
+  <MedTimes_Gauntlets_Techno_Leg.description>(传奇物品)[近战命中率:+15%][射击精确度:+15%][瞄准延时系数:-10%][全局工作速度:+10%]由星际工程定制，这些高端战斗手套几乎完全是由纳米超织物弹性材料和玻璃钢板制成的。其上加装的欧米茄绞合织物、热动力辅助模块甚至纳米触觉接收器都是用来确保其良好防滑性的。即使加装了如此多的模块，设计师们仍为其添置了梅尔科™辅助瞄准设备。纳米拉伸材料和超泡沫材料确保任何手型都能舒服地穿进去。这些手套受那些足够幸运或富有而能拥有它们的士兵们喜爱。就连最阔气的闪光世界中，都难以见到这种奢侈品。无论远程或肉搏作战，这双手套都是天赐之宝。</MedTimes_Gauntlets_Techno_Leg.description>
+
+
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Charge-10 shot -->
+
+  <Medieval_Bullet_CMG.label>電荷彈</Medieval_Bullet_CMG.label>
+
+
+  <!-- (Artifact) Charge-10 MG -->
+
+  <MedTimes_Ranged_ChargeMG_Art.label>電荷-10MG</MedTimes_Ranged_ChargeMG_Art.label>
+  <MedTimes_Ranged_ChargeMG_Art.description>(人造品)一種高科技的變種電荷步槍。這是一種遠程輕機槍，也是銀河軍事力量將火藥武器視為“過時”的原因。</MedTimes_Ranged_ChargeMG_Art.description>
+
+
+  <!-- (Legendary) Charge-10 MG -->
+
+  <MedTimes_Ranged_ChargeMG_Leg.label>電荷-10MG</MedTimes_Ranged_ChargeMG_Leg.label>
+  <MedTimes_Ranged_ChargeMG_Leg.description>(傳奇物品)一種高科技的變種電荷步槍。這是一種遠程輕機槍，也是銀河軍事力量將火藥武器視為“過時”的原因。</MedTimes_Ranged_ChargeMG_Leg.description>
+
+
+</LanguageData>

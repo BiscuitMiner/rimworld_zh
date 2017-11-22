@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Medieval Societies Class Base -->
+
+  <MedTimes_Faction_Core.pawnsPlural>中世纪追随者</MedTimes_Faction_Core.pawnsPlural>
+
+
+  <!-- Medieval Society Factions -->
+
+  <MedTimes_Faction_Societies.label>中世纪贵族封地</MedTimes_Faction_Societies.label>
+  <MedTimes_Faction_Societies.description>一些在很久以前就生活在这里的人类社群，他们曾退化到类似于部落的文明水平，但经过演化又进化到了类似于中世纪的文明。因为对目前的科技水平一无所知的缘故，他们通常都使用一些中世纪水平的简单技术来使工作和生活更为简单舒适。</MedTimes_Faction_Societies.description>
+  <MedTimes_Faction_Societies.pawnsPlural>平民</MedTimes_Faction_Societies.pawnsPlural>
+  <MedTimes_Faction_Societies.leaderTitle>贵族领主</MedTimes_Faction_Societies.leaderTitle>
+
+
+  <!-- Medieval Warband Faction -->
+
+  <MedTimes_Faction_Warband.label>中世纪战团</MedTimes_Faction_Warband.label>
+  <MedTimes_Faction_Warband.description>一些从各种各样的中世纪社会中被驱逐出来的人们聚集在一起而形成的战争狂热团体。因为对目前的科技水平一无所知的缘故，他们通常都使用一些中世纪水平的简单技术来使工作和生活更为简单舒适。但这些家伙以极其野蛮残忍而为人所知。</MedTimes_Faction_Warband.description>
+  <MedTimes_Faction_Warband.pawnsPlural>劫匪</MedTimes_Faction_Warband.pawnsPlural>
+  <MedTimes_Faction_Warband.leaderTitle>战争领主</MedTimes_Faction_Warband.leaderTitle>
+
+
+</LanguageData>

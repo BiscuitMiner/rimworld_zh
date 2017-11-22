@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- (Artifact) God King Armour, Blue Caped: Hot Apparel -->
+
+  <MedTimes_BodyArmour_GodKingBlue_Art.label>領主之鎧</MedTimes_BodyArmour_GodKingBlue_Art.label>
+  <MedTimes_BodyArmour_GodKingBlue_Art.description>(人造品)這件重甲是由匠師精心鍛造，刻上繁複花紋並具有純金塗層的傑作。它能吸引周圍所有人的注意力，並彰顯出其的貴重和精美，附有一條披風來顯示所有者的血統和威望。這件盔甲十分適合領主，讓其他人知道誰才是這裡的主人。</MedTimes_BodyArmour_GodKingBlue_Art.description>
+
+
+  <!-- (Artifact) God King Armour, Green Caped: Hot Apparel -->
+
+  <MedTimes_BodyArmour_GodKingGreen_Art.label>領主之鎧（貴族）</MedTimes_BodyArmour_GodKingGreen_Art.label>
+  <MedTimes_BodyArmour_GodKingGreen_Art.description>(人造品)這件重甲是由匠師精心鍛造，刻上繁複花紋並具有純金塗層的傑作。它能吸引周圍所有人的注意力，並彰顯出其的貴重和精美，附有一條披風來顯示所有者的血統和威望。這件盔甲十分適合領主，讓其他人知道誰才是這裡的主人。</MedTimes_BodyArmour_GodKingGreen_Art.description>
+
+
+  <!-- (Artifact) Warlord Armour, Cloaked -->
+
+  <MedTimes_BodyArmour_Warlord_Art.label>軍閥之鎧</MedTimes_BodyArmour_Warlord_Art.label>
+  <MedTimes_BodyArmour_Warlord_Art.description>(人造品)這件重甲是由匠師精心鍛造並刻上繁複花紋的傑作。同時配備有保暖的大衣並經過特別設計使得不會因此而中暑。這件盔甲顯示著力量和權威，十分適合新生的軍閥，讓其他人知道誰才是這裡的主人。</MedTimes_BodyArmour_Warlord_Art.description>
+
+
+  <!-- (Artifact) Combat Armour, -->
+
+  <MedTimes_BodyArmour_Combat_Art.label>戰鬥鎧甲</MedTimes_BodyArmour_Combat_Art.label>
+  <MedTimes_BodyArmour_Combat_Art.description>(人造品)高科技的城市化世界由於對於戰爭的恐懼而大量生產的裝甲，主要材料為塑鋼板、納米彈性材料和塑型超泡沫。這套盔甲在提供最大機動性的同時能為政府所說的“必要”地區提供“充分”的保護。雖然生產量非常大，但其生產過程受到嚴格的監管和審查。沒人猜得到這些東西是如何來到這裡的。\n\n譯者注：在官方背景設定裡，世界分為11種，邊緣世界和城市化世界是其中之一。城市化世界：通過城市來控制的超高密度的星球。他們的人口增長超過了他們社會科學的發展水平，所以飽受過度擁擠，污染和暴力犯罪的困擾。-來自rimworld中文維基</MedTimes_BodyArmour_Combat_Art.description>
+
+
+  <!-- (Legendary) God King Armour, Blue Caped: Hot Apparel -->
+
+  <MedTimes_BodyArmour_GodKingBlue_Leg.label>領主之鎧</MedTimes_BodyArmour_GodKingBlue_Leg.label>
+  <MedTimes_BodyArmour_GodKingBlue_Leg.description>(傳奇物品)這件重甲是由匠師精心鍛造，刻上繁複花紋並具有純金塗層的傑作。它能吸引周圍所有人的注意力，並彰顯出其的貴重和精美，附有一條披風來顯示所有者的血統和威望。這件盔甲十分適合領主，讓其他人知道誰才是這裡的主人。</MedTimes_BodyArmour_GodKingBlue_Leg.description>
+
+
+  <!-- (Legendary) God King Armour, Green Caped: Hot Apparel -->
+
+  <MedTimes_BodyArmour_GodKingGreen_Leg.label>領主之鎧（貴族）</MedTimes_BodyArmour_GodKingGreen_Leg.label>
+  <MedTimes_BodyArmour_GodKingGreen_Leg.description>(傳奇物品)這件重甲是由匠師精心鍛造，刻上繁複花紋並具有純金塗層的傑作。它能吸引周圍所有人的注意力，並彰顯出其的貴重和精美，附有一條披風來顯示所有者的血統和威望。這件盔甲十分適合領主，讓其他人知道誰才是這裡的主人。</MedTimes_BodyArmour_GodKingGreen_Leg.description>
+
+
+  <!-- (Legendary) Warlord Armour, Cloaked -->
+
+  <MedTimes_BodyArmour_Warlord_Leg.label>軍閥之鎧</MedTimes_BodyArmour_Warlord_Leg.label>
+  <MedTimes_BodyArmour_Warlord_Leg.description>(傳奇物品)這件重甲是由匠師精心鍛造並刻上繁複花紋的傑作。同時配備有保暖的大衣並經過特別設計使得不會因此而中暑。這件盔甲顯示著力量和權威，十分適合新生的軍閥，讓其他人知道誰才是這裡的主人。</MedTimes_BodyArmour_Warlord_Leg.description>
+
+
+  <!-- (Legendary) Combat Armour, -->
+
+  <MedTimes_BodyArmour_Combat_Leg.label>戰鬥鎧甲</MedTimes_BodyArmour_Combat_Leg.label>
+  <MedTimes_BodyArmour_Combat_Leg.description>(傳奇物品)高科技的城市化世界由於對於戰爭的恐懼而大量生產的裝甲，主要材料為塑鋼板、納米彈性材料和塑型超泡沫。這套盔甲在提供最大機動性的同時能為政府所說的“必要”地區提供“充分”的保護。雖然生產量非常大，但其生產過程受到嚴格的監管和審查。沒人猜得到這些東西是如何來到這裡的。\n\n譯者注：在官方背景設定裡，世界分為11種，邊緣世界和城市化世界是其中之一。城市化世界：通過城市來控制的超高密度的星球。他們的人口增長超過了他們社會科學的發展水平，所以飽受過度擁擠，污染和暴力犯罪的困擾。-來自rimworld中文維基</MedTimes_BodyArmour_Combat_Leg.description>
+
+
+</LanguageData>

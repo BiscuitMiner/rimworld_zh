@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- God King's Mask Blue -->
+
+  <MedTimes_Helmet_GodKingBlue_Art.label>領主面具</MedTimes_Helmet_GodKingBlue_Art.label>
+  <MedTimes_Helmet_GodKingBlue_Art.description>(人造品)[社交效果:+5%]內填棉花的皮帽，上面有一個裝飾華麗的頭盔並附有鍍金鎖鏈面罩，這種頭盔的面部可以取下來。所有部件組合起來能在不降低移動速度或者能見度的情況下提供良好的防護，同時還安裝了一個使得使用者的聲音聽起來更陽剛更有權威的聲音調節器。</MedTimes_Helmet_GodKingBlue_Art.description>
+
+
+  <!-- God King's Mask Green -->
+
+  <MedTimes_Helmet_GodKingGreen_Art.label>領主面具（貴族）</MedTimes_Helmet_GodKingGreen_Art.label>
+  <MedTimes_Helmet_GodKingGreen_Art.description>(人造品)[社交效果:+5%]內填棉花的皮帽，上面有一個裝飾華麗的頭盔並附有鍍金鎖鏈面罩，這種頭盔的面部可以取下來。所有部件組合起來能在不降低移動速度或者能見度的情況下提供良好的防護，同時還安裝了一個使得使用者的聲音聽起來更陽剛更有權威的聲音調節器。</MedTimes_Helmet_GodKingGreen_Art.description>
+
+
+  <!-- Torvald's Headwrap -->
+
+  <MedTimes_Helmet_Torvald_Art.label>托瓦爾德的頭盔</MedTimes_Helmet_Torvald_Art.label>
+  <MedTimes_Helmet_Torvald_Art.description>(人造品)戰爭領主托瓦爾德是個大塊頭，每次鐵匠給他做的新頭盔他都嫌小。後來鐵匠沮喪了，購置了一些來自異域的貨物，最後製造了這頂頭盔。領主有了新頭盔欣喜若狂，所有效力於領主的人也都想要這樣一頂別緻的新帽子，就像托瓦爾德的一樣。據說，截止他死於托瓦爾德的手下，鐵匠大量生產這些東西已經好幾年了。它主要是由超級佈料和塑鋼以極其高超的手藝製成。</MedTimes_Helmet_Torvald_Art.description>
+
+
+  <!-- Combat Helmet -->
+
+  <MedTimes_Helmet_Combat_Art.label>戰鬥頭盔</MedTimes_Helmet_Combat_Art.label>
+  <MedTimes_Helmet_Combat_Art.description>(人造品)[射擊精確度:+8%][瞄準延時係數:-8%]在城市化世界為成千上萬的士兵大量生產的頭盔。為什麼這樣的頭盔會出現在邊緣世界的角落裡尚不得而知。主要由塑鋼製成，納米彈性材料和超泡沫材料保證其舒適性，還使用超凝膠以提供對鈍器衝擊的額外防護。上面還集成了輔助瞄準和數據處理系統，適合所有士兵。</MedTimes_Helmet_Combat_Art.description>
+
+
+  <!-- God King's Mask Blue -->
+
+  <MedTimes_Helmet_GodKingBlue_Leg.label>領主面具</MedTimes_Helmet_GodKingBlue_Leg.label>
+  <MedTimes_Helmet_GodKingBlue_Leg.description>(傳奇物品)[社交效果:+8%]內填棉花的皮帽，上面有一個裝飾華麗的頭盔並附有鍍金鎖鏈面罩，這種頭盔的面部可以取下來。所有部件組合起來能在不降低移動速度或者能見度的情況下提供良好的防護，同時還安裝了一個使得使用者的聲音聽起來更陽剛更有權威的聲音調節器。</MedTimes_Helmet_GodKingBlue_Leg.description>
+
+
+  <!-- God King's Mask Green -->
+
+  <MedTimes_Helmet_GodKingGreen_Leg.label>領主面具（貴族）</MedTimes_Helmet_GodKingGreen_Leg.label>
+  <MedTimes_Helmet_GodKingGreen_Leg.description>(傳奇物品)[社交效果:+8%]內填棉花的皮帽，上面有一個裝飾華麗的頭盔並附有鍍金鎖鏈面罩，這種頭盔的面部可以取下來。所有部件組合起來能在不降低移動速度或者能見度的情況下提供良好的防護，同時還安裝了一個使得使用者的聲音聽起來更陽剛更有權威的聲音調節器。</MedTimes_Helmet_GodKingGreen_Leg.description>
+
+
+  <!-- Torvald's Headwrap -->
+
+  <MedTimes_Helmet_Torvald_Leg.label>托瓦爾德的頭盔</MedTimes_Helmet_Torvald_Leg.label>
+  <MedTimes_Helmet_Torvald_Leg.description>(傳奇物品)戰爭領主托瓦爾德是個大塊頭，每次鐵匠給他做的新頭盔他都嫌小。後來鐵匠沮喪了，購置了一些來自異域的貨物，最後製造了這頂頭盔。領主有了新頭盔欣喜若狂，所有效力於領主的人也都想要這樣一頂別緻的新帽子，就像托瓦爾德的一樣。據說，截止他死於托瓦爾德的手下，鐵匠大量生產這些東西已經好幾年了。它主要是由超級佈料和塑鋼以極其高超的手藝製成。</MedTimes_Helmet_Torvald_Leg.description>
+
+
+  <!-- Combat Helmet -->
+
+  <MedTimes_Helmet_Combat_Leg.label>戰鬥頭盔</MedTimes_Helmet_Combat_Leg.label>
+  <MedTimes_Helmet_Combat_Leg.description>(傳奇物品)[射擊精確度:+10%][瞄準延時係數:-10%]在城市化世界為成千上萬的士兵大量生產的頭盔。為什麼這樣的頭盔會出現在邊緣世界的角落裡尚不得而知。主要由塑鋼製成，納米彈性材料和超泡沫材料保證其舒適性，還使用超凝膠以提供對鈍器衝擊的額外防護。上面還集成了輔助瞄準和數據處理系統，適合所有士兵。</MedTimes_Helmet_Combat_Leg.description>
+
+
+</LanguageData>

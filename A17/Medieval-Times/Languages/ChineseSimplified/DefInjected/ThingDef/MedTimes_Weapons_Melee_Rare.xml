@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- (Medieval) Blackheart - 1h Knife -->
+
+  <MedTimes_Melee_KnifeBlackheart_Art.label>黑心</MedTimes_Melee_KnifeBlackheart_Art.label>
+  <MedTimes_Melee_KnifeBlackheart_Art.description>(人造品)(削切)[近战命中率:+10%][烹饪速度:+10%][屠宰速度:+10%]显然，这是一把“博伊刀”，但是这一把刀片长度超过1英尺。非常优质的刀具而且非常合手。有一些这种刀散落在这个星球上，每一把都被认为是珍宝，被所有士兵和收藏家所追捧。\n\n译者注：博伊刀最初设计就是用来格斗的，很可能有一英尺长，之后被改良成为了一种生存用刀，当然，尺寸大大缩减了。一英尺=30.48厘米</MedTimes_Melee_KnifeBlackheart_Art.description>
+
+
+  <!-- (Medieval) Techno Sword - 1h Sword -->
+
+  <MedTimes_Melee_SwordTechno_Art.label>高科技长剑</MedTimes_Melee_SwordTechno_Art.label>
+  <MedTimes_Melee_SwordTechno_Art.description>(人造品)(削切)[近战命中率:+10%]这把剑拿在手上感觉很奇怪而且不稳定。它的重心不好掌握，手感也不是很好。很显然，它的制造者不是个武者也不是剑客。但不得不说这把剑仍是现代技术的奇迹，它难以置信的轻巧和坚固。这把剑约束电子沿着剑的边缘产生等离子体，并带有调节温度分布的温控系统。由玻璃钢和一些不明零件、材料制成，手柄是某种胶质品和合成皮革制作的。这种剑可能是在某个闪耀世界中大量制造的，同时也意味着这玩意没有经历过实战的考验。有很多遗失在这个星球周围宇宙空间的可怜闪耀世界士兵坠毁到这个星球上然后交出了这把剑，无论他们愿不愿意。</MedTimes_Melee_SwordTechno_Art.description>
+
+
+  <!-- (Medieval) Viscious - 2h Sword -->
+
+  <MedTimes_Melee_SwordVicious_Art.label>恶毒</MedTimes_Melee_SwordVicious_Art.label>
+  <MedTimes_Melee_SwordVicious_Art.description>(人造品)(削切)[近战命中率:+10%]百炼钢制武士刀，虽然有点旧了甚至有点生锈，但依旧好用。这些武士刀遗失在这个星球，没人知道它们的由来。最有可能的是一个愚蠢的闪耀世界收藏家带来的。这是一个可笑的故事，一些来自闪耀世界的剑类收藏家想要在当地的野生动物身上测试一下这些刀，当然，按照剧情，在当地的武装人员到来时，发生了一些可怕的意外。我认为一定是炒作，但一定是个有趣的故事。</MedTimes_Melee_SwordVicious_Art.description>
+
+
+  <!-- (Medieval) Caladbog - 2h Sword -->
+
+  <MedTimes_Melee_SwordCaladbog_Art.label>螺旋剑（Caladbolg）</MedTimes_Melee_SwordCaladbog_Art.label>
+  <MedTimes_Melee_SwordCaladbog_Art.description>(人造品)(削切)[近战命中率:+10%]由传说中的英雄弗格斯·马克·罗伊（Fergus_mac_Róich）所持的魔剑，这个词本意是“坚固的雷电”或“雷电般的一击”，并且有可以在一击之间劈碎敌人武器的能力。传说中这把剑经由伟大的亚瑟王之手成为了著名的石中剑，最后在口耳相传中故事渐渐演变成为了亚瑟王手中的胜利与誓约之剑。不管这是仿造的，还是真的，人们都认为这是仿造的，特别是在他们附近有一个大量生产这些的厂商。这些剑都是精工制造，质量一流，不管怎么说，这是能用钱买到的最好的剑了。</MedTimes_Melee_SwordCaladbog_Art.description>
+
+
+  <!-- (Medieval) Answeller - 2h Sword -->
+
+  <MedTimes_Melee_SwordAnsweller_Art.label>告解者（Answeller）</MedTimes_Melee_SwordAnsweller_Art.label>
+  <MedTimes_Melee_SwordAnsweller_Art.description>(人造品)(削切)[近战命中率:+10%]亦被称作“冰牙刃”（Ice_Fang_Blade）。告解者（Answeller）是北境的英雄和最终之王巴巴罗斯（Balbarous）的传奇佩剑。在传说中详细描述了北方王国伊斯卡利亚（Escalia）史诗一般的兴衰史和与被称为“上帝审判庭”（The_Great_Father's_Court）的帝国之间的艰难斗争。整个故事充斥着政治阴谋和背叛，最后以伊斯卡利亚的覆灭而告终。在故事中伊斯卡利亚是在巴巴罗斯的兄弟萨博巴（Saboba）与其秘密情人卡珊德拉（Cassandra）结婚之后覆灭的，而卡珊德拉是马拉托里斯（Melatoris）的女儿被尊为“上帝审判庭”的公主（圣女？）。在这场联姻后，萨博巴调转他的矛头带着卡珊德拉与她父亲支援的军队和自己的部属指向了原来的兄弟。他们在一个被称作“冰雪之境”的巨型地下洞穴发生了一场史诗般的战斗。据传，巴巴罗斯被杀之后整个世界都笼罩在“烈日的炙烤”之中。在这个故事中对于佩剑有着极其详尽的描述，包括著名的被镶在剑柄上的被称为“北境之心”的蓝色宝石。所以多年以来不计其数的匠师都想按照它在传说中所描述的样子复原此剑。无论这把是真正的传说之剑或者仅仅只是一个玩笑，它都是材质优良的精美武器。\n\n译者注：这个故事我并不知其来由，所以全都是乱翻的。2333</MedTimes_Melee_SwordAnsweller_Art.description>
+
+
+  <!-- (Medieval) Talent Breaker - 2h Club -->
+
+  <MedTimes_Melee_ClubTalentBreaker_Art.label>天才粉碎器</MedTimes_Melee_ClubTalentBreaker_Art.label>
+  <MedTimes_Melee_ClubTalentBreaker_Art.description>(人造品)(钝击)[近战命中率:+10%]边缘世界土著最喜欢的武器，在附近有许多来自工业化世界的财团大量生产并运输到各个边缘世界当中。甚至还有一些资源丰富的土著城市可以生产，也意味着有不少财团在这个世界活动。这种武器在这些财团口中被称为“天才粉碎器”，因为它们可以让一个不熟练的人轻易击败比他们技巧高超的敌人。运气好的话，这件武器可以轻易地弄残或者杀死一个全副武装的敌人。正因为如此相当多的地方领主开始限制这种武器的销售，并且开始列装它和其他武器以降低受到敌人和强盗进攻的风险。</MedTimes_Melee_ClubTalentBreaker_Art.description>
+
+
+  <!-- (Medieval) Blackheart - 1h Knife -->
+
+  <MedTimes_Melee_KnifeBlackheart_Leg.label>黑心</MedTimes_Melee_KnifeBlackheart_Leg.label>
+  <MedTimes_Melee_KnifeBlackheart_Leg.description>(传奇物品)(削切)[近战命中率:+10%][烹饪速度:+10%][屠宰速度:+10%]显然，这是一把“博伊刀”，但是这一把刀片长度超过1英尺。非常优质的刀具而且非常合手。有一些这种刀散落在这个星球上，每一把都被认为是珍宝，被所有士兵和收藏家所追捧。\n\n译者注：博伊刀最初设计就是用来格斗的，很可能有一英尺长，之后被改良成为了一种生存用刀，当然，尺寸大大缩减了。一英尺=30.48厘米</MedTimes_Melee_KnifeBlackheart_Leg.description>
+
+
+  <!-- (Medieval) Techno Sword - 1h Sword -->
+
+  <MedTimes_Melee_SwordTechno_Leg.label>高科技长剑</MedTimes_Melee_SwordTechno_Leg.label>
+  <MedTimes_Melee_SwordTechno_Leg.description>(传奇物品)(削切)[近战命中率:+10%]这把剑拿在手上感觉很奇怪而且不稳定。它的重心不好掌握，手感也不是很好。很显然，它的制造者不是个武者也不是剑客。但不得不说这把剑仍是现代技术的奇迹，它难以置信的轻巧和坚固。这把剑约束电子沿着剑的边缘产生等离子体，并带有调节温度分布的温控系统。由玻璃钢和一些不明零件、材料制成，手柄是某种胶质品和合成皮革制作的。这种剑可能是在某个闪耀世界中大量制造的，同时也意味着这玩意没有经历过实战的考验。有很多遗失在这个星球周围宇宙空间的可怜闪耀世界士兵坠毁到这个星球上然后交出了这把剑，无论他们愿不愿意。</MedTimes_Melee_SwordTechno_Leg.description>
+
+
+  <!-- (Medieval) Viscious - 2h Sword -->
+
+  <MedTimes_Melee_SwordVicious_Leg.label>恶毒</MedTimes_Melee_SwordVicious_Leg.label>
+  <MedTimes_Melee_SwordVicious_Leg.description>(传奇物品)(削切)[近战命中率:+10%]百炼钢制武士刀，虽然有点旧了甚至有点生锈，但依旧好用。这些武士刀遗失在这个星球，没人知道它们的由来。最有可能的是一个愚蠢的闪耀世界收藏家带来的。这是一个可笑的故事，一些来自闪耀世界的剑类收藏家想要在当地的野生动物身上测试一下这些刀，当然，按照剧情，在当地的武装人员到来时，发生了一些可怕的意外。我认为一定是炒作，但一定是个有趣的故事。</MedTimes_Melee_SwordVicious_Leg.description>
+
+
+  <!-- (Medieval) Caladbog - 2h Sword -->
+
+  <MedTimes_Melee_SwordCaladbog_Leg.label>螺旋剑（Caladbolg）</MedTimes_Melee_SwordCaladbog_Leg.label>
+  <MedTimes_Melee_SwordCaladbog_Leg.description>(传奇物品)(削切)[近战命中率:+10%]由传说中的英雄弗格斯·马克·罗伊（Fergus_mac_Róich）所持的魔剑，这个词本意是“坚固的雷电”或“雷电般的一击”，并且有可以在一击之间劈碎敌人武器的能力。传说中这把剑经由伟大的亚瑟王之手成为了著名的石中剑，最后在口耳相传中故事渐渐演变成为了亚瑟王手中的胜利与誓约之剑。不管这是仿造的，还是真的，人们都认为这是仿造的，特别是在他们附近有一个大量生产这些的厂商。这些剑都是精工制造，质量一流，不管怎么说，这是能用钱买到的最好的剑了。</MedTimes_Melee_SwordCaladbog_Leg.description>
+
+
+  <!-- (Medieval) Answeller - 2h Sword -->
+
+  <MedTimes_Melee_SwordAnsweller_Leg.label>告解者（Answeller）</MedTimes_Melee_SwordAnsweller_Leg.label>
+  <MedTimes_Melee_SwordAnsweller_Leg.description>(传奇物品)(削切)[近战命中率:+10%]亦被称作“冰牙刃”（Ice_Fang_Blade）。告解者（Answeller）是北境的英雄和最终之王巴巴罗斯（Balbarous）的传奇佩剑。在传说中详细描述了北方王国伊斯卡利亚（Escalia）史诗一般的兴衰史和与被称为“上帝审判庭”（The_Great_Father's_Court）的帝国之间的艰难斗争。整个故事充斥着政治阴谋和背叛，最后以伊斯卡利亚的覆灭而告终。在故事中伊斯卡利亚是在巴巴罗斯的兄弟萨博巴（Saboba）与其秘密情人卡珊德拉（Cassandra）结婚之后覆灭的，而卡珊德拉是马拉托里斯（Melatoris）的女儿被尊为“上帝审判庭”的公主（圣女？）。在这场联姻后，萨博巴调转他的矛头带着卡珊德拉与她父亲支援的军队和自己的部属指向了原来的兄弟。他们在一个被称作“冰雪之境”的巨型地下洞穴发生了一场史诗般的战斗。据传，巴巴罗斯被杀之后整个世界都笼罩在“烈日的炙烤”之中。在这个故事中对于佩剑有着极其详尽的描述，包括著名的被镶在剑柄上的被称为“北境之心”的蓝色宝石。所以多年以来不计其数的匠师都想按照它在传说中所描述的样子复原此剑。无论这把是真正的传说之剑或者仅仅只是一个玩笑，它都是材质优良的精美武器。\n\n译者注：这个故事我并不知其来由，所以全都是乱翻的。2333</MedTimes_Melee_SwordAnsweller_Leg.description>
+
+
+  <!-- (Medieval) Talent Breaker - 2h Club -->
+
+  <MedTimes_Melee_ClubTalentBreaker_Leg.label>天才粉碎器</MedTimes_Melee_ClubTalentBreaker_Leg.label>
+  <MedTimes_Melee_ClubTalentBreaker_Leg.description>(人造品)(钝击)[近战命中率:+10%]边缘世界土著最喜欢的武器，在附近有许多来自工业化世界的财团大量生产并运输到各个边缘世界当中。甚至还有一些资源丰富的土著城市可以生产，也意味着有不少财团在这个世界活动。这种武器在这些财团口中被称为“天才粉碎器”，因为它们可以让一个不熟练的人轻易击败比他们技巧高超的敌人。运气好的话，这件武器可以轻易地弄残或者杀死一个全副武装的敌人。正因为如此相当多的地方领主开始限制这种武器的销售，并且开始列装它和其他武器以降低受到敌人和强盗进攻的风险。</MedTimes_Melee_ClubTalentBreaker_Leg.description>
+
+
+  <!-- (Medieval) Vidar's Cleaver - 2h Axe -->
+
+  <MedTimes_Melee_MedTimes_AxeBlood_Leg.label>血吼</MedTimes_Melee_MedTimes_AxeBlood_Leg.label>
+  <MedTimes_Melee_MedTimes_AxeBlood_Leg.description>(传奇物品)(削切)[近战命中率:+10%]血吼是非常神秘的物品，成百上千的被它的斧刃所杀的灵魂诅咒者这把斧。它有着似乎在轻微颤动的血红色斧刃，并且时不时有血色的光芒在表面浮现。深受收藏家和战士的喜爱。</MedTimes_Melee_MedTimes_AxeBlood_Leg.description>
+
+  <MedTimes_Melee_AxeVidar_Leg.label>维达的切肉斧</MedTimes_Melee_AxeVidar_Leg.label>
+  <MedTimes_Melee_AxeVidar_Leg.description>(传奇物品)(削切)[近战命中率:+10%]没人知道这把造型野蛮的双手战斧的来历，只有它在战场上掀起的血浪能显示它的存在。如果它处在一名身经百战的战士手中，将敌人劈成两半的场面并不罕见。因此它深受战争领主和收藏家的追捧，当地人用北欧神中战争与复仇之神维达的名字来命名它。他是全世界所有雇佣兵的守护神，主神奥丁的儿子，沉默寡言的穿着重靴的神。据说他的力量仅次于雷神托尔，也就是说，比奥丁更强。</MedTimes_Melee_AxeVidar_Leg.description>
+
+
+  <!-- (Medieval) Void Hammer - 2h Hammer -->
+
+  <MedTimes_Melee_HammerVoid_Leg.label>虚空神锤</MedTimes_Melee_HammerVoid_Leg.label>
+  <MedTimes_Melee_HammerVoid_Leg.description>(传奇物品)(钝击)[近战命中率:+10%]双手锤，甚至已经成了当地的一个传说。一些东西在周围漂浮着，这些锤子是一段时间前被同一个人制造的。工艺精湛造型也同样精美，这锤子是用一种极其特殊的石头制造的，一种简称为“虚空石”的触感冰寒的光滑黑色石头。没人知道这种石头是如何制造的，但一位来自闪耀世界的尖端科学家将它命名为“达文”（Davin）并猜测这是某种形态的鲁伯特之泪其中还含有少量的暗物质。这种石头因为其不可思议的沉重和坚硬而为人所知。</MedTimes_Melee_HammerVoid_Leg.description>
+
+
+</LanguageData>
