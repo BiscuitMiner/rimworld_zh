@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--[Core] <Vent.label>空調扇</Vent.label>-->
+  <!--[Core] <Vent.description>一個簡單的風扇，用於調節兩個房間之間的室溫。人們無法通過空調扇往來兩個房間。</Vent.description>-->
+  <!--[Core] <Vent_Blueprint.label>空調扇藍圖</Vent_Blueprint.label>-->
+  <!--[Core] <Vent_Frame.label>空調扇框架</Vent_Frame.label>-->
+  <!--[Core] <Vent_Frame.description>一個簡單的風扇，用於調節兩個房間之間的室溫。人們無法通過空調扇往來兩個房間。</Vent_Frame.description>-->
+
+  <RedistHeat_ActiveVent.label>自動式空調扇</RedistHeat_ActiveVent.label>
+  <RedistHeat_ActiveVent.description>一個簡單的風扇，用於調節兩個房間之間的室溫。人們無法通過空調扇往來兩個房間。黃色部份要面向控制溫度的房間。</RedistHeat_ActiveVent.description>
+  <RedistHeat_ActiveVent_Blueprint.label>自動式空調扇 (藍圖)</RedistHeat_ActiveVent_Blueprint.label>
+  <RedistHeat_ActiveVent_Frame.label>自動式空調扇 (建造中)</RedistHeat_ActiveVent_Frame.label>
+  <RedistHeat_ActiveVent_Frame.description>一個簡單的風扇，用於調節兩個房間之間的室溫。人們無法通過空調扇往來兩個房間。黃色部份要面向控制溫度的房間。</RedistHeat_ActiveVent_Frame.description>
+
+
+  <!--[Core] <Vent.label>vent</Vent.label>-->
+  <!--[Core] <Vent.description>A simple vent for equalizing the temperature between two rooms without allowing people to walk between them.</Vent.description>-->
+  <!--[Core] <Vent_Blueprint.label>vent (blueprint)</Vent_Blueprint.label>-->
+  <!--[Core] <Vent_Frame.label>vent (building)</Vent_Frame.label>-->
+  <!--[Core] <Vent_Blueprint.label>vent (藍圖)</Vent_Blueprint.label>-->
+  <!--[Core] <Vent_Frame.label>vent (建造中)</Vent_Frame.label>-->
+
+</LanguageData>

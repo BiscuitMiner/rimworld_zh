@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RedistHeat_CurrentConnectionChannel>已连接到 {0} 通道。</RedistHeat_CurrentConnectionChannel>
+  <RedistHeat_CurrentConnectedNetTemp>净温度：</RedistHeat_CurrentConnectedNetTemp>
+  <RedistHeat_CycleLayerLabel>切换通道</RedistHeat_CycleLayerLabel>
+  <RedistHeat_CycleLayerDesc>切换为其他通道。</RedistHeat_CycleLayerDesc>
+  <RedistHeat_CycleLayerMote>到 {0} 通道</RedistHeat_CycleLayerMote>
+
+  <RedistHeat_UpperChannelTranslated>Upper</RedistHeat_UpperChannelTranslated>
+  <RedistHeat_LowerChannelTranslated>Lower</RedistHeat_LowerChannelTranslated>
+
+  <RedistHeat_DesignatorDeconstructReverse>拆除 (反向)</RedistHeat_DesignatorDeconstructReverse>
+  <RedistHeat_DesignatorDeconstructReverseDesc>拆除建筑并回收部分资源。优先拆除电缆和管道。</RedistHeat_DesignatorDeconstructReverseDesc>
+
+  <RedistHeat_WallAlreadyOccupied>墙壁已经被占用。</RedistHeat_WallAlreadyOccupied>
+  <RedistHeat_NeedsWall>只能放置在墙上</RedistHeat_NeedsWall>
+
+</LanguageData>

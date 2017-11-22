@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--[Core] <Heater.label>加热器</Heater.label>-->
+  <!--[Core] <Heater.description>一个将电能转换成热能的电器设备。它会自动根据当前室内温度开关以达到设定的目标温度。</Heater.description>-->
+  <!--[Core] <Heater_Blueprint.label>加热器（蓝图）</Heater_Blueprint.label>-->
+  <!--[Core] <Heater_Blueprint_Install.label>加热器（蓝图）</Heater_Blueprint_Install.label>-->
+  <!--[Core] <Heater_Frame.label>加热器（建造中）</Heater_Frame.label>-->
+  <!--[Core] <Heater_Frame.description>一个将电能转换成热能的电器设备。它会自动根据当前室内温度开关以达到设定的目标温度。</Heater_Frame.description>-->
+
+  <!--[Core] <Cooler.label>制冷机</Cooler.label>-->
+  <!--[Core] <Cooler.description>一个能够作为墙体安装的电器设备，可将冷空气吹入房间内，同时外机部分产生大量热量。可以在夏季为房间降温，或者用其建造一个冷库。</Cooler.description>-->
+  <!--[Core] <Cooler_Blueprint.label>制冷机（蓝图）</Cooler_Blueprint.label>-->
+  <!--[Core] <Cooler_Frame.label>制冷机（建造中）</Cooler_Frame.label>-->
+  <!--[Core] <Cooler_Frame.description>一个能够作为墙体安装的电器设备，可将冷空气吹入房间内，同时外机部分产生大量热量。可以在夏季为房间降温，或者用其建造一个冷库。</Cooler_Frame.description>-->
+
+  <RH_SmallCooler.label>冷却器(小型)</RH_SmallCooler.label>
+  <RH_SmallCooler.description>一种放置在墙壁上，并将冷空气推送至房间内的电器。它的排气口会产生大量热气。在夏季时可以用来冷却房间，或建造一个冷藏库。</RH_SmallCooler.description>
+  <RH_SmallCooler_Blueprint.label>冷却器 (蓝图)</RH_SmallCooler_Blueprint.label>
+  <RH_SmallCooler_Frame.label>冷却器 (建造中)</RH_SmallCooler_Frame.label>
+  <RH_SmallCooler_Frame.description>一种放置在墙壁上，并将冷空气推送至房间内的电器。它的排气口会产生大量热气。在夏季时可以用来冷却房间，或建造一个冷藏库。</RH_SmallCooler_Frame.description>
+
+  <RH_MediumHeater.label>加热器(中型)</RH_MediumHeater.label>
+  <RH_MediumHeater.description>壁挂式加热器，能更有效率加热大房间或基地。它能自动开启或关闭以达到指定的目标温度。</RH_MediumHeater.description>
+  <RH_MediumHeater_Blueprint.label>加热器(中型) (蓝图)</RH_MediumHeater_Blueprint.label>
+  <RH_MediumHeater_Frame.label>加热器(中型) (建造中)</RH_MediumHeater_Frame.label>
+  <RH_MediumHeater_Frame.description>壁挂式加热器，能更有效率加热大房间或基地。它能自动开启或关闭以达到指定的目标温度。</RH_MediumHeater_Frame.description>
+
+
+  <!-- Medium Heater Glower -->
+
+  <RedistHeat_HeaterGlower.label>加热器(中型)</RedistHeat_HeaterGlower.label>
+
+  <RedistHeat_IndustrialHeater.label>工业加热器</RedistHeat_IndustrialHeater.label>
+  <RedistHeat_IndustrialHeater.description>大型工业加热器，能更有效率加热大型房间或基地。它能自动开启或关闭以达到指定的目标温度。</RedistHeat_IndustrialHeater.description>
+  <RedistHeat_IndustrialHeater_Blueprint.label>工业加热器 (蓝图)</RedistHeat_IndustrialHeater_Blueprint.label>
+  <RedistHeat_IndustrialHeater_Frame.label>工业加热器 (建造中)</RedistHeat_IndustrialHeater_Frame.label>
+  <RedistHeat_IndustrialHeater_Frame.description>大型工业加热器，能更有效率加热大型房间或基地。它能自动开启或关闭以达到指定的目标温度。</RedistHeat_IndustrialHeater_Frame.description>
+
+  <RedistHeat_IndustrialCooler.label>工业冷却器</RedistHeat_IndustrialCooler.label>
+  <RedistHeat_IndustrialCooler.description>一个巨型的电子设备，将冷空气推送至房间内，需要至少一个连接外部的排气口。</RedistHeat_IndustrialCooler.description>
+  <RedistHeat_IndustrialCooler_Blueprint.label>工业冷却器 (蓝图)</RedistHeat_IndustrialCooler_Blueprint.label>
+  <RedistHeat_IndustrialCooler_Frame.label>工业冷却器 (建造中)</RedistHeat_IndustrialCooler_Frame.label>
+  <RedistHeat_IndustrialCooler_Frame.description>一个巨型的电子设备，将冷空气推送至房间内，需要至少一个连接外部的排气口。</RedistHeat_IndustrialCooler_Frame.description>
+
+  <RedistHeat_ExhaustPort.label>排气口</RedistHeat_ExhaustPort.label>
+  <RedistHeat_ExhaustPort.description>作工业冷却器用的排气口，会排出大量热气。</RedistHeat_ExhaustPort.description>
+  <RedistHeat_ExhaustPort_Blueprint.label>排气口 (蓝图)</RedistHeat_ExhaustPort_Blueprint.label>
+  <RedistHeat_ExhaustPort_Frame.label>排气口 (建造中)</RedistHeat_ExhaustPort_Frame.label>
+  <RedistHeat_ExhaustPort_Frame.description>作工业冷却器用的排气口，会排出大量热气。</RedistHeat_ExhaustPort_Frame.description>
+
+
+  <!--[Core] <Heater.label>small heater</Heater.label>-->
+  <!--[Core] <Heater.description>An electrical device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature.</Heater.description>-->
+  <!--[Core] <Heater_Blueprint.label>small heater (blueprint)</Heater_Blueprint.label>-->
+  <!--[Core] <Heater_Blueprint_Install.label>small heater (blueprint)</Heater_Blueprint_Install.label>-->
+  <!--[Core] <Heater_Frame.label>small heater (building)</Heater_Frame.label>-->
+  <!--[Core] <Cooler.label>medium cooler</Cooler.label>-->
+  <!--[Core] <Cooler.description>An electrical device that fits into a wall and pushes cold air into a room. Its exhaust port generates a lot of heat. Can be used to cool down rooms during the summer months, or to create a walk-in freezer.
+        </Cooler.description>-->
+  <!--[Core] <Cooler_Blueprint.label>medium cooler (blueprint)</Cooler_Blueprint.label>-->
+  <!--[Core] <Cooler_Frame.label>medium cooler (building)</Cooler_Frame.label>-->
+  <!--[Core] <Heater.label>加热器(小型)</Heater.label>-->
+  <!--[Core] <Heater.description>将电能转化为热能的电器。它能自动开启或关闭以达到指定的目标温度。</Heater.description>-->
+  <!--[Core] <Heater_Blueprint.label>small heater (蓝图)</Heater_Blueprint.label>-->
+  <!--[Core] <Heater_Blueprint_Install.label>small heater (蓝图)</Heater_Blueprint_Install.label>-->
+  <!--[Core] <Heater_Frame.label>small heater (建造中)</Heater_Frame.label>-->
+  <!--[Core] <Cooler.label>冷却器(中型)</Cooler.label>-->
+  <!--[Core] <Cooler.description>一种放置在墙壁上，并将冷空气推送至房间内的电器。它的排气口会产生大量热气。在夏季时可以用来冷却房间，或建造一个冷藏库。</Cooler.description>-->
+  <!--[Core] <Cooler_Blueprint.label>medium cooler (蓝图)</Cooler_Blueprint.label>-->
+  <!--[Core] <Cooler_Frame.label>medium cooler (建造中)</Cooler_Frame.label>-->
+
+</LanguageData>

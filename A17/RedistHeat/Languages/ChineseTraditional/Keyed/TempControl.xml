@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RedistHeat_State>狀態</RedistHeat_State>
+  <RedistHeat_Working>可用</RedistHeat_Working>
+  <RedistHeat_NotWorking>不可用</RedistHeat_NotWorking>
+
+  <RedistHeat_WorkingDucts>運作中的排氣口</RedistHeat_WorkingDucts>
+
+  <RedistHeat_MustExposeDuct>黃色方形必須暴露。</RedistHeat_MustExposeDuct>
+  <RedistHeat_MustExposeHotSide>排氣口的散熱一端必須暴露。</RedistHeat_MustExposeHotSide>
+  <RedistHeat_MustExposeColdSide>冷卻器的製冷一端必須暴露。</RedistHeat_MustExposeColdSide>
+  <RedistHeat_MustPlaceBackSideOnCooler>擺放時要貼近冷卻器，灰色箭頭必須面向外面。</RedistHeat_MustPlaceBackSideOnCooler>
+
+</LanguageData>
