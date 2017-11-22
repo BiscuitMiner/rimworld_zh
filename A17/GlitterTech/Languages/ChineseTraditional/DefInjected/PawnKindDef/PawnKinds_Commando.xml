@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Commando.label>突擊隊員</Commando.label>
+  <Commando.labelPlural>突擊隊員</Commando.labelPlural>
+
+  <CommandoH.label>重裝突擊隊員</CommandoH.label>
+  <CommandoH.labelPlural>重裝突擊隊員</CommandoH.labelPlural>
+
+  <CommandoScout.label>偵查突擊隊員</CommandoScout.label>
+  <CommandoScout.labelPlural>偵查突擊隊員</CommandoScout.labelPlural>
+
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Commando.label>突击队员</Commando.label>
+  <Commando.labelPlural>Commandos</Commando.labelPlural>
+
+  <CommandoH.label>重装突击队员</CommandoH.label>
+  <CommandoH.labelPlural>Commando Heavys</CommandoH.labelPlural>
+
+  <CommandoScout.label>侦查突击队员</CommandoScout.label>
+  <CommandoScout.labelPlural>Commando Scouts</CommandoScout.labelPlural>
+
+
+</LanguageData>

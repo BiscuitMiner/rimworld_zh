@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--[Core] <TransportPod.label>運輸艙發射平台</TransportPod.label>-->
+  <!--[Core] <TransportPod.description>解鎖建造次行星軌道運輸艙，讓你能夠快速進行長距離的人員及物資輸送。</TransportPod.description>-->
+
+  <!--[Core] <HospitalBed.label>醫療床</HospitalBed.label>-->
+  <!--[Core] <HospitalBed.description>解鎖建造醫療床，在醫療床上可增加醫療工作成功的機率。</HospitalBed.description>-->
+
+  <!--[Core] <MultiAnalyzer.label>多重分析技術</MultiAnalyzer.label>-->
+  <!--[Core] <MultiAnalyzer.description>解鎖建造多重分析裝置，可用來加快研究速度、解鎖更高階的科技。必須安裝在高科技研究桌附近。</MultiAnalyzer.description>-->
+
+  <!--[Core] <VitalsMonitor.label>生命體徵檢測器</VitalsMonitor.label>-->
+  <!--[Core] <VitalsMonitor.description>解鎖建造生命體徵檢測器，可增加醫療效果，必須安裝在醫療床旁邊。</VitalsMonitor.description>-->
+
+  <!--[Core] <GroundPenetratingScanner.label>礦脈聲納</GroundPenetratingScanner.label>-->
+  <!--[Core] <GroundPenetratingScanner.description>解鎖建造礦脈聲納，可探測位在地底的可採掘礦物資源。</GroundPenetratingScanner.description>-->
+
+  <!--[Core] <DeepDrilling.label>採掘機</DeepDrilling.label>-->
+  <!--[Core] <DeepDrilling.description>解鎖建造採掘機，可以從地下深處開採礦物。你需要礦脈聲納才能找出礦物位置。</DeepDrilling.description>-->
+
+  <!--[Core] <ShipBasics.label>基本星艦建造</ShipBasics.label>-->
+  <!--[Core] <ShipBasics.description>解鎖你研究更多關於建造星艦的科技以建造一艘逃離這個星球的星艦。</ShipBasics.description>-->
+
+
+  <!--[Core] <TransportPod.label>transport pod</TransportPod.label>-->
+  <!--[Core] <TransportPod.description>Construct launchable transport pods that you can use to launch people and supplies long distances across the planet's surface.</TransportPod.description>-->
+  <!--[Core] <HospitalBed.label>hospital bed</HospitalBed.label>-->
+  <!--[Core] <HospitalBed.description>Allows colonists to construct hospital beds which increase chance of successful medical work.</HospitalBed.description>-->
+  <!--[Core] <MultiAnalyzer.label>multi-analyzer</MultiAnalyzer.label>-->
+  <!--[Core] <MultiAnalyzer.description>Allows colonists to build multi-analyzers which increase research speed, and allow higher-level research projects, if placed near a research bench.</MultiAnalyzer.description>-->
+  <!--[Core] <VitalsMonitor.label>vitals monitor</VitalsMonitor.label>-->
+  <!--[Core] <VitalsMonitor.description>Allows colonists to build vitals monitors which increase patients treatment quality if placed next to medical beds.</VitalsMonitor.description>-->
+  <!--[Core] <GroundPenetratingScanner.label>ground-penetrating scanner</GroundPenetratingScanner.label>-->
+  <!--[Core] <GroundPenetratingScanner.description>Allows you to build ground-penetrating scanners that can detect drillable resources deep under the surface.</GroundPenetratingScanner.description>-->
+  <!--[Core] <DeepDrilling.label>deep drilling</DeepDrilling.label>-->
+  <!--[Core] <DeepDrilling.description>Allows you to build deep drills for extracting resources from deep underground. You'll need a ground-penetrating scanner to find the resources.</DeepDrilling.description>-->
+  <!--[Core] <ShipBasics.label>shipbuilding basics</ShipBasics.label>-->
+  <!--[Core] <ShipBasics.description>Allows you to start researching more advanced shipbuilding technologies and eventually build a ship to escape the planet.</ShipBasics.description>-->
+
+</LanguageData>
