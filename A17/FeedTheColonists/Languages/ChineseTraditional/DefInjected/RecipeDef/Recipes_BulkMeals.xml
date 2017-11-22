@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Cook4MealSimple.label>烹調簡單的料理(4)</Cook4MealSimple.label>
+  <Cook4MealSimple.description>用一種原料烹調四份簡單的料理。</Cook4MealSimple.description>
+  <Cook4MealSimple.jobString>正在烹調簡單的料理。</Cook4MealSimple.jobString>
+
+  <Cook4MealFine.label>烹調精緻的料理(4)</Cook4MealFine.label>
+  <Cook4MealFine.description>用肉和植物組合作為原料烹調四份相對複雜的料理。</Cook4MealFine.description>
+  <Cook4MealFine.jobString>正在烹調精緻的料理。</Cook4MealFine.jobString>
+
+  <Cook4MealLavish.label>烹調奢侈的料理(4)</Cook4MealLavish.label>
+  <Cook4MealLavish.description>用肉和植物組合作為原料烹調四份非常複雜精緻的料理。絕大多數原料會被浪費掉。</Cook4MealLavish.description>
+  <Cook4MealLavish.jobString>正在烹調奢侈的料理。</Cook4MealLavish.jobString>
+
+  <Cook4MealSurvival.label>烹調生存食品包(4)</Cook4MealSurvival.label>
+  <Cook4MealSurvival.description>用肉和植物組合作為原料烹調四份生存食品包，許多營養值會被浪費掉。</Cook4MealSurvival.description>
+  <Cook4MealSurvival.jobString>正在烹調生存食品包。</Cook4MealSurvival.jobString>
+
+  <Make4Pemmican.label>製作肉餅(4)</Make4Pemmican.label>
+  <Make4Pemmican.description>混合肉類、作物製作的乾燥加工食品，雖稱不上美味，但可以於常溫存放一年以上。</Make4Pemmican.description>
+  <Make4Pemmican.jobString>正在製作肉餅。</Make4Pemmican.jobString>
+
+  <Make4Kibble.label>製作飼料(4)</Make4Kibble.label>
+  <Make4Kibble.description>混合生肉和作物製成的動物飼料。</Make4Kibble.description>
+  <Make4Kibble.jobString>正在製作飼料。</Make4Kibble.jobString>
+
+
+</LanguageData>
