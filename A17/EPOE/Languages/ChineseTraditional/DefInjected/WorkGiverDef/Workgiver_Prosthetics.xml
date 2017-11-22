@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DoBillsTableOrgans.label>印列器官</DoBillsTableOrgans.label>
+  <DoBillsTableOrgans.verb>印列</DoBillsTableOrgans.verb>
+  <DoBillsTableOrgans.gerund>印列</DoBillsTableOrgans.gerund>
+
+  <DoBillsSimpleProstheticWorkbench.label>製作簡單假體</DoBillsSimpleProstheticWorkbench.label>
+  <DoBillsSimpleProstheticWorkbench.verb>組裝</DoBillsSimpleProstheticWorkbench.verb>
+  <DoBillsSimpleProstheticWorkbench.gerund>組裝</DoBillsSimpleProstheticWorkbench.gerund>
+
+  <DoBillsBasicProstheticWorkbench.label>製作基本假體</DoBillsBasicProstheticWorkbench.label>
+  <DoBillsBasicProstheticWorkbench.verb>組裝</DoBillsBasicProstheticWorkbench.verb>
+  <DoBillsBasicProstheticWorkbench.gerund>組裝</DoBillsBasicProstheticWorkbench.gerund>
+
+  <DoBillsBionicWorkbench.label>製作仿生假體</DoBillsBionicWorkbench.label>
+  <DoBillsBionicWorkbench.verb>組裝</DoBillsBionicWorkbench.verb>
+  <DoBillsBionicWorkbench.gerund>組裝</DoBillsBionicWorkbench.gerund>
+
+
+</LanguageData>
