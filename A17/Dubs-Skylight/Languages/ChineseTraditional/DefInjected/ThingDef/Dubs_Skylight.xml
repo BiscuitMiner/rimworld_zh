@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SkyLight.label>天窗(A)</SkyLight.label>
+  <SkyLight.description>讓日光透過屋頂窗戶照進房子。</SkyLight.description>
+  <SkyLight_Blueprint.label>天窗(A) (藍圖)</SkyLight_Blueprint.label>
+  <SkyLight_Frame.label>天窗(A) (建造中)</SkyLight_Frame.label>
+  <SkyLight_Frame.description>讓日光透過屋頂窗戶照進房子。</SkyLight_Frame.description>
+
+  <SkyLightB.label>天窗(B)</SkyLightB.label>
+  <SkyLightB.description>讓日光透過屋頂窗戶照進房子。</SkyLightB.description>
+  <SkyLightB_Blueprint.label>天窗(B) (藍圖)</SkyLightB_Blueprint.label>
+  <SkyLightB_Frame.label>天窗(B) (建造中)</SkyLightB_Frame.label>
+  <SkyLightB_Frame.description>讓日光透過屋頂窗戶照進房子。</SkyLightB_Frame.description>
+
+  <SkyLightC.label>天窗(C)</SkyLightC.label>
+  <SkyLightC.description>讓日光透過屋頂窗戶照進房子。</SkyLightC.description>
+  <SkyLightC_Blueprint.label>天窗(C) (藍圖)</SkyLightC_Blueprint.label>
+  <SkyLightC_Frame.label>天窗(C) (建造中)</SkyLightC_Frame.label>
+  <SkyLightC_Frame.description>讓日光透過屋頂窗戶照進房子。</SkyLightC_Frame.description>
+
+  <SkyLightD.label>天窗(D)</SkyLightD.label>
+  <SkyLightD.description>讓日光透過屋頂窗戶照進房子。</SkyLightD.description>
+  <SkyLightD_Blueprint.label>天窗(D) (藍圖)</SkyLightD_Blueprint.label>
+  <SkyLightD_Frame.label>天窗(D) (建造中)</SkyLightD_Frame.label>
+  <SkyLightD_Frame.description>讓日光透過屋頂窗戶照進房子。</SkyLightD_Frame.description>
+
+  <SkyLightE.label>天窗(E)</SkyLightE.label>
+  <SkyLightE.description>讓日光透過屋頂窗戶照進房子。</SkyLightE.description>
+  <SkyLightE_Blueprint.label>天窗(E) (藍圖)</SkyLightE_Blueprint.label>
+  <SkyLightE_Frame.label>天窗(E) (建造中)</SkyLightE_Frame.label>
+  <SkyLightE_Frame.description>讓日光透過屋頂窗戶照進房子。</SkyLightE_Frame.description>
+
+
+</LanguageData>
