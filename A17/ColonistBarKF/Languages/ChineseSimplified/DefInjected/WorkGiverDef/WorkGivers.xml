@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PrisonerRescue.label>rescue downed allies to bed</PrisonerRescue.label>
+  <PrisonerRescue.verb>rescue</PrisonerRescue.verb>
+  <PrisonerRescue.gerund>rescuing</PrisonerRescue.gerund>
+
+  <DoctorRescue2.label>rescue downed allies to bed</DoctorRescue2.label>
+  <DoctorRescue2.verb>rescue</DoctorRescue2.verb>
+  <DoctorRescue2.gerund>rescuing</DoctorRescue2.gerund>
+
+  <PrisonerRescue2.label>rescue downed allies to bed</PrisonerRescue2.label>
+  <PrisonerRescue2.verb>rescue</PrisonerRescue2.verb>
+  <PrisonerRescue2.gerund>rescuing</PrisonerRescue2.gerund>
+
+  <DoctorRescue3.label>rescue downed allies to bed</DoctorRescue3.label>
+  <DoctorRescue3.verb>rescue</DoctorRescue3.verb>
+  <DoctorRescue3.gerund>rescuing</DoctorRescue3.gerund>
+
+  <PrisonerRescue3.label>rescue downed allies to bed</PrisonerRescue3.label>
+  <PrisonerRescue3.verb>rescue</PrisonerRescue3.verb>
+  <PrisonerRescue3.gerund>rescuing</PrisonerRescue3.gerund>
+
+
+</LanguageData>

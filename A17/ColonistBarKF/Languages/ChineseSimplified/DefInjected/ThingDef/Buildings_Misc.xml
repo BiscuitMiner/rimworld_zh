@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Spots -->
+
+  <MedicalBeacon.label>medical beacon</MedicalBeacon.label>
+  <MedicalBeacon.description>Designates a spot where pawns can summoned in full battle gear. After activation, pawns will grab their best combat gear, grab a weapon if not already equipped and move to the spot. Despawns after usage and also after a certain amount of time.</MedicalBeacon.description>
+  <MedicalBeacon_Blueprint.label>medical beacon (blueprint)</MedicalBeacon_Blueprint.label>
+  <MedicalBeacon_Frame.label>medical beacon (building)</MedicalBeacon_Frame.label>
+  <MedicalBeacon_Frame.description>Designates a spot where pawns can summoned in full battle gear. After activation, pawns will grab their best combat gear, grab a weapon if not already equipped and move to the spot. Despawns after usage and also after a certain amount of time.</MedicalBeacon_Frame.description>
+
+
+</LanguageData>
