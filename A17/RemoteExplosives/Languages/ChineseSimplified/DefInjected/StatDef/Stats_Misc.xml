@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ExplosiveChunkYield.label>岩石爆破效果系数</ExplosiveChunkYield.label>
+  <ExplosiveChunkYield.description>这炸药在爆破岩石时的效力。</ExplosiveChunkYield.description>
+
+  <ExplosiveMiningYield.label>矿藏爆破效果系数</ExplosiveMiningYield.label>
+  <ExplosiveMiningYield.description>这炸药在爆破矿藏时的效力。</ExplosiveMiningYield.description>
+
+  <ExplosiveWoodYield.label>木材爆破效果系数</ExplosiveWoodYield.label>
+  <ExplosiveWoodYield.description>这炸药在炸毁树木时的效力。</ExplosiveWoodYield.description>
+
+
+</LanguageData>
