@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DubUnfinishedApparel.label>未完成的装备</DubUnfinishedApparel.label>
+
+  <DubsRepairKit.label>工具箱</DubsRepairKit.label>
+  <DubsRepairKit.description>允许佩戴者在修理设施的同时取回损坏的零件，并且提高修理速度。</DubsRepairKit.description>
+
+  <GlitterKit.label>闪耀世界医护包</GlitterKit.label>
+  <GlitterKit.description>允许佩戴者治疗自己的伤口，但不能执行手术。能够提升愈合速度。</GlitterKit.description>
+
+  <MedicalKit.label>医护包</MedicalKit.label>
+  <MedicalKit.description>允许佩戴者治疗自己的伤口，但不能执行手术。能够提升愈合速度。</MedicalKit.description>
+
+  <MedicineBag.label>药袋</MedicineBag.label>
+  <MedicineBag.description>允许佩戴者治疗自己的伤口，但不能执行手术。能够提升愈合速度。</MedicineBag.description>
+
+
+</LanguageData>

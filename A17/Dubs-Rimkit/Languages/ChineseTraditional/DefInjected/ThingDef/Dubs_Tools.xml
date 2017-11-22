@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SalvagedComponent.label>損壞的電子零件</SalvagedComponent.label>
+  <SalvagedComponent.description>已經損壞的電子零件，可以在機械加工桌上進行修補。</SalvagedComponent.description>
+
+
+  <!-- </ThingDef> -->
+
+  <Hammer.label>榔頭</Hammer.label>
+  <Hammer.description>幫助你更快地建造東西。</Hammer.description>
+
+  <Power_Drill.label>電鑽</Power_Drill.label>
+  <Power_Drill.description>幫助你更快地建造東西。</Power_Drill.description>
+
+  <Trowel.label>鏝刀</Trowel.label>
+  <Trowel.description>有助於種植和更快收穫農作物。</Trowel.description>
+
+  <Pickaxe.label>鶴嘴鋤</Pickaxe.label>
+  <Pickaxe.description>一種挖掘工具，能大幅提升你的採礦速度。</Pickaxe.description>
+
+
+</LanguageData>

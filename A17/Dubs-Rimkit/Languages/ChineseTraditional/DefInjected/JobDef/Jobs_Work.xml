@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TendSelf.reportString>正在TargetA療傷。</TendSelf.reportString>
+  <Bandage.reportString>包紮。</Bandage.reportString>
+  <BandageOthers.reportString>為TargetA療傷。</BandageOthers.reportString>
+  <FixBrokenDownBuildingRepairKit.reportString>更換TargetA的受損壞零件。</FixBrokenDownBuildingRepairKit.reportString>
+
+
+</LanguageData>

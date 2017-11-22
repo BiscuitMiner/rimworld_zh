@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FixBrokenDownBuildingWithKit.label>用工具箱修理损坏的设施</FixBrokenDownBuildingWithKit.label>
+  <FixBrokenDownBuildingWithKit.verb>更换损坏的零件</FixBrokenDownBuildingWithKit.verb>
+  <FixBrokenDownBuildingWithKit.gerund>更换损坏的零件于</FixBrokenDownBuildingWithKit.gerund>
+
+
+  <!--<TendSelf.label>优先在床上疗养</TendSelf.label>-->
+  <!--<TendSelf.verb>优先疗养</TendSelf.verb>-->
+  <!--<TendSelf.gerund>优先疗养</TendSelf.gerund>-->
+
+</LanguageData>
