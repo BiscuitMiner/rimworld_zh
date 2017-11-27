@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeSilage.label>製作青貯飼料（75）</MakeSilage.label>
+  <MakeSilage.description>用乾草和穀物製作青貯飼料。</MakeSilage.description>
+  <MakeSilage.jobString>正在製作青貯飼料。</MakeSilage.jobString>
+
+</LanguageData>
