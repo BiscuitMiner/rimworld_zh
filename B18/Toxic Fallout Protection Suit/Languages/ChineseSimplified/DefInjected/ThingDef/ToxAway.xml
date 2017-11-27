@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ToxAway.label>毒特宁</ToxAway.label>
+  <ToxAway.description>一种含有低等级奈米机械装置的药片，可以提升血液过滤能力。\n\n服用大量的奈米机械可以过滤更多的血液，不过要注意的是这些机械同时也会把血液内的养分过滤掉，因此使用者服食后会变得容易饥饿。大量的毒特宁可以帮助处理严重的感染和疾病，但是大量服食它们的代价就是会对使用者的肝脏和肾脏造成损害。\n\n\n作为可控的低级奈米机械，它们并不能使一些缺失的身体部件重新长出来，同理它们也不会让人对此上瘾。一片毒特宁的药效大约可以维持四分之一天的时间，服用更多，药效和持续时间也会相应增加。
+	</ToxAway.description>
+  <ToxAway.ingestible.ingestCommandString>服食{0}</ToxAway.ingestible.ingestCommandString>
+  <ToxAway.ingestible.ingestReportString>正在服食{0}。</ToxAway.ingestible.ingestReportString>
+
+
+</LanguageData>

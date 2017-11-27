@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ABC_Suit.label>TFPS：ABC-生化防护服</ABC_Suit.label>
+  <ABC_Suit.description>允许殖民者在裁缝桌台上制作ABC生化防护服，这种装束能有效地避免有毒尘埃的影响。</ABC_Suit.description>
+
+  <ToxAwayProduction.label>TFPS：毒特宁</ToxAwayProduction.label>
+  <ToxAwayProduction.description>学习如何制作毒特宁，这是一种含有低等级奈米机械装置的药片，能有效清理体内积存的毒素。</ToxAwayProduction.description>
+
+
+</LanguageData>

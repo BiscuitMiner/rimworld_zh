@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Apparel_ABC_Helmet.label>ABC-生化防護盔</Apparel_ABC_Helmet.label>
+  <Apparel_ABC_Helmet.description>帶有空氣過濾器和一塊高密度防彈鏡片的防護盔，在危急情況下請與其它ABC防護套件一起穿戴以完全阻隔有毒等危險環境的影響。\n\n不過需要注意的是，那塊防彈鏡片對你的瞄準射擊也會有影響。</Apparel_ABC_Helmet.description>
+
+  <Apparel_ABC_Pants.label>ABC-生化防護褲</Apparel_ABC_Pants.label>
+  <Apparel_ABC_Pants.description>一條加入了防護材料和重型防彈板的褲子，可以保護穿戴者不受放射性物質、生物攻擊、毒素等威脅的侵害。\n\n而高度防護的代價，就是它那有點驚人的重量了。雖然對你的靈活行動會有影響，但至少它還是足夠大件，能讓你穿上去。</Apparel_ABC_Pants.description>
+
+  <Apparel_ABC_Jacket.label>ABC-生化防護衣</Apparel_ABC_Jacket.label>
+  <Apparel_ABC_Jacket.description>一條加入了防護材料和重型防彈板的上衣，可以保護穿戴者不受放射性物質、生物攻擊、毒素等威脅的侵害。\n\n而高度防護的代價，就是它那有點驚人的重量了。雖然對你的靈活行動會有影響，但至少它還是足夠大件，能讓你穿上去。</Apparel_ABC_Jacket.description>
+
+
+</LanguageData>
