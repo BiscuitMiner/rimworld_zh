@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FZN_DescriptionMealZone>一个已预设用于存放餐点的储存区。</FZN_DescriptionMealZone>
+  <FZN_DescriptionMedZone>一个已预设用于存放药品的储存区。</FZN_DescriptionMedZone>
+  <FZN_DescriptionMeatZone>一个已预设用于存放肉类的储存区。</FZN_DescriptionMeatZone>
+  <FZN_DescriptionVegZone>一个已预设用于存放蔬果的储存区。</FZN_DescriptionVegZone>
+  <FZN_DescriptionJoyZone>一个已预设用于存放所有成瘾品的储存区。</FZN_DescriptionJoyZone>
+  <FZN_DescriptionAnimalZone>一个已预设用于存放动物尸体的储存区。</FZN_DescriptionAnimalZone>
+  <FZN_DescriptionOutdoorZone>一个储存区，已预设用于存放能够露天摆放的物品。</FZN_DescriptionOutdoorZone>
+  <FZN_DescriptionIndoorZone>一个储存区，已预设用于存放不能露天摆放的物品。</FZN_DescriptionIndoorZone>
+
+  <FZN_GizmoShadeLabel>改变阴影</FZN_GizmoShadeLabel>
+  <FZN_GizmoShadeDesc>改变这个储存区的阴影。</FZN_GizmoShadeDesc>
+
+</LanguageData>

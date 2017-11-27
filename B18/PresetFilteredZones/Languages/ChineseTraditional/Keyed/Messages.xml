@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FZN_DescriptionMealZone>一個已預設用於存放餐點的儲存區。</FZN_DescriptionMealZone>
+  <FZN_DescriptionMedZone>一個已預設用於存放藥品的儲存區。</FZN_DescriptionMedZone>
+  <FZN_DescriptionMeatZone>一個已預設用於存放肉類的儲存區。</FZN_DescriptionMeatZone>
+  <FZN_DescriptionVegZone>一個已預設用於存放蔬果的儲存區。</FZN_DescriptionVegZone>
+  <FZN_DescriptionJoyZone>一個已預設用於存放所有成癮品的儲存區。</FZN_DescriptionJoyZone>
+  <FZN_DescriptionAnimalZone>一個已預設用於存放動物屍體的儲存區。</FZN_DescriptionAnimalZone>
+  <FZN_DescriptionOutdoorZone>一個儲存區，已預設用於存放能夠露天擺放的物品。</FZN_DescriptionOutdoorZone>
+  <FZN_DescriptionIndoorZone>一個儲存區，已預設用於存放不能露天擺放的物品。</FZN_DescriptionIndoorZone>
+
+  <FZN_GizmoShadeLabel>改變陰影</FZN_GizmoShadeLabel>
+  <FZN_GizmoShadeDesc>改變這個儲存區的陰影。</FZN_GizmoShadeDesc>
+
+</LanguageData>
