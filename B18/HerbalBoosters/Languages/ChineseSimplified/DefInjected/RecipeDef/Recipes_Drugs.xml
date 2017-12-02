@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeTenHerbalBoosters.label>制作免疫力增强剂(10)</MakeTenHerbalBoosters.label>
+  <MakeTenHerbalBoosters.description>制作免疫力增强剂(10)。</MakeTenHerbalBoosters.description>
+  <MakeTenHerbalBoosters.jobString>正在制作免疫力增强剂(10)。</MakeTenHerbalBoosters.jobString>
+
+  <MakeTenConcentratedBoosters.label>制作免疫力增强剂(浓缩版)(10)</MakeTenConcentratedBoosters.label>
+  <MakeTenConcentratedBoosters.description>制作免疫力增强剂(浓缩版)(10)。</MakeTenConcentratedBoosters.description>
+  <MakeTenConcentratedBoosters.jobString>正在制作免疫力增强剂(浓缩版)(10)。</MakeTenConcentratedBoosters.jobString>
+
+  <MakeTenAntiParaBoosters.label>制作抗寄生虫增强剂(10)</MakeTenAntiParaBoosters.label>
+  <MakeTenAntiParaBoosters.description>制作抗寄生虫增强剂(10)。</MakeTenAntiParaBoosters.description>
+  <MakeTenAntiParaBoosters.jobString>正在制作抗寄生虫增强剂(10)。</MakeTenAntiParaBoosters.jobString>
+
+
+</LanguageData>
