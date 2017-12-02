@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Primative Spear -->
+
+  <MedTimes_Melee_PrimativeSpear_Nan.label>原始长矛</MedTimes_Melee_PrimativeSpear_Nan.label>
+  <MedTimes_Melee_PrimativeSpear_Nan.description>(纳米强化)(戳刺)[近战命中率:+10%]\n\n带有石质矛头的长矛，跟削尖的木棍差不多，相当简陋的武器。</MedTimes_Melee_PrimativeSpear_Nan.description>
+  <MedTimes_Melee_PrimativeSpear_Nan.tools.0.label>柄</MedTimes_Melee_PrimativeSpear_Nan.tools.0.label>
+  <MedTimes_Melee_PrimativeSpear_Nan.tools.1.label>尖头</MedTimes_Melee_PrimativeSpear_Nan.tools.1.label>
+
+
+  <!-- Forester's Axe -->
+
+  <MedTimes_Melee_AxeForester_Nan.label>守林人斧</MedTimes_Melee_AxeForester_Nan.label>
+  <MedTimes_Melee_AxeForester_Nan.description>(纳米强化)(切削)[近战命中率:+10%](削切)[种植速度:+10%]\n\n一把标准尺寸的伐木用斧，设计用于砍树，当然用来砍人也不错。</MedTimes_Melee_AxeForester_Nan.description>
+  <MedTimes_Melee_AxeForester_Nan.tools.0.label>柄</MedTimes_Melee_AxeForester_Nan.tools.0.label>
+  <MedTimes_Melee_AxeForester_Nan.tools.1.label>尖头</MedTimes_Melee_AxeForester_Nan.tools.1.label>
+  <MedTimes_Melee_AxeForester_Nan.tools.2.label>刃</MedTimes_Melee_AxeForester_Nan.tools.2.label>
+
+
+  <!-- (Medieval) Boar Spear -->
+
+  <MedTimes_Melee_BoarSpear_Nan.label>野猪长矛</MedTimes_Melee_BoarSpear_Nan.label>
+  <MedTimes_Melee_BoarSpear_Nan.description>(纳米强化)(戳刺)[近战命中率:+7.5%]\n\n中世纪风格的野猪长矛，有着锋锐的尖端并在两侧附有耳状物以格挡敌人的攻击。没有战斧那么强力，但即使是未经训练的人也可以轻易使用它。</MedTimes_Melee_BoarSpear_Nan.description>
+  <MedTimes_Melee_BoarSpear_Nan.tools.0.label>柄</MedTimes_Melee_BoarSpear_Nan.tools.0.label>
+  <MedTimes_Melee_BoarSpear_Nan.tools.1.label>尖头</MedTimes_Melee_BoarSpear_Nan.tools.1.label>
+
+
+  <!-- (Medieval) Gisarme -->
+
+  <MedTimes_Melee_Gisarme_Nan.label>钩镰枪</MedTimes_Melee_Gisarme_Nan.label>
+  <MedTimes_Melee_Gisarme_Nan.description>(纳米强化)(戳刺)[近战命中率:+10%]\n\n可以刺、砍、钩的综合性武器，它形状多样，有很多名字。有一个钩用于把骑兵从马背上拖下来，还有一个枪尖来捅死敌人。</MedTimes_Melee_Gisarme_Nan.description>
+  <MedTimes_Melee_Gisarme_Nan.tools.0.label>柄</MedTimes_Melee_Gisarme_Nan.tools.0.label>
+  <MedTimes_Melee_Gisarme_Nan.tools.1.label>尖头</MedTimes_Melee_Gisarme_Nan.tools.1.label>
+
+
+  <!-- (Medieval) Short-Sword -->
+
+  <MedTimes_Melee_ShortSword_Nan.label>单手剑</MedTimes_Melee_ShortSword_Nan.label>
+  <MedTimes_Melee_ShortSword_Nan.description>(纳米强化)(削切)[近战命中率:+10%]\n\n传统的中世纪单手剑，尽管制造工艺比较原始，但用料考究、制作精良。</MedTimes_Melee_ShortSword_Nan.description>
+  <MedTimes_Melee_ShortSword_Nan.tools.0.label>握把</MedTimes_Melee_ShortSword_Nan.tools.0.label>
+  <MedTimes_Melee_ShortSword_Nan.tools.1.label>尖头</MedTimes_Melee_ShortSword_Nan.tools.1.label>
+  <MedTimes_Melee_ShortSword_Nan.tools.2.label>刃</MedTimes_Melee_ShortSword_Nan.tools.2.label>
+
+
+  <!-- (Medieval) One-Handed Mace -->
+
+  <MedTimes_Melee_MaceHand_Nan.label>单手锤</MedTimes_Melee_MaceHand_Nan.label>
+  <MedTimes_Melee_MaceHand_Nan.description>(纳米强化)(钝击)[近战命中率:+10%]\n\n中世纪风格的单手锤，尽管制造工艺比较原始，但用料考究、制作精良。</MedTimes_Melee_MaceHand_Nan.description>
+  <MedTimes_Melee_MaceHand_Nan.tools.0.label>握把</MedTimes_Melee_MaceHand_Nan.tools.0.label>
+
+
+  <!-- (Medieval) Bandit Hammer -->
+
+  <MedTimes_Melee_HammerBandit_Nan.label>强盗锤</MedTimes_Melee_HammerBandit_Nan.label>
+  <MedTimes_Melee_HammerBandit_Nan.description>(纳米强化)(钝击)[近战命中率:+10%]\n\n木制战斗用锤。造价便宜、使用简单，对重装敌人效果很好，所以成为了强盗的首选装备。</MedTimes_Melee_HammerBandit_Nan.description>
+  <MedTimes_Melee_HammerBandit_Nan.tools.0.label>柄</MedTimes_Melee_HammerBandit_Nan.tools.0.label>
+
+
+  <!-- (Medieval) War Knife -->
+
+  <MedTimes_Melee_WarKnife_Nan.label>军刀</MedTimes_Melee_WarKnife_Nan.label>
+  <MedTimes_Melee_WarKnife_Nan.description>(纳米强化)(切削)[近战命中率:+10%](削切)[近战命中率:+5%]\n\n经常有人问到如果不计铁匠的手艺和制作材料，什么武器是优先选择的。使用“军刀”是这个世界上历史悠久的一个传统，当然由于刀刃形状的不同，有时会出现不同的叫法。\n\n这种武器由于其材料便宜而大量生产并深受农民和士兵的喜爱。由于其大量使用的缘故，它还有着非常多的独特有趣的绰号，但“军刀”还是占主流的名字。\n\n它使用简单原始的结构和材料，单面开刃，有大型握把。利于劈砍，主要用于对付无甲的敌人，比如说部落之类的，但对付着甲的敌人效果就没那么好了。</MedTimes_Melee_WarKnife_Nan.description>
+  <MedTimes_Melee_WarKnife_Nan.tools.0.label>握把</MedTimes_Melee_WarKnife_Nan.tools.0.label>
+  <MedTimes_Melee_WarKnife_Nan.tools.1.label>尖头</MedTimes_Melee_WarKnife_Nan.tools.1.label>
+  <MedTimes_Melee_WarKnife_Nan.tools.2.label>刃</MedTimes_Melee_WarKnife_Nan.tools.2.label>
+
+
+  <!-- (Medieval) Knight's Dagger -->
+
+  <MedTimes_Melee_DaggerKnight_Nan.label>骑士匕首</MedTimes_Melee_DaggerKnight_Nan.label>
+  <MedTimes_Melee_DaggerKnight_Nan.description>(纳米强化)(戳刺)[近战命中率:+10%]\n\n一把单手持的中世纪风格的匕首，通常被骑士们用来处决失去行动力的对手。</MedTimes_Melee_DaggerKnight_Nan.description>
+  <MedTimes_Melee_DaggerKnight_Nan.tools.0.label>握把</MedTimes_Melee_DaggerKnight_Nan.tools.0.label>
+  <MedTimes_Melee_DaggerKnight_Nan.tools.1.label>尖头</MedTimes_Melee_DaggerKnight_Nan.tools.1.label>
+  <MedTimes_Melee_DaggerKnight_Nan.tools.2.label>刃</MedTimes_Melee_DaggerKnight_Nan.tools.2.label>
+
+
+  <!-- (Medieval) Arming-Sword -->
+
+  <MedTimes_Melee_SwordArming_Nan.label>骑士剑</MedTimes_Melee_SwordArming_Nan.label>
+  <MedTimes_Melee_SwordArming_Nan.description>(纳米强化)(削切)[近战命中率:+10%]\n\n中世纪风格的骑士单手长剑，尽管制造工艺比较原始，但用料考究、制作精良。</MedTimes_Melee_SwordArming_Nan.description>
+  <MedTimes_Melee_SwordArming_Nan.tools.0.label>握把</MedTimes_Melee_SwordArming_Nan.tools.0.label>
+  <MedTimes_Melee_SwordArming_Nan.tools.1.label>尖头</MedTimes_Melee_SwordArming_Nan.tools.1.label>
+  <MedTimes_Melee_SwordArming_Nan.tools.2.label>刃</MedTimes_Melee_SwordArming_Nan.tools.2.label>
+
+
+  <!-- (Medieval) One-Handed Mace -->
+
+  <MedTimes_Melee_MaceFlanged_Nan.label>凸缘钉头锤</MedTimes_Melee_MaceFlanged_Nan.label>
+  <MedTimes_Melee_MaceFlanged_Nan.description>(纳米强化)(钝击)[近战命中率:+10%]\n\n中世纪风格的凸缘钉头锤，它用料考究、制作精良，所以既轻便又好用。</MedTimes_Melee_MaceFlanged_Nan.description>
+  <MedTimes_Melee_MaceFlanged_Nan.tools.0.label>握把</MedTimes_Melee_MaceFlanged_Nan.tools.0.label>
+
+
+  <!-- (Medieval) Morning Star -->
+
+  <MedTimes_Melee_MorningStar_Nan.label>晨星</MedTimes_Melee_MorningStar_Nan.label>
+  <MedTimes_Melee_MorningStar_Nan.description>(纳米强化)(钝击)[近战命中率:+10%]\n\n一种单手持的中世纪风格的链球，因为那个带刺的球的缘故，因此而得名。在这种链球的握把处带有一个护手，可以协助保护使用者不至于伤到自己。\n\n虽然制造工艺比较原始，但用料考究、制作精良。因此这种武器又轻又好用，作战适应性也很高。\n\n译者注：MorningStar只是因为那个带刺的锤的外形的缘故，并不是说一定是链锤，也有柄式的MorningStar。</MedTimes_Melee_MorningStar_Nan.description>
+  <MedTimes_Melee_MorningStar_Nan.tools.0.label>握把</MedTimes_Melee_MorningStar_Nan.tools.0.label>
+
+
+  <!-- (Medieval) Long-Sword -->
+
+  <MedTimes_Melee_SwordLong_Nan.label>中世纪长剑</MedTimes_Melee_SwordLong_Nan.label>
+  <MedTimes_Melee_SwordLong_Nan.description>(纳米强化)(切削)[近战命中率:+10%](削切)[近战命中率:+5%]\n\n一把中世纪风格的双手长剑，尽管制造工艺比较原始，但用料考究、制作精良。这把精雕细琢的剑比一般的剑要好上一些。</MedTimes_Melee_SwordLong_Nan.description>
+  <MedTimes_Melee_SwordLong_Nan.tools.0.label>握把</MedTimes_Melee_SwordLong_Nan.tools.0.label>
+  <MedTimes_Melee_SwordLong_Nan.tools.1.label>尖头</MedTimes_Melee_SwordLong_Nan.tools.1.label>
+  <MedTimes_Melee_SwordLong_Nan.tools.2.label>刃</MedTimes_Melee_SwordLong_Nan.tools.2.label>
+
+
+  <!-- (Medieval) War Knife -->
+
+  <MedTimes_Melee_WarKnifeHiQ_Nan.label>军刀</MedTimes_Melee_WarKnifeHiQ_Nan.label>
+  <MedTimes_Melee_WarKnifeHiQ_Nan.description>(纳米强化)(切削)[近战命中率:+10%]\n\n经常有人问到如果不计铁匠的手艺和制作材料，什么武器是优先选择的。使用“军刀”是这个世界上历史悠久的一个传统，当然由于刀刃形状的不同，有时会出现不同的叫法。\n\n这种武器由于其材料便宜而大量生产并深受农民和士兵的喜爱。由于其大量使用的缘故，它还有着非常多的独特有趣的绰号，但“军刀”还是占主流的名字。\n\n它使用简单原始的结构和材料，单面开刃，有大型握把。利于劈砍，主要用于对付无甲的敌人，比如说部落之类的，但对付着甲的敌人效果就没那么好了。</MedTimes_Melee_WarKnifeHiQ_Nan.description>
+  <MedTimes_Melee_WarKnifeHiQ_Nan.tools.0.label>握把</MedTimes_Melee_WarKnifeHiQ_Nan.tools.0.label>
+  <MedTimes_Melee_WarKnifeHiQ_Nan.tools.1.label>尖头</MedTimes_Melee_WarKnifeHiQ_Nan.tools.1.label>
+  <MedTimes_Melee_WarKnifeHiQ_Nan.tools.2.label>刃</MedTimes_Melee_WarKnifeHiQ_Nan.tools.2.label>
+
+
+  <!-- (Medieval) Halberd -->
+
+  <MedTimes_Melee_Halberd_Nan.label>戟</MedTimes_Melee_Halberd_Nan.label>
+  <MedTimes_Melee_Halberd_Nan.description>(纳米强化)(戳刺)[近战命中率:+10%]\n\n可以刺、砍、钩的综合性武器，它形状多样，有很多名字。有一个钩用于把骑兵从马背上拖下来，一个枪尖来捅死敌人。</MedTimes_Melee_Halberd_Nan.description>
+  <MedTimes_Melee_Halberd_Nan.tools.0.label>柄</MedTimes_Melee_Halberd_Nan.tools.0.label>
+  <MedTimes_Melee_Halberd_Nan.tools.1.label>尖头</MedTimes_Melee_Halberd_Nan.tools.1.label>
+  <MedTimes_Melee_Halberd_Nan.tools.2.label>刃</MedTimes_Melee_Halberd_Nan.tools.2.label>
+
+
+  <!-- (Medieval) Battle Axe -->
+
+  <MedTimes_Melee_BattleAxe_Nan.label>战斧</MedTimes_Melee_BattleAxe_Nan.label>
+  <MedTimes_Melee_BattleAxe_Nan.description>(纳米强化)(切削)[近战命中率:+10%]\n\n为近战而特别设计的兵器，可以刺、砍、砸、钩的综合性武器。它的斧刃很锋利，在近战中相当强力。</MedTimes_Melee_BattleAxe_Nan.description>
+  <MedTimes_Melee_BattleAxe_Nan.tools.0.label>柄</MedTimes_Melee_BattleAxe_Nan.tools.0.label>
+  <MedTimes_Melee_BattleAxe_Nan.tools.1.label>尖头</MedTimes_Melee_BattleAxe_Nan.tools.1.label>
+  <MedTimes_Melee_BattleAxe_Nan.tools.2.label>刃</MedTimes_Melee_BattleAxe_Nan.tools.2.label>
+
+
+  <!-- (Medieval) Bearded Battle Axe -->
+
+  <MedTimes_Melee_AxeBearded_Nan.label>钩刃战斧</MedTimes_Melee_AxeBearded_Nan.label>
+  <MedTimes_Melee_AxeBearded_Nan.description>(纳米强化)(切削)[近战命中率:+10%]\n\n为近战而特别设计的兵器，可以刺、砍、砸、钩的综合性武器。它的斧刃很锋利，在近战中相当强力。</MedTimes_Melee_AxeBearded_Nan.description>
+  <MedTimes_Melee_AxeBearded_Nan.tools.0.label>柄</MedTimes_Melee_AxeBearded_Nan.tools.0.label>
+  <MedTimes_Melee_AxeBearded_Nan.tools.1.label>尖头</MedTimes_Melee_AxeBearded_Nan.tools.1.label>
+  <MedTimes_Melee_AxeBearded_Nan.tools.2.label>刃</MedTimes_Melee_AxeBearded_Nan.tools.2.label>
+
+
+  <!-- (Medieval) Claymore -->
+
+  <MedTimes_Melee_Claymore_Nan.label>阔剑</MedTimes_Melee_Claymore_Nan.label>
+  <MedTimes_Melee_Claymore_Nan.description>(纳米强化)(切削)[近战命中率:+10%]\n\n这种大剑起源于黑暗时代的一个叫苏格兰的小国。之后被神化并在各种民间传说中大量出现。传说这种兵器可以破盾和折断敌人的武器。\n\n在后世还有人用它的名字来命名了一种强大的定向人员杀伤性地雷，可见其知名度。\n\n译者注：黑暗时代大概在公元前12到9世纪。</MedTimes_Melee_Claymore_Nan.description>
+  <MedTimes_Melee_Claymore_Nan.tools.0.label>握把</MedTimes_Melee_Claymore_Nan.tools.0.label>
+  <MedTimes_Melee_Claymore_Nan.tools.1.label>尖头</MedTimes_Melee_Claymore_Nan.tools.1.label>
+  <MedTimes_Melee_Claymore_Nan.tools.2.label>刃</MedTimes_Melee_Claymore_Nan.tools.2.label>
+
+
+  <!-- (Medieval) Warhammer -->
+
+  <MedTimes_Melee_WarHammer_Nan.label>战锤</MedTimes_Melee_WarHammer_Nan.label>
+  <MedTimes_Melee_WarHammer_Nan.description>(纳米强化)(钝击)[近战命中率:+10%]\n\n为近战而特别设计的双手战锤，可以轻易地将敌人击倒并碾碎他们的骨头。设计的初衷是应对传统的剑和斧头难以穿透的重甲。</MedTimes_Melee_WarHammer_Nan.description>
+  <MedTimes_Melee_WarHammer_Nan.tools.0.label>柄</MedTimes_Melee_WarHammer_Nan.tools.0.label>
+
+
+</LanguageData>

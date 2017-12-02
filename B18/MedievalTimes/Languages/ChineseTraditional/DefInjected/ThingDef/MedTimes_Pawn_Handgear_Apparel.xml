@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tailored Gloves -->
+
+  <MedTimes_Gloves_Tailored.label>手工手套</MedTimes_Gloves_Tailored.label>
+  <MedTimes_Gloves_Tailored.description>[工作速度:+5%]\n\n手工縫製的合手的手套，有助於保護手掌，意味著你可以工作得更快。</MedTimes_Gloves_Tailored.description>
+
+
+  <!-- Winter Gloves: Cold Layer -->
+
+  <MedTimes_Gloves_Winter.label>保暖手套</MedTimes_Gloves_Winter.label>
+  <MedTimes_Gloves_Winter.description>[工作速度:+5%]\n\n合手的保暖手套。</MedTimes_Gloves_Winter.description>
+
+
+  <!-- Tribal Wraps -->
+
+  <MedTimes_Gloves_Tribal.label>部落手套</MedTimes_Gloves_Tribal.label>
+  <MedTimes_Gloves_Tribal.description>[工作速度:+5%]\n\n可以綁在手上的一些皮革。</MedTimes_Gloves_Tribal.description>
+
+
+</LanguageData>

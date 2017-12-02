@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- (Normal) Toolbelt -->
+
+  <MedTimes_Acc_Toolbelt.label>工具腰带</MedTimes_Acc_Toolbelt.label>
+  <MedTimes_Acc_Toolbelt.description>[工作速度: +20%]\n\n一条可以让你把工具随身携带的腰带。</MedTimes_Acc_Toolbelt.description>
+
+
+  <!-- (Normal) Smokepop Toolbelt -->
+
+  <MedTimes_Acc_ToolbeltSmokepop.label>烟罐工具腰带</MedTimes_Acc_ToolbeltSmokepop.label>
+  <MedTimes_Acc_ToolbeltSmokepop.description>[工作速度: +20%]\n\n一个带有烟幕防御装置的工具腰带，可以让佩戴者在被击中的时候释放出浓密的防御性烟雾。一次性使用。</MedTimes_Acc_ToolbeltSmokepop.description>
+
+
+  <!-- (Artifact) Happy Shield -->
+
+  <MedTimes_Acc_HappyMerchant_Art.label>快乐的商人(人造品)</MedTimes_Acc_HappyMerchant_Art.label>
+  <MedTimes_Acc_HappyMerchant_Art.description>(人造品)[交易价格改善:+5%][社交效果:+5%][外交礼物效果:+5%]\n\n一个单人用的能量护盾装置。它能阻挡从一定距离外射来的任何高速弹头或能量攻击。但对近战攻击或零距离贴近射击无效。同时也会阻碍穿戴者从内往外的射击。\n\n不同于常见的批量制造的护盾腰带，这个应该是一个当地人制造的。从这上面的表现来看，这个土著的心理状态很有趣。它的造型像是一个戴在颈部的大护符。一个巨大的笑脸呈现在正面，背面也刻有许多花纹，它充血的眼睛似乎紧盯着你。\n\n牙齿是由参差不齐的金属制造的，其间有红色的不明物质流露出来。这个东西是如何制造的，它的能量来源是什么都是个迷。当装备它时，装备者会发出比平时更为低沉的声音，原因还不得而知。</MedTimes_Acc_HappyMerchant_Art.description>
+
+
+  <!-- (Artifact) Wargod Crest -->
+
+  <MedTimes_Acc_WargodCrest_Art.label>战神的加护(人造品)</MedTimes_Acc_WargodCrest_Art.label>
+  <MedTimes_Acc_WargodCrest_Art.description>(人造品)[近战命中几率: +5%][近战闪避几率: +5%]\n\n一个单人用的能量护盾装置。它能阻挡从一定距离外射来的任何高速弹头或能量攻击。但对近战攻击或零距离贴近射击无效。同时也会阻碍穿戴者从内往外的射击。\n\n不同于常见的批量制造的护盾腰带，这大概是在“庞力”时代由熟练的技术人员手工制作的。“战神的加护”曾配发给庞力的军队中那些最终在克雷格白崖战役中死去的训练有素的军官和战士，而它们最终落入了那些贵族和皇族的手中。</MedTimes_Acc_WargodCrest_Art.description>
+
+
+  <!-- (Legendary) Happy Shield -->
+
+  <MedTimes_Acc_HappyMerchant_Leg.label>快乐的商人(传奇物品)</MedTimes_Acc_HappyMerchant_Leg.label>
+  <MedTimes_Acc_HappyMerchant_Leg.description>(传奇物品)[交易价格改善:+8%][社交效果:+8%][外交礼物效果:+5%]\n\n一个单人用的能量护盾装置。它能阻挡从一定距离外射来的任何高速弹头或能量攻击。但对近战攻击或零距离贴近射击无效。同时也会阻碍穿戴者从内往外的射击。不同于常见的批量制造的护盾腰带，这个应该是一个当地人制造的。从这上面的表现来看，这个土著的心理状态很有趣。\n\n它的造型像是一个戴在颈部的大护符。一个巨大的笑脸呈现在正面，背面也刻有许多花纹，它充血的眼睛似乎紧盯着你。牙齿是由参差不齐的金属制造的，其间有红色的不明物质流露出来。这个东西是如何制造的，它的能量来源是什么都是个迷。当装备它时，装备者会发出比平时更为低沉的声音，原因还不得而知。</MedTimes_Acc_HappyMerchant_Leg.description>
+
+
+  <!-- (Artifact) Wargod Crest -->
+
+  <MedTimes_Acc_WargodCrest_Leg.label>战神的加护(传奇物品)</MedTimes_Acc_WargodCrest_Leg.label>
+  <MedTimes_Acc_WargodCrest_Leg.description>(传奇物品)[近战命中几率: +8%][近战闪避几率: +8%]\n\n一个单人用的能量护盾装置。它能阻挡从一定距离外射来的任何高速弹头或能量攻击。但对近战攻击或零距离贴近射击无效。同时也会阻碍穿戴者从内往外的射击。\n\n不同于常见的批量制造的护盾腰带，这大概是在“庞力”时代由熟练的技术人员手工制作的。“战神的加护”曾配发给庞力的军队中那些最终在克雷格白崖战役中死去的训练有素的军官和战士，而它们最终落入了那些贵族和皇族的手中。</MedTimes_Acc_WargodCrest_Leg.description>
+
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- (Warbourne) Berserker -->
+
+  <MedTimes_Warbourne_Berserker.label>狂战士</MedTimes_Warbourne_Berserker.label>
+  <MedTimes_Warbourne_Berserker.labelPlural>狂战士</MedTimes_Warbourne_Berserker.labelPlural>
+
+  <MedTimes_Warbourne_Berserker_Cheap.label>狂战士</MedTimes_Warbourne_Berserker_Cheap.label>
+  <MedTimes_Warbourne_Berserker_Cheap.labelPlural>狂战士</MedTimes_Warbourne_Berserker_Cheap.labelPlural>
+
+
+  <!-- (Warband) Man at Arms -->
+
+  <MedTimes_Warbourne_ManAtArms.label>渗透者</MedTimes_Warbourne_ManAtArms.label>
+  <MedTimes_Warbourne_ManAtArms.labelPlural>渗透者</MedTimes_Warbourne_ManAtArms.labelPlural>
+
+
+</LanguageData>

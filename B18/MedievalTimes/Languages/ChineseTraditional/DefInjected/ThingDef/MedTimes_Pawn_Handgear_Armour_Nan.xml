@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wooden Plated Gloves -->
+
+  <MedTimes_Bracers_Wooden_Nan.label>木護腕</MedTimes_Bracers_Wooden_Nan.label>
+  <MedTimes_Bracers_Wooden_Nan.description>(納米強化)[近戰命中率: +10%][射擊準確率: +7.5%][工作速度: +5%]\n\n把一些木板綁在一塊，提供最基本的防護。</MedTimes_Bracers_Wooden_Nan.description>
+
+
+  <!-- Steel Plated Gloves -->
+
+  <MedTimes_Gloves_Plated_Nan.label>裝甲手套</MedTimes_Gloves_Plated_Nan.label>
+  <MedTimes_Gloves_Plated_Nan.description>(納米強化)[近戰命中率: +10%][射擊準確率: +7.5%][工作速度: +5%]\n\n在關鍵部位附上鐵板的皮手套，在近接戰鬥中提供防護。</MedTimes_Gloves_Plated_Nan.description>
+
+
+  <!-- Scaled Gloves -->
+
+  <MedTimes_Gloves_Scaled_Nan.label>鱗甲手套</MedTimes_Gloves_Scaled_Nan.label>
+  <MedTimes_Gloves_Scaled_Nan.description>(納米強化)[近戰命中率: +10%][射擊準確率: +7.5%][工作速度: +5%]\n\n覆有鱗片狀甲片的皮手套，在近接戰鬥中提供防護。</MedTimes_Gloves_Scaled_Nan.description>
+
+
+  <!-- Lamellar Gauntlets -->
+
+  <MedTimes_Gauntlets_Plated_Nan.label>全鋼手套</MedTimes_Gauntlets_Plated_Nan.label>
+  <MedTimes_Gauntlets_Plated_Nan.description>(納米強化)[近戰命中率: +10%][射擊準確率: +7.5%][工作速度: +5%]\n\n一雙覆甲的手套，採用了特別設計，不會妨礙活動。</MedTimes_Gauntlets_Plated_Nan.description>
+
+  <MedTimes_Gauntlets_Warbourne_Nan.label>滲透者護手</MedTimes_Gauntlets_Warbourne_Nan.label>
+  <MedTimes_Gauntlets_Warbourne_Nan.description>(納米強化)[近戰命中率: +10%][射擊準確率: +7.5%][工作速度: +5%]\n\n一雙覆蓋著鏈甲的結實的皮手套，外層還覆蓋了一些鋼鱗片和金屬板來提高防護力。</MedTimes_Gauntlets_Warbourne_Nan.description>
+
+
+  <!-- Archers Bracers -->
+
+  <MedTimes_Bracer_Archer_Nan.label>射手護腕</MedTimes_Bracer_Archer_Nan.label>
+  <MedTimes_Bracer_Archer_Nan.description>(納米強化)[近戰命中率: +10%][射擊準確率: +7.5%][工作速度: +5%]\n\n一對由皮革和鋼板製成的護腕和手套，可以有效保護使用者的前臂和手指，讓他能專心射擊。</MedTimes_Bracer_Archer_Nan.description>
+
+
+  <!-- Steel Gauntlets -->
+
+  <MedTimes_Gauntlets_EncasedSteel_Nan.label>板甲臂鎧</MedTimes_Gauntlets_EncasedSteel_Nan.label>
+  <MedTimes_Gauntlets_EncasedSteel_Nan.description>(納米強化)[近戰命中率: +10%][射擊準確率: +7.5%][工作速度: +5%]\n\n一雙完全被金屬包裹的手套，這也意味著戴著這雙手套難以完成日常工作。\n\n但極致的保護意味著在激烈的近接戰中完全不必擔心丟掉手指。這使得這雙手套在近戰中非常有效。</MedTimes_Gauntlets_EncasedSteel_Nan.description>
+
+
+  <!-- Royal Plated Gauntlets -->
+
+  <MedTimes_Gauntlets_RoyalPlated_Nan.label>皇家板甲臂鎧</MedTimes_Gauntlets_RoyalPlated_Nan.label>
+  <MedTimes_Gauntlets_RoyalPlated_Nan.description>(納米強化)[近戰命中率: +10%][射擊準確率: +7.5%][工作速度: +5%]\n\n雖然樣式與板甲手套有所區別，但還是一雙完全被金屬包裹的手套，這同樣意味著戴著這雙手套難以完成日常工作。\n\n雖然如此，極致的保護則意味著在激烈的近接戰中完全不必擔心丟掉手指。這使得這雙手套在近戰中非常有效。</MedTimes_Gauntlets_RoyalPlated_Nan.description>
+
+
+</LanguageData>

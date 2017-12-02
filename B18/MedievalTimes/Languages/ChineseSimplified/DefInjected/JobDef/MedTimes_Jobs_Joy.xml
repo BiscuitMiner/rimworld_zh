@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Stoking Fire -->
+
+  <MedTimes_AttendFire.reportString>把火拨旺。</MedTimes_AttendFire.reportString>
+
+
+  <!-- Watching Fire -->
+
+  <MedTimes_WatchFire.reportString>看着火焰。</MedTimes_WatchFire.reportString>
+
+
+  <!-- R.N.G. Praying -->
+
+  <MedTimes_Prayer_RNG.reportString>向几位神灵祈祷。</MedTimes_Prayer_RNG.reportString>
+
+
+  <!-- The Creator Praying -->
+
+  <MedTimes_Prayer_Creator.reportString>向造物主Tynan祈祷。</MedTimes_Prayer_Creator.reportString>
+  <MedTimes_Prayer_PangLi.reportString>向Pang Li的雕像祈祷。</MedTimes_Prayer_PangLi.reportString>
+
+
+  <!-- Personal Desk interaction -->
+
+  <MedTimes_DeskJoyReading.reportString>阅读一本书。</MedTimes_DeskJoyReading.reportString>
+  <MedTimes_DeskJoyReadingShort.reportString>阅读一篇短篇故事。</MedTimes_DeskJoyReadingShort.reportString>
+  <MedTimes_DeskJoyMagazine.reportString>阅读一本很污的杂志。</MedTimes_DeskJoyMagazine.reportString>
+  <MedTimes_DeskJoyStory.reportString>正在书写一篇短篇故事。</MedTimes_DeskJoyStory.reportString>
+  <MedTimes_DeskJoyDraw.reportString>练习绘画。</MedTimes_DeskJoyDraw.reportString>
+  <MedTimes_DeskJoyPersonalLogs.reportString>写个人日志。</MedTimes_DeskJoyPersonalLogs.reportString>
+  <MedTimes_DeskJoyWork.reportString>作记录，制定计划，完成工作。</MedTimes_DeskJoyWork.reportString>
+
+
+  <!-- Personal Computer interaction -->
+
+  <MedTimes_PCJoyFPS.reportString>用PC玩fps游戏。</MedTimes_PCJoyFPS.reportString>
+  <MedTimes_PCJoyCombatGame.reportString>用PC玩动作游戏。</MedTimes_PCJoyCombatGame.reportString>
+  <MedTimes_PCJoyStrategy.reportString>用PC玩策略游戏。</MedTimes_PCJoyStrategy.reportString>
+  <MedTimes_PCJoySurfing.reportString>用PC浏览关于老旧卫星网络的信息库。</MedTimes_PCJoySurfing.reportString>
+  <MedTimes_PCJoyLewd.reportString>用PC做一些不是那么和谐的事...</MedTimes_PCJoyLewd.reportString>
+  <MedTimes_PCJoyPersonalLogs.reportString>用PC记录个人日志。</MedTimes_PCJoyPersonalLogs.reportString>
+  <MedTimes_PCJoyMovies.reportString>用PC看信息存储盘中的经典电影。</MedTimes_PCJoyMovies.reportString>
+  <MedTimes_PCJoyModing.reportString>修改PC中的游戏数据。</MedTimes_PCJoyModing.reportString>
+
+
+</LanguageData>

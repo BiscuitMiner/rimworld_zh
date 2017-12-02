@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- (Tradegood) Wood Pitch Glue -->
+
+  <MedTimes_WoodPitchGlue.label>木沥青胶</MedTimes_WoodPitchGlue.label>
+  <MedTimes_WoodPitchGlue.description>一种易燃但粘性相当好的物质，一般来说用松脂，也可以用“干馏法”从任何木头提取的胶质，然后和木炭混合而成。一般称之为沥青胶。</MedTimes_WoodPitchGlue.description>
+
+
+  <!-- (Tradegood) Storage Pot -->
+
+  <MedTimes_StoragePot.label>储存罐</MedTimes_StoragePot.label>
+  <MedTimes_StoragePot.description>用黏土制成的简单罐子。许多年来被广泛用于储存大量物资。因为其用途广泛并且容易制造，它们很容易买到或者卖出去。</MedTimes_StoragePot.description>
+
+
+  <!-- (Tradegood) Graphic Novel -->
+
+  <MedTimes_GraphicNovel.label>图文并茂的小说</MedTimes_GraphicNovel.label>
+  <MedTimes_GraphicNovel.description>一本包含许多图片的短篇故事书。</MedTimes_GraphicNovel.description>
+  <MedTimes_GraphicNovel.ingestible.ingestCommandString>阅读 {0}</MedTimes_GraphicNovel.ingestible.ingestCommandString>
+  <MedTimes_GraphicNovel.ingestible.ingestReportString>正在阅读{0}.</MedTimes_GraphicNovel.ingestible.ingestReportString>
+
+
+  <!-- (Tradegood) Stuffed Doll -->
+
+  <MedTimes_StuffedDoll.label>娃娃</MedTimes_StuffedDoll.label>
+  <MedTimes_StuffedDoll.description>孩子们的玩具娃娃，用来贸易或者逗小孩子开心。</MedTimes_StuffedDoll.description>
+
+
+  <!-- (Tradegood) Cup -->
+
+  <MedTimes_DrinkingCup.label>酒杯</MedTimes_DrinkingCup.label>
+  <MedTimes_DrinkingCup.description>各式各样的酒杯，通常被用来喝东西，也可以卖给那些想喝酒的家伙。</MedTimes_DrinkingCup.description>
+
+
+  <!-- (Tradegood) Puzzlebox -->
+
+  <MedTimes_Puzzlebox.label>迷箱</MedTimes_Puzzlebox.label>
+  <MedTimes_Puzzlebox.description>上面有各式各样的拼图和机关，一般人们把它用来保存重要的东西或者送给朋友。在不知道诀窍的情况下很难在不破坏盒子的同时打开它。\n\n(译者注：玩过未上锁的房间吗，大概就是那个东西。)</MedTimes_Puzzlebox.description>
+
+
+  <!-- (Tradegood) Crafting Hand Tools -->
+
+  <MedTimes_CraftingTools.label>手工工具</MedTimes_CraftingTools.label>
+  <MedTimes_CraftingTools.description>工匠在生产物资时会用到的各种工具。</MedTimes_CraftingTools.description>
+
+
+  <!-- (Tradegood) Steel Bow -->
+
+  <MedTimes_SteelBow.label>钢弩弓</MedTimes_SteelBow.label>
+  <MedTimes_SteelBow.description>用于制造十字弩和十字劲弩的弩弓。\n\n(译者注：其实早期的十字弩的弩弓都不是钢制的。)</MedTimes_SteelBow.description>
+
+
+  <!-- (Tradegood) Advanced Trigger Mechanism -->
+
+  <MedTimes_AdvancedTriggerMechanism.label>先进弩机</MedTimes_AdvancedTriggerMechanism.label>
+  <MedTimes_AdvancedTriggerMechanism.description>一种用于制造劲弩的先进弩机</MedTimes_AdvancedTriggerMechanism.description>
+
+
+</LanguageData>

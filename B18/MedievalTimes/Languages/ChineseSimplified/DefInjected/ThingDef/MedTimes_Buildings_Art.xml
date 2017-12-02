@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Random Number God Shrine -->
+
+  <MedTimes_Shrine_RandomNumberGod.label>随机数之神的荣光</MedTimes_Shrine_RandomNumberGod.label>
+  <MedTimes_Shrine_RandomNumberGod.description>"赞美他的荣光...随机数之神能赐予我们一切，也能夺走我们的一切。哦，伟大的随机数之神啊，您的荣耀之手将指引我，在一切有几率分崩离析时，当恐惧逐渐包围我时，您，只有您在黑暗中闪耀着一丝微光。"</MedTimes_Shrine_RandomNumberGod.description>
+  <MedTimes_Shrine_RandomNumberGod_Blueprint_Install.label>随机数之神的荣光(蓝图)</MedTimes_Shrine_RandomNumberGod_Blueprint_Install.label>
+
+
+  <!-- Shrine to the Creator -->
+
+  <MedTimes_Shrine_Creator.label>造物主的荣光</MedTimes_Shrine_Creator.label>
+  <MedTimes_Shrine_Creator.description>有人说，我们的宇宙是由一个强大的存在所创造的，我们的命运之线是早已被他编织好的。而这个世界的法则和我们的存在也早已揭示了我们其实是被一个极其强大的个体所创造。在世界诸神之中，我们将伟大的他称之为泰南（Tynan），伟大的造物主。我们清楚地意识到，全能的神可以随意改变我们的世界，只有向他表示敬意，才能避免他降下的怒火。\n\n译者注：Tynan是RimWorld的开发者。</MedTimes_Shrine_Creator.description>
+  <MedTimes_Shrine_Creator_Blueprint_Install.label>造物主的荣光(蓝图)</MedTimes_Shrine_Creator_Blueprint_Install.label>
+
+
+  <!-- Shrine to Pang Li -->
+
+  <MedTimes_Shrine_PangLi.label>庞力的荣光</MedTimes_Shrine_PangLi.label>
+  <MedTimes_Shrine_PangLi.description>庞力(Pang Li)原本是在南部部落间游荡的流浪者，后来他作为一名雇佣兵加入了提苏特达王国（tsutda）。\n\n多年后，他赢得了勇猛的战士和杰出的战术家的赞誉，最终他被授为一支常备军的将军。在与周边国家和部落长达十余年的不断冲突中和战争中，Pang_Li逐渐成长为提苏特达王国的骄傲，伟大的英雄。也在这段时间内，由于其凶残的游击战术和坚强的战斗风格，获得了“泥泞之虎”（Mud_Tiger）的称号。等到帝国南部统一战争结束，他获得了另一项称号“死神”（God_of_Death）。\n\n提苏特达王国本是一个富裕的小国，但它与不断扩张的帝国陷入了长达70年的战争之中，直至Pang_Li战死在克雷格白崖（Craig_of_White_Cliffs）。\n\nPang_Li在死之前发动了与帝国的全面战争，他余生的70年都在与帝国进行游击战，烧毁村庄、扰袭补给线、偷袭帝国军队等等。有许多书籍讲述了他的传奇故事，同时他的战术也被全世界作为研究的范例。\n\n尽管Pang_Li从没有成功攻陷过帝国的首都，但据说他刺杀过不少帝国皇帝，包括tarquis八世、Menicasus三世和Menicasus四世，除此之外还包括超过30名帝国最高指挥官。战争结束后，帝国一半的疆土都化为了灰烬。\n\n据估计帝国有将近3分之1的人口在此次战争中死亡，但由于Pang_Li使用了相当多的雇佣军和非正规部队，提苏特达方面的伤亡难以估计。帝国终究没有放弃努力，在Pang_Li死后提苏特达王国最终被迫臣服，成为世界霸权的一部分。\n\n由于被Pang_Li所阻帝国在南部统一战争后多花了300年才统一大陆。在Pang_Li死后还被帝国所恐惧，成为了传说中用来吓唬小孩的恐怖故事。或许最令人惊讶的是在他死后兴起对他的祭祀。提苏特达和一些国家的人们开始崇拜他，声称他是奥丁在人间的化身，另一些人认为他是奥丁的儿子或者是战神的化身。很多故事都提到他活了235岁。现在作为战士与信念的象征他有着许多的神话故事，他的“战争系列讲话”已经成为指导部分人生活的圣经。\n\n他的信徒有很多，其中最常见也最疯狂的莫过于“游荡者”，一群在战斗中追寻死亡的疯子。</MedTimes_Shrine_PangLi.description>
+  <MedTimes_Shrine_PangLi_Blueprint_Install.label>庞力的荣光(蓝图)</MedTimes_Shrine_PangLi_Blueprint_Install.label>
+
+
+  <!-- "The Gentleman" Statue -->
+
+  <MedTimes_Gentleman.label>"绅士"</MedTimes_Gentleman.label>
+  <MedTimes_Gentleman.description>(译者：作者什么都没有写，我只能扮演个绅士)</MedTimes_Gentleman.description>
+  <MedTimes_Gentleman_Blueprint_Install.label>"绅士" (蓝图)</MedTimes_Gentleman_Blueprint_Install.label>
+
+
+  <!-- "Revenge Cat" Statue -->
+
+  <MedTimes_RevengeCat.label>"复仇"</MedTimes_RevengeCat.label>
+  <MedTimes_RevengeCat.description>这座雕像不断地提醒着人们在边缘世界的生活有多么严酷。\n\n它记述了一只名叫“复仇”的猫的一生和经历。她和她的家人一起在荒野中流浪了许多年，一直在寻找一个家。最后他们在一片森林的一片空地上找到了最终可以安顿下来的地方，那是一个原始部落的营地。\n\n在他们到达那里后不久，“复仇”的家人和朋友就全都在一场袭击中被一群野蛮人杀害了，只有她被留在了死者之中。\n\n因为觉得她的命运已经就此注定的缘故，那些袭击者决定把她丢在地里等死，不给她食物，也不给她提供医疗照顾。然而，排除万难，那只称为“复仇”的小猫幸存了下来，连同她的好朋友“戈默”。虽然缺少了尾巴使得行动不是那么灵便，她仍然和戈默在部落殖民地之中安了家。\n\n幸运的是，随机数之神赐给了她一份礼物，另一组野猫来了，加入了殖民地，她有了许多新朋友。正是在这个时候，那只被称为“复仇”猫怀上了她好朋友“戈默”的孩子。\n\n但边缘世界的生活从来都是有着无法饶恕的严酷，幸福往往会在一个可怕的时刻被绝望吞噬。由于担心冬季到来食物供应会严重短缺，这些部落的居民赶走了所有的猫，让它们自生自灭。被迫自己谋生的猫咪，“复仇”，看着她的新朋友们一个接一个地相继死去，他们中的一些死于寒冷，一些死于饥饿，其它的则死在了不断入侵的野蛮人手里。\n\n虽然不情愿，但猫咪“复仇”还是通过食用死尸的方式活了下来，并坚持了最长的时间。但在这残酷的边缘世界，没有任何事物可以永恒。在她怀上好朋友戈默的孩子后不久，她死于饥饿，腹中的孩子仍然未能降生到这世上。 </MedTimes_RevengeCat.description>
+  <MedTimes_RevengeCat_Blueprint_Install.label>"复仇" (蓝图)</MedTimes_RevengeCat_Blueprint_Install.label>
+
+
+  <!-- "Full Muffaloon" Rug -->
+
+  <MedTimes_Rug_Muffalo.label>"噩哞"地毯</MedTimes_Rug_Muffalo.label>
+  <MedTimes_Rug_Muffalo.description>一块由纯牦牛毛编织而成的漂亮的地毯，它包含了一幅关于牦牛的绘画来作为主题。场景发生在满月的夜晚，惨白的月光映照了一个悲惨的故事。场景中运用了严酷的色调和贫瘠的树木作为背景。围绕着牦牛的似乎是一些干燥的牦牛犊尸体。这一部分诠释了边缘世界生活的一个严酷的现实。</MedTimes_Rug_Muffalo.description>
+
+
+  <!-- Small Ice Sculpture -->
+
+  <MedTimes_IceSculptureSmall.label>小冰雕</MedTimes_IceSculptureSmall.label>
+  <MedTimes_IceSculptureSmall.description>由一块躯干大小的材料塑造而成的艺术品。</MedTimes_IceSculptureSmall.description>
+  <MedTimes_IceSculptureSmall_Blueprint_Install.label>小冰雕(蓝图)</MedTimes_IceSculptureSmall_Blueprint_Install.label>
+
+
+  <!-- Large Ice Sculpture -->
+
+  <MedTimes_IceSculptureLarge.label>大冰雕</MedTimes_IceSculptureLarge.label>
+  <MedTimes_IceSculptureLarge.description>由一块成人大小的材料塑造而成的艺术品。</MedTimes_IceSculptureLarge.description>
+  <MedTimes_IceSculptureLarge_Blueprint_Install.label>大冰雕(蓝图)</MedTimes_IceSculptureLarge_Blueprint_Install.label>
+
+
+  <!-- Grand Ice Sculpture -->
+
+  <MedTimes_IceSculptureGrand.label>宏伟冰雕</MedTimes_IceSculptureGrand.label>
+  <MedTimes_IceSculptureGrand.description>由一块汽车大小的材料塑造而成的艺术品。</MedTimes_IceSculptureGrand.description>
+  <MedTimes_IceSculptureGrand_Blueprint_Install.label>宏伟冰雕(蓝图)</MedTimes_IceSculptureGrand_Blueprint_Install.label>
+
+
+  <!-- God King's Throne -->
+
+  <MedTimes_GodKingThrone.label>领主的宝座</MedTimes_GodKingThrone.label>
+  <MedTimes_GodKingThrone.description>[舒适度x1.8](美观度+300)这种华丽又高冷的王座专属于那些高贵的上等人。它拥有又大又软的坐垫，非常适合用来休息...和坐在上面发号施令。</MedTimes_GodKingThrone.description>
+  <MedTimes_GodKingThrone_Blueprint_Install.label>领主的宝座(蓝图)</MedTimes_GodKingThrone_Blueprint_Install.label>
+
+
+</LanguageData>

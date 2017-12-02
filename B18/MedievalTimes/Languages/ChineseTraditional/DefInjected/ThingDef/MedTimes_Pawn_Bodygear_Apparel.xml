@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Suspenders -->
+
+  <MedTimes_AppBody_Trousers.label>背帶褲</MedTimes_AppBody_Trousers.label>
+  <MedTimes_AppBody_Trousers.description>中世紀風格的褲子，它們一點都不合身，不難看出它們只是用皮革簡單縫合而成。你需要一副背帶來保持它不掉下來。</MedTimes_AppBody_Trousers.description>
+
+
+  <!-- Stripped Suspenders -->
+
+  <MedTimes_AppBody_TrousersStriped.label>條紋背帶褲</MedTimes_AppBody_TrousersStriped.label>
+  <MedTimes_AppBody_TrousersStriped.description>中世紀風格的褲子，它們一點都不合身，不難看出它們只是用皮革簡單縫合而成。你需要一副背帶來保持它不掉下來。至少這條有條紋可以顯示出所有者的獨特性。</MedTimes_AppBody_TrousersStriped.description>
+
+
+  <!-- Medieval Shirt 'Tunic' -->
+
+  <MedTimes_AppBody_Tunic.label>束腰上衣</MedTimes_AppBody_Tunic.label>
+  <MedTimes_AppBody_Tunic.description>中世紀風格的上衣，可以清楚的看出是用皮革簡單縫合而成。</MedTimes_AppBody_Tunic.description>
+
+
+  <!-- Padded Jacket -->
+
+  <MedTimes_ArmBody_Gambison.label>軟甲</MedTimes_ArmBody_Gambison.label>
+  <MedTimes_ArmBody_Gambison.description>(等級:1,輕甲)[移動速度:-5%]\n\n一件填充有厚厚的填充物的長外套，用於保護它的裝備者。也被稱之為鎧衣。擅長應對鈍器傷害，可以裝備在重型鎧甲之下。由纖維織成，所以很透氣並沒有人們想象中那麼熱。</MedTimes_ArmBody_Gambison.description>
+
+
+  <!-- (Medieval) Padded Jacket 'Leather' -->
+
+  <MedTimes_ArmBody_PaddedJacket.label>加厚夾克</MedTimes_ArmBody_PaddedJacket.label>
+  <MedTimes_ArmBody_PaddedJacket.description>(等級:1,輕甲)[移動速度:-5%]\n\n一件填充有厚厚的填充物的皮衣，用於保護它的裝備者。由處理過的動物毛皮製成，還有幾塊硬化皮革作為額外防護，可以穿在重型鎧甲下面。當然這樣的設計會使得穿這件裝甲會很熱。</MedTimes_ArmBody_PaddedJacket.description>
+
+
+  <!-- Freelancer's Tabbard -->
+
+  <MedTimes_ShellBody_TabardFreelancer.label>自由槍騎兵戰袍</MedTimes_ShellBody_TabardFreelancer.label>
+  <MedTimes_ShellBody_TabardFreelancer.description>戰袍出現是因為在戰鬥中有必要有明顯的標識能分清敵我。換句話說...它是能穿的戰旗。</MedTimes_ShellBody_TabardFreelancer.description>
+
+
+  <!-- Blue Tabbard -->
+
+  <MedTimes_ShellBody_TabardBlue.label>戰袍（藍色）</MedTimes_ShellBody_TabardBlue.label>
+  <MedTimes_ShellBody_TabardBlue.description>戰袍出現是因為在戰鬥中有必要有明顯的標識能分清敵我。換句話說...它是能穿的戰旗。</MedTimes_ShellBody_TabardBlue.description>
+
+
+  <!-- Green Tabbard -->
+
+  <MedTimes_ShellBody_TabardGreen.label>戰袍（貴族）</MedTimes_ShellBody_TabardGreen.label>
+  <MedTimes_ShellBody_TabardGreen.description>戰袍出現是因為在戰鬥中有必要有明顯的標識能分清敵我。換句話說...它是能穿的戰旗。</MedTimes_ShellBody_TabardGreen.description>
+
+
+  <!-- Orange Tabbard -->
+
+  <MedTimes_ShellBody_TabardOrange.label>戰袍（戰團）</MedTimes_ShellBody_TabardOrange.label>
+  <MedTimes_ShellBody_TabardOrange.description>戰袍出現是因為在戰鬥中有必要有明顯的標識能分清敵我。換句話說...它是能穿的戰旗。</MedTimes_ShellBody_TabardOrange.description>
+
+
+  <!-- Red Tabbard -->
+
+  <MedTimes_App_TabardRed.label>戰袍（滲透者）</MedTimes_App_TabardRed.label>
+  <MedTimes_App_TabardRed.description>戰袍出現是因為在戰鬥中有必要有明顯的標識能分清敵我。換句話說...它是能穿的戰旗。</MedTimes_App_TabardRed.description>
+
+
+  <!-- Medieval Cloak: Cold Apparel -->
+
+  <MedTimes_ShellBody_Cloak.label>冬季大衣</MedTimes_ShellBody_Cloak.label>
+  <MedTimes_ShellBody_Cloak.description>用毛皮製成的可以抵禦凌冽寒風與刺骨寒冷的大衣。新石器時代的老技術但依舊有效，不過，如果你在溫暖的室內也穿著它，可能會因此而中暑。</MedTimes_ShellBody_Cloak.description>
+
+
+  <!-- Medieval Cape: Hot Apparel -->
+
+  <MedTimes_ShellBody_Cape.label>夏季斗篷</MedTimes_ShellBody_Cape.label>
+  <MedTimes_ShellBody_Cape.description>用軟和的皮革或透氣的布製成的斗篷。</MedTimes_ShellBody_Cape.description>
+
+
+</LanguageData>

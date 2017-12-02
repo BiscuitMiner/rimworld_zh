@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Medieval Bolt, In-Motion -->
+
+  <MedTimes_Bolt_Ballista.label>重型弩箭</MedTimes_Bolt_Ballista.label>
+
+
+  <!-- Wood Pitch, In Motion -->
+
+  <MedTimes_Round_Quicklime.label>飛濺的石灰焦油</MedTimes_Round_Quicklime.label>
+
+
+  <!-- Explosive Pot, In Motion -->
+
+  <MedTimes_Round_ExplosivePot.label>爆炸罐範圍</MedTimes_Round_ExplosivePot.label>
+
+
+  <!-- Medieval Ballista, Turret -->
+
+  <MedTimes_Turret_BallistaTop.label>弩炮</MedTimes_Turret_BallistaTop.label>
+  <MedTimes_Turret_BallistaTop.description>一種大型的弩，可以發射相當具有威力的重型弩箭。</MedTimes_Turret_BallistaTop.description>
+
+
+  <!-- Medieval Murder Hole, Artillery -->
+
+  <MedTimes_Artillery_MurderHoleTop.label>屠殺孔</MedTimes_Artillery_MurderHoleTop.label>
+  <MedTimes_Artillery_MurderHoleTop.description>石灰焦油彈發射器。發射可以越過墻壁的石灰焦油彈，準確但射程很短。</MedTimes_Artillery_MurderHoleTop.description>
+
+
+  <!-- Medieval Catapult, Artillery -->
+
+  <MedTimes_Artillery_CatapultTop.label>中世紀投石器</MedTimes_Artillery_CatapultTop.label>
+  <MedTimes_Artillery_CatapultTop.description>投擲燃燒彈的投擲器。發射可以越過墻壁的燃燒彈，準確但射程很短。</MedTimes_Artillery_CatapultTop.description>
+
+
+  <!-- Wooden Barricade -->
+
+  <MedTimes_Trap_WoodenBarricade.label>木製路障</MedTimes_Trap_WoodenBarricade.label>
+  <MedTimes_Trap_WoodenBarricade.description>[陷阱：傷害~10](美觀度-5)\n\n這樣架起來的尖銳木頭使得在不花費大量時間或者受到傷害的前提下安全通過這裡變得困難起來。\n\n(謹記，一旦一個敵人趟過了一個路障，所有與之相鄰的路障都不再視為障礙。為了保持有威懾力的障礙區，在中間留出空隙，使得敵人需要踩著陷阱進來踩著陷阱出去)</MedTimes_Trap_WoodenBarricade.description>
+  <MedTimes_Trap_WoodenBarricade_Blueprint.label>木製路障(藍圖)</MedTimes_Trap_WoodenBarricade_Blueprint.label>
+  <MedTimes_Trap_WoodenBarricade_Blueprint_Install.label>木製路障(藍圖)</MedTimes_Trap_WoodenBarricade_Blueprint_Install.label>
+  <MedTimes_Trap_WoodenBarricade_Frame.label>木製路障(建造中)</MedTimes_Trap_WoodenBarricade_Frame.label>
+  <MedTimes_Trap_WoodenBarricade_Frame.description>[陷阱：傷害~10](美觀度-5)\n\n這樣架起來的尖銳木頭使得在不花費大量時間或者受到傷害的前提下安全通過這裡變得困難起來。\n\n(謹記，一旦一個敵人趟過了一個路障，所有與之相鄰的路障都不再視為障礙。為了保持有威懾力的障礙區，在中間留出空隙，使得敵人需要踩著陷阱進來踩著陷阱出去)</MedTimes_Trap_WoodenBarricade_Frame.description>
+
+
+  <!-- Steel Caltrops -->
+
+  <MedTimes_Trap_Caltrops.label>鐵蒺藜</MedTimes_Trap_Caltrops.label>
+  <MedTimes_Trap_Caltrops.description>[陷阱：傷害~15](美觀度-5)\n\n這樣鋪設的小金屬釘使得在不花費大量時間或者受到傷害的前提下安全通過這裡變得困難起來,與木製路障不同的是具有低可燃性。\n\n(謹記，一旦一個敵人趟過了一個路障，所有與之相鄰的路障都不再視為障礙。為了保持有威懾力的障礙區，在中間留出空隙，使得敵人需要踩著陷阱進來踩著陷阱出去)</MedTimes_Trap_Caltrops.description>
+  <MedTimes_Trap_Caltrops_Blueprint.label>鐵蒺藜(藍圖)</MedTimes_Trap_Caltrops_Blueprint.label>
+  <MedTimes_Trap_Caltrops_Blueprint_Install.label>鐵蒺藜(藍圖)</MedTimes_Trap_Caltrops_Blueprint_Install.label>
+  <MedTimes_Trap_Caltrops_Frame.label>鐵蒺藜(建造中)</MedTimes_Trap_Caltrops_Frame.label>
+  <MedTimes_Trap_Caltrops_Frame.description>[陷阱：傷害~15](美觀度-5)\n\n這樣鋪設的小金屬釘使得在不花費大量時間或者受到傷害的前提下安全通過這裡變得困難起來,與木製路障不同的是具有低可燃性。\n\n(謹記，一旦一個敵人趟過了一個路障，所有與之相鄰的路障都不再視為障礙。為了保持有威懾力的障礙區，在中間留出空隙，使得敵人需要踩著陷阱進來踩著陷阱出去)</MedTimes_Trap_Caltrops_Frame.description>
+
+
+  <!-- Ballista -->
+
+  <MedTimes_Turret_Ballista.label>弩炮</MedTimes_Turret_Ballista.label>
+  <MedTimes_Turret_Ballista.description>[炮台: 傷害~35, 必須有人操縱。](美觀度-5)\n\n一種由羅馬人發明的重型攻城兵器，發射極具威力的重型弩箭。</MedTimes_Turret_Ballista.description>
+  <MedTimes_Turret_Ballista_Blueprint.label>弩炮 (藍圖)</MedTimes_Turret_Ballista_Blueprint.label>
+  <MedTimes_Turret_Ballista_Blueprint_Install.label>弩炮 (藍圖)</MedTimes_Turret_Ballista_Blueprint_Install.label>
+  <MedTimes_Turret_Ballista_Frame.label>弩炮 (建造中)</MedTimes_Turret_Ballista_Frame.label>
+  <MedTimes_Turret_Ballista_Frame.description>[炮台: 傷害~35, 必須有人操縱。](美觀度-5)\n\n一種由羅馬人發明的重型攻城兵器，發射極具威力的重型弩箭。</MedTimes_Turret_Ballista_Frame.description>
+
+
+  <!-- Murder Hole -->
+
+  <MedTimes_Artillery_MurderHole.label>屠殺孔</MedTimes_Artillery_MurderHole.label>
+  <MedTimes_Artillery_MurderHole.description>[炮台：傷害~15，燃燒彈，必須有人操縱。](彈藥:石灰焦油彈)(美觀度-15，清潔度-10)\n\n儲存並拋射滾燙的熱油和燃燒的引火物的東西。它的術語其實叫做堞口（Machicolation），但叫做屠殺孔更有趣。必須有人操作！\n\n譯者注：自己發明奇怪的新單詞一點也不有趣！這個東西其實是城堡突出部的防禦工事。就是那個在影視作品中常見的，把大門一關，門口的天花板打開往下倒熱油那個玩意兒。</MedTimes_Artillery_MurderHole.description>
+  <MedTimes_Artillery_MurderHole_Blueprint.label>屠殺孔(藍圖)</MedTimes_Artillery_MurderHole_Blueprint.label>
+  <MedTimes_Artillery_MurderHole_Frame.label>屠殺孔(建造中)</MedTimes_Artillery_MurderHole_Frame.label>
+  <MedTimes_Artillery_MurderHole_Frame.description>[炮台：傷害~15，燃燒彈，必須有人操縱。](彈藥:石灰焦油彈)(美觀度-15，清潔度-10)\n\n儲存並拋射滾燙的熱油和燃燒的引火物的東西。它的術語其實叫做堞口（Machicolation），但叫做屠殺孔更有趣。必須有人操作！</MedTimes_Artillery_MurderHole_Frame.description>
+
+
+  <!-- Catapult -->
+
+  <MedTimes__Artillery_Catapult.label>投石機</MedTimes__Artillery_Catapult.label>
+  <MedTimes__Artillery_Catapult.description>[炮台：傷害~25,燃燒彈，必須有人操縱。](彈藥:爆炸罐)(美觀度-5)\n\n發射爆炸/燃燒彈藥的投射裝置。</MedTimes__Artillery_Catapult.description>
+  <MedTimes__Artillery_Catapult_Blueprint.label>投石機(藍圖)</MedTimes__Artillery_Catapult_Blueprint.label>
+  <MedTimes__Artillery_Catapult_Blueprint_Install.label>投石機(藍圖)</MedTimes__Artillery_Catapult_Blueprint_Install.label>
+  <MedTimes__Artillery_Catapult_Frame.label>投石機(建造中)</MedTimes__Artillery_Catapult_Frame.label>
+  <MedTimes__Artillery_Catapult_Frame.description>[炮台：傷害~25,燃燒彈，必須有人操縱。](彈藥:爆炸罐)(美觀度-5)\n\n發射爆炸/燃燒彈藥的投射裝置。</MedTimes__Artillery_Catapult_Frame.description>
+
+
+</LanguageData>

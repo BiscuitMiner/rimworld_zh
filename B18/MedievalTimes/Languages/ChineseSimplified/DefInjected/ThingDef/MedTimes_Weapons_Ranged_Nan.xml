@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recurved Bow -->
+
+  <MedTimes_Ranged_Composite_Nan.label>覆合弓</MedTimes_Ranged_Composite_Nan.label>
+  <MedTimes_Ranged_Composite_Nan.description>(纳米强化)一个轻便但功能强大的、由多种材料制成的反曲弓。由数层木头和动物的骨头粘合而成。</MedTimes_Ranged_Composite_Nan.description>
+
+
+  <!-- Longbow -->
+
+  <MedTimes_Ranged_Longbow_Nan.label>英格兰长弓</MedTimes_Ranged_Longbow_Nan.label>
+  <MedTimes_Ranged_Longbow_Nan.description>(纳米强化)射程极远的英格兰传统长弓，使用臭名昭著的锥头箭。</MedTimes_Ranged_Longbow_Nan.description>
+
+
+  <!-- Crossbow -->
+
+  <MedTimes_Ranged_Crossbow_Nan.label>十字弩</MedTimes_Ranged_Crossbow_Nan.label>
+  <MedTimes_Ranged_Crossbow_Nan.description>(纳米强化)十字弩，比普通的弓更容易使用，射击精准度很高，但装填较慢。</MedTimes_Ranged_Crossbow_Nan.description>
+
+
+  <!-- Hand Crossbow -->
+
+  <MedTimes_Ranged_HandCrossbow_Nan.label>单手弩</MedTimes_Ranged_HandCrossbow_Nan.label>
+  <MedTimes_Ranged_HandCrossbow_Nan.description>(纳米强化)小型单手弩，比普通的弓更容易使用，射击精准度很高，但射程较短。</MedTimes_Ranged_HandCrossbow_Nan.description>
+
+
+  <!-- Arbalest -->
+
+  <MedTimes_Ranged_Arbalest_Nan.label>劲弩</MedTimes_Ranged_Arbalest_Nan.label>
+  <MedTimes_Ranged_Arbalest_Nan.description>(纳米强化)一把由先进的技术和回火钢制成的大型弩。\n\n译者注：Arbalest是12世纪在欧洲出现的变种弩，这才是真正的使用钢制弩弓的一种弩。由于其弩弓太硬有时候还会配上辅助上弦的装置。</MedTimes_Ranged_Arbalest_Nan.description>
+
+
+  <!-- Smoothbore Musket -->
+
+  <MedTimes_Ranged_Musket_Nan.label>滑膛火枪</MedTimes_Ranged_Musket_Nan.label>
+  <MedTimes_Ranged_Musket_Nan.description>(纳米强化)一种简单的、由铸钢制成的无膛线火枪，其复杂的装填过程使它的发射速率十分捉鸡，但它的伤害相当可观，而且相对于弩来说更为精准。</MedTimes_Ranged_Musket_Nan.description>
+
+
+</LanguageData>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Items -->
+
+  <TradeGoods.label>貿易貨物</TradeGoods.label>
+
+
+  <!-- Weapons Melee -->
+
+  <WeaponsMelee_Leg.label>傳奇物品</WeaponsMelee_Leg.label>
+  <WeaponsMelee_Art.label>人造品</WeaponsMelee_Art.label>
+  <WeaponsMelee_Nan.label>納米強化</WeaponsMelee_Nan.label>
+
+
+  <!-- Weapons Ranged -->
+
+  <WeaponsRanged_Leg.label>傳奇物品</WeaponsRanged_Leg.label>
+  <WeaponsRanged_Art.label>人造品</WeaponsRanged_Art.label>
+  <WeaponsRanged_Nan.label>納米強化</WeaponsRanged_Nan.label>
+
+
+  <!-- Weapons Grenades -->
+
+  <WeaponsRangedGrenades_Leg.label>手雷</WeaponsRangedGrenades_Leg.label>
+  <WeaponsRangedGrenades_Art.label>手雷</WeaponsRangedGrenades_Art.label>
+  <WeaponsRangedGrenades_Nanite.label>手雷</WeaponsRangedGrenades_Nanite.label>
+
+
+  <!-- Body -->
+
+  <Bodygear.label>軀幹</Bodygear.label>
+  <BodyArmour.label>護甲</BodyArmour.label>
+  <BodyArmour_Leg.label>傳奇物品</BodyArmour_Leg.label>
+  <BodyArmour_Art.label>人造品</BodyArmour_Art.label>
+  <BodyArmour_Nan.label>納米強化</BodyArmour_Nan.label>
+  <Outergear.label>外衣</Outergear.label>
+
+
+  <!-- Headgear -->
+
+  <HeadArmour.label>護甲</HeadArmour.label>
+  <HeadArmour_Leg.label>傳奇物品</HeadArmour_Leg.label>
+  <HeadArmour_Art.label>人造品</HeadArmour_Art.label>
+  <HeadArmour_Nan.label>納米強化</HeadArmour_Nan.label>
+
+
+  <!-- Hand -->
+
+  <Handgear.label>手部</Handgear.label>
+  <HandArmour.label>護甲</HandArmour.label>
+  <HandArmour_Leg.label>傳奇物品</HandArmour_Leg.label>
+  <HandArmour_Art.label>人造品</HandArmour_Art.label>
+  <HandArmour_Nan.label>納米強化</HandArmour_Nan.label>
+
+
+  <!-- Foot -->
+
+  <Footgear.label>足部</Footgear.label>
+  <FootArmour.label>護甲</FootArmour.label>
+  <FootArmour_Leg.label>傳奇物品</FootArmour_Leg.label>
+  <FootArmour_Art.label>人造品</FootArmour_Art.label>
+  <FootArmour_Nan.label>納米強化</FootArmour_Nan.label>
+
+
+  <!-- Acessories -->
+
+  <Accessories.label>附件</Accessories.label>
+  <Accessories_Leg.label>傳奇物品</Accessories_Leg.label>
+  <Accessories_Art.label>人造品</Accessories_Art.label>
+  <Accessories_Nan.label>納米強化</Accessories_Nan.label>
+
+
+</LanguageData>

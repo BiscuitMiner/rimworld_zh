@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recurved Bow & Ammo -->
+
+  <Medieval_Arrow_Composite.label>覆合弓矢</Medieval_Arrow_Composite.label>
+
+  <MedTimes_Ranged_Composite.label>覆合弓</MedTimes_Ranged_Composite.label>
+  <MedTimes_Ranged_Composite.description>一個輕便但功能強大的、由多種材料製成的反曲弓。由數層木頭和動物的骨頭粘合而成。</MedTimes_Ranged_Composite.description>
+
+
+  <!-- Longbow & Ammo -->
+
+  <Medieval_Arrow_Longbow.label>長弓矢</Medieval_Arrow_Longbow.label>
+
+  <MedTimes_Ranged_Longbow.label>英格蘭長弓</MedTimes_Ranged_Longbow.label>
+  <MedTimes_Ranged_Longbow.description>射程極遠的英格蘭傳統長弓，使用臭名昭著的錐頭箭。</MedTimes_Ranged_Longbow.description>
+
+
+  <!-- Crossbow & Ammo -->
+
+  <Medieval_Bolt_Crossbow.label>十字弩矢</Medieval_Bolt_Crossbow.label>
+
+  <MedTimes_Ranged_Crossbow.label>十字弩</MedTimes_Ranged_Crossbow.label>
+  <MedTimes_Ranged_Crossbow.description>十字弩，比普通的弓更容易使用，射擊精準度很高，但裝填較慢。</MedTimes_Ranged_Crossbow.description>
+
+  <MedTimes_Ranged_HandCrossbow.label>單手弩</MedTimes_Ranged_HandCrossbow.label>
+  <MedTimes_Ranged_HandCrossbow.description>小型單手弩，比普通的弓更容易使用，射擊精準度很高，但射程較短。</MedTimes_Ranged_HandCrossbow.description>
+
+
+  <!-- Arbalest & Ammo -->
+
+  <Medieval_Bolt_Arbalest.label>勁弩矢</Medieval_Bolt_Arbalest.label>
+
+  <MedTimes_Ranged_Arbalest.label>勁弩</MedTimes_Ranged_Arbalest.label>
+  <MedTimes_Ranged_Arbalest.description>一把由先進的技術和回火鋼製成的大型弩。\n\n譯者注：Arbalest是12世紀在歐洲出現的變種弩，這才是真正的使用鋼製弩弓的一種弩。由於其弩弓太硬有時候還會配上輔助上弦的裝置。</MedTimes_Ranged_Arbalest.description>
+
+
+  <!-- Smoothbore Musket & Ammo -->
+
+  <MedTimes_Ball_Musket.label>火槍槍彈</MedTimes_Ball_Musket.label>
+
+  <MedTimes_Ranged_Musket.label>滑膛火槍</MedTimes_Ranged_Musket.label>
+  <MedTimes_Ranged_Musket.description>一種簡單的、由鑄鋼製成的無膛線火槍，其複雜的裝填過程使它的發射速率十分捉雞，但它的傷害相當可觀，而且相對於弩來說更為精準。</MedTimes_Ranged_Musket.description>
+
+
+</LanguageData>

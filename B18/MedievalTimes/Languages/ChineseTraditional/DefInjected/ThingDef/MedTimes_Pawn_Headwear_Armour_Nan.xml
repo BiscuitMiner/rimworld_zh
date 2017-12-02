@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wooden Helmet -->
+
+  <MedTimes_Helm_Wooden_Nan.label>木盔</MedTimes_Helm_Wooden_Nan.label>
+  <MedTimes_Helm_Wooden_Nan.description>(納米強化)[近戰閃避率: +8%]\n\n內填棉花的皮帽，外面覆上了木板以抵擋攻擊，還可以為你的頭部保暖。</MedTimes_Helm_Wooden_Nan.description>
+
+
+  <!-- Padded Head-wrap -->
+
+  <MedTimes_Helm_Headwrap_Nan.label>覆鐵頭巾</MedTimes_Helm_Headwrap_Nan.label>
+  <MedTimes_Helm_Headwrap_Nan.description>(納米強化)[近戰閃避率: +8%]\n\n用皮革和布料縫製而成的頭巾，上面縫製了一塊鐵板以抵擋攻擊，還可以為你的頭部保暖。</MedTimes_Helm_Headwrap_Nan.description>
+
+
+  <!-- Domed Helmet -->
+
+  <MedTimes_Helm_Domed_Nan.label>圓頂盔</MedTimes_Helm_Domed_Nan.label>
+  <MedTimes_Helm_Domed_Nan.description>(納米強化)[近戰閃避率: +8%]\n\n內填棉花的皮帽，上面有一個大圓頂頭盔並附有鎖鏈。所有部件組合起來能在不降低移動速度或者能見度的情況下提供良好的防護，這些部件也提供了在冬季的保暖性。</MedTimes_Helm_Domed_Nan.description>
+
+
+  <!-- Sallet Helmet -->
+
+  <MedTimes_Helm_Sallet_Nan.label>覆面盔</MedTimes_Helm_Sallet_Nan.label>
+  <MedTimes_Helm_Sallet_Nan.description>(納米強化)[近戰閃避率: +8%]\n\n內填棉花的皮帽，上面有一個輕型鋼盔並附有鎖鏈。\n\n所有部件組合起來能在不降低移動速度或者能見度的情況下提供良好的防護，這些部件也提供了在冬季的保暖性。</MedTimes_Helm_Sallet_Nan.description>
+
+
+  <!-- Nasal Helmet -->
+
+  <MedTimes_Helm_Nasal_Nan.label>諾曼護盔</MedTimes_Helm_Nasal_Nan.label>
+  <MedTimes_Helm_Nasal_Nan.description>(納米強化)[近戰閃避率: +8%]\n\n內填棉花的皮帽，上面有一個帶護鼻的諾曼護盔並附有鎖鏈。\n\n所有部件組合起來能在不降低移動速度或者能見度的情況下提供良好的防護，這些部件也提供了在冬季的保暖性。</MedTimes_Helm_Nasal_Nan.description>
+
+
+  <!-- Full Plated Head-wrap -->
+
+  <MedTimes_Helm_FullPlated_Nan.label>嵌甲頭巾</MedTimes_Helm_FullPlated_Nan.label>
+  <MedTimes_Helm_FullPlated_Nan.description>(納米強化)[近戰閃避率: +8%]\n\n用皮革和布料縫製而成的頭巾，縫製了數塊鐵片以抵擋攻擊，還可以為你的頭部保暖。</MedTimes_Helm_FullPlated_Nan.description>
+
+
+  <!-- Warbourne Helm -->
+
+  <MedTimes_Helm_Warbourne_Nan.label>滲透者護盔</MedTimes_Helm_Warbourne_Nan.label>
+  <MedTimes_Helm_Warbourne_Nan.description>(納米強化)[近戰閃避率: +8%]\n\n(譯者注:作者什麼都沒有寫...)</MedTimes_Helm_Warbourne_Nan.description>
+
+
+  <!-- Bascinet -->
+
+  <MedTimes_Helm_Bascinet_Nan.label>騎士覆面盔</MedTimes_Helm_Bascinet_Nan.label>
+  <MedTimes_Helm_Bascinet_Nan.description>(納米強化)[近戰閃避率: +8%]\n\n內填棉花的皮帽，外層使用重型鋼板來將防護力提高到極致，薄弱處還用鏈甲進行了加強。為了不影響視野，這種頭盔的面罩被設計為可隨意開合。\n\n所有部件組合起來能在不降低移動速度或者能見度的情況下提供良好的防護，這些部件也提供了在冬季的保暖性。</MedTimes_Helm_Bascinet_Nan.description>
+
+
+  <!-- Conical Bascinet -->
+
+  <MedTimes_Helm_ConicalBascinet_Nan.label>錐頂騎士覆面盔</MedTimes_Helm_ConicalBascinet_Nan.label>
+  <MedTimes_Helm_ConicalBascinet_Nan.description>(納米強化)[近戰閃避率: +8%]\n\n內填棉花的皮帽，外層使用重型鋼板來將防護力提高到極致，薄弱處還用鋼鱗片和鏈甲進行了加強。為了不影響視野，這種頭盔的面罩被設計為可隨意開合。\n\n所有部件組合起來能在不降低移動速度或者能見度的情況下提供良好的防護，這些部件也提供了在冬季的保暖性。</MedTimes_Helm_ConicalBascinet_Nan.description>
+
+
+  <!-- Royal Mask -->
+
+  <MedTimes_Helm_RoyalMask_Nan.label>皇家面具</MedTimes_Helm_RoyalMask_Nan.label>
+  <MedTimes_Helm_RoyalMask_Nan.description>(納米強化)[近戰閃避率: +8%]\n\n內填棉花的皮帽，外層使用了裝飾華麗的重型鋼板來將防護力提高到極致，薄弱處還用鋼鱗片和鏈甲進行了加強。為了不影響視野，這種頭盔的面罩被設計為可隨意開合。\n\n所有部件組合起來能在不降低移動速度或者能見度的情況下提供良好的防護，這些部件也提供了在冬季的保暖性。</MedTimes_Helm_RoyalMask_Nan.description>
+
+
+  <!-- Death Mask -->
+
+  <MedTimes_Helm_DeathMask_Nan.label>死亡面具</MedTimes_Helm_DeathMask_Nan.label>
+  <MedTimes_Helm_DeathMask_Nan.description>(納米強化)[近戰閃避率: +8%]\n\n內填棉花的皮帽，外層使用了裝飾華麗的重型鋼板來將防護力提高到極致，薄弱處還用鋼鱗片和鏈甲進行了加強。為了不影響視野，這種頭盔的面罩被設計為可隨意開合。\n\n所有部件組合起來能在不降低移動速度或者能見度的情況下提供良好的防護，這些部件也提供了在冬季的保暖性。</MedTimes_Helm_DeathMask_Nan.description>
+
+
+</LanguageData>

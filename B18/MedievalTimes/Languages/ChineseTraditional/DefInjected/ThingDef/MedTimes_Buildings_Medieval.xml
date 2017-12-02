@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Fire Pit -->
+
+  <MedTimes_Firepit.label>火坑</MedTimes_Firepit.label>
+  <MedTimes_Firepit.description>[便攜式，可用於烹飪]\n(工作速度係數：75%)\n(清潔度：-10)\n\n便攜式的篝火，只有在你烹飪的時候才會消耗燃料。另外它並不會產生熱量。</MedTimes_Firepit.description>
+  <MedTimes_Firepit_Blueprint.label>火坑 (藍圖)</MedTimes_Firepit_Blueprint.label>
+  <MedTimes_Firepit_Blueprint_Install.label>火坑 (藍圖)</MedTimes_Firepit_Blueprint_Install.label>
+  <MedTimes_Firepit_Frame.label>火坑 (建造中)</MedTimes_Firepit_Frame.label>
+  <MedTimes_Firepit_Frame.description>[便攜式，可用於烹飪]\n(工作速度係數：75%)\n(清潔度：-10)\n\n便攜式的篝火，只有在你烹飪的時候才會消耗燃料。另外它並不會產生熱量。</MedTimes_Firepit_Frame.description>
+
+
+  <!-- Corpse Bonfire -->
+
+  <MedTimes_ButcherBlock.label>屠宰用木砧</MedTimes_ButcherBlock.label>
+  <MedTimes_ButcherBlock.description>[便攜式，可用於屠宰]\n(工作速度係數：75%)\n(美觀度：-10，清潔度：-10) \n\n一個可以隨意搬動的木樁，配備了一把切肉刀來使你可以將死掉的動物屍體屠宰出可用的肉。</MedTimes_ButcherBlock.description>
+  <MedTimes_ButcherBlock_Blueprint.label>屠宰用木砧(藍圖)</MedTimes_ButcherBlock_Blueprint.label>
+  <MedTimes_ButcherBlock_Blueprint_Install.label>屠宰用木砧(藍圖)</MedTimes_ButcherBlock_Blueprint_Install.label>
+  <MedTimes_ButcherBlock_Frame.label>屠宰用木砧(建造中)</MedTimes_ButcherBlock_Frame.label>
+  <MedTimes_ButcherBlock_Frame.description>[便攜式，可用於屠宰]\n(工作速度係數：75%)\n(美觀度：-10，清潔度：-10) \n\n一個可以隨意搬動的木樁，配備了一把切肉刀來使你可以將死掉的動物屍體屠宰出可用的肉。</MedTimes_ButcherBlock_Frame.description>
+
+  <MedTimes_CorpseBonfire.label>焚屍篝火</MedTimes_CorpseBonfire.label>
+  <MedTimes_CorpseBonfire.description>[火化屍體/衣物/成癮品]\n(使用時；發光半徑:15，無可種植範圍，淋雨受損，燃料耗盡損壞)\n(使用時；熱功率:15)\n(使用時；燃料消耗速度:200)\n(美觀度-50，清潔度-50)\n\n最開始，這個東西被叫作“地獄之火”，這種受控的大型火焰被用於焚燒屍體和骨頭。之後這玩意不僅僅被用來燒毀屍體，還包括其它任何需要處理的垃圾和廢物。當瘟疫席捲你的城鎮或者經歷過一大波部落進攻之後，留下一地的屍體使你不知所措時，你會發現這個篝火多麼好用。\n注意，這個篝火會顯著降低周圍的美觀度和清潔度。</MedTimes_CorpseBonfire.description>
+  <MedTimes_CorpseBonfire_Blueprint.label>屍體篝火(藍圖)</MedTimes_CorpseBonfire_Blueprint.label>
+  <MedTimes_CorpseBonfire_Frame.label>屍體篝火(建造中)</MedTimes_CorpseBonfire_Frame.label>
+  <MedTimes_CorpseBonfire_Frame.description>[火化屍體/衣物/成癮品]\n(使用時；發光半徑:15，無可種植範圍，淋雨受損，燃料耗盡損壞)\n(使用時；熱功率:15)\n(使用時；燃料消耗速度:200)\n(美觀度-50，清潔度-50)\n\n最開始，這個東西被叫作“地獄之火”，這種受控的大型火焰被用於焚燒屍體和骨頭。之後這玩意不僅僅被用來燒毀屍體，還包括其它任何需要處理的垃圾和廢物。當瘟疫席捲你的城鎮或者經歷過一大波部落進攻之後，留下一地的屍體使你不知所措時，你會發現這個篝火多麼好用。\n注意，這個篝火會顯著降低周圍的美觀度和清潔度。</MedTimes_CorpseBonfire_Frame.description>
+
+
+  <!-- (Medieval) Stone Hearth -->
+
+  <MedTimes_StoneHearth.label>石質壁爐</MedTimes_StoneHearth.label>
+  <MedTimes_StoneHearth.description>[烹飪，加熱，娛樂]\n(發光半徑:8，無可種植範圍,不受雨水傷害)\n(熱功率:10)\n(燃料消耗速度:2.5)\n(美觀度+25，清潔度-3)\n\n你最好最划算的個人臥室供暖與照明的解決方案。石質壁爐很正義，可以持續不斷地提供光和熱，並且還可以用來做飯（沒有額外消耗），可以進行娛樂活動甚至可以作為聚會集合點。\n\n無論是貴族還是農民，石質壁爐都是中世紀家庭的中心。它可以用來做飯或者是維持所有人的溫暖。為你的爐膛提供足夠的木材，讓你的殖民地度過最黑暗的時光。</MedTimes_StoneHearth.description>
+  <MedTimes_StoneHearth_Blueprint.label>石質壁爐(藍圖)</MedTimes_StoneHearth_Blueprint.label>
+  <MedTimes_StoneHearth_Blueprint_Install.label>石質壁爐(藍圖)</MedTimes_StoneHearth_Blueprint_Install.label>
+  <MedTimes_StoneHearth_Frame.label>石質壁爐(建造中)</MedTimes_StoneHearth_Frame.label>
+  <MedTimes_StoneHearth_Frame.description>[烹飪，加熱，娛樂]\n(發光半徑:8，無可種植範圍,不受雨水傷害)\n(熱功率:10)\n(燃料消耗速度:2.5)\n(美觀度+25，清潔度-3)\n\n你最好最划算的個人臥室供暖與照明的解決方案。石質壁爐很正義，可以持續不斷地提供光和熱，並且還可以用來做飯（沒有額外消耗），可以進行娛樂活動甚至可以作為聚會集合點。\n\n無論是貴族還是農民，石質壁爐都是中世紀家庭的中心。它可以用來做飯或者是維持所有人的溫暖。為你的爐膛提供足夠的木材，讓你的殖民地度過最黑暗的時光。</MedTimes_StoneHearth_Frame.description>
+
+
+  <!-- (Medieval) Smokehouse -->
+
+  <MedTimes_Smokehouse.label>燻製室</MedTimes_Smokehouse.label>
+  <MedTimes_Smokehouse.description>[烹飪耐儲存食物]\n(使用時；燃料消耗速度:25)\n(清潔度-5)\n\n燻製室是一個匯聚大量煙霧的封閉區域。使得放置於燻製室的食物能夠被燻乾進行長期儲存。</MedTimes_Smokehouse.description>
+  <MedTimes_Smokehouse_Blueprint.label>燻製室(藍圖)</MedTimes_Smokehouse_Blueprint.label>
+  <MedTimes_Smokehouse_Blueprint_Install.label>燻製室(藍圖)</MedTimes_Smokehouse_Blueprint_Install.label>
+  <MedTimes_Smokehouse_Frame.label>燻製室(建造中)</MedTimes_Smokehouse_Frame.label>
+  <MedTimes_Smokehouse_Frame.description>[烹飪耐儲存食物]\n(使用時；燃料消耗速度:25)\n(清潔度-5)\n\n燻製室是一個匯聚大量煙霧的封閉區域。使得放置於燻製室的食物能夠被燻乾進行長期儲存。</MedTimes_Smokehouse_Frame.description>
+
+
+  <!-- Small Table -->
+
+  <MedTimes_SmallTable.label>小桌子</MedTimes_SmallTable.label>
+  <MedTimes_SmallTable.description>可以用於吃東西的小桌子。也可以用來看書或者遊戲。</MedTimes_SmallTable.description>
+  <MedTimes_SmallTable_Blueprint.label>小桌子(藍圖)</MedTimes_SmallTable_Blueprint.label>
+  <MedTimes_SmallTable_Blueprint_Install.label>小桌子(藍圖)</MedTimes_SmallTable_Blueprint_Install.label>
+  <MedTimes_SmallTable_Frame.label>小桌子(建造中)</MedTimes_SmallTable_Frame.label>
+  <MedTimes_SmallTable_Frame.description>可以用於吃東西的小桌子。也可以用來看書或者遊戲。</MedTimes_SmallTable_Frame.description>
+
+
+  <!-- Combat Stand -->
+
+  <MedTimes_CombatStandPlaced.label>戰爭儲備箱</MedTimes_CombatStandPlaced.label>
+  <MedTimes_CombatStandPlaced.description>儲存於此的物品即使露天也不會老化。</MedTimes_CombatStandPlaced.description>
+  <MedTimes_CombatStandPlaced_Blueprint_Install.label>戰爭儲備箱(藍圖)</MedTimes_CombatStandPlaced_Blueprint_Install.label>
+
+
+  <!-- Storage Pallet -->
+
+  <MedTimes_StoragePallet.label>置物架</MedTimes_StoragePallet.label>
+  <MedTimes_StoragePallet.description>儲存於此的物品即使露天也不會老化。(注意，如果把食物等物品放在這裡仍然會腐爛)</MedTimes_StoragePallet.description>
+  <MedTimes_StoragePallet_Blueprint_Install.label>置物架(藍圖)</MedTimes_StoragePallet_Blueprint_Install.label>
+
+
+  <!-- Storage Pot -->
+
+  <MedTimes_StoragePotPlaced.label>儲物罐</MedTimes_StoragePotPlaced.label>
+  <MedTimes_StoragePotPlaced.description>儲存於此的物品即使露天也不會老化。</MedTimes_StoragePotPlaced.description>
+  <MedTimes_StoragePotPlaced_Blueprint_Install.label>儲物罐(藍圖)</MedTimes_StoragePotPlaced_Blueprint_Install.label>
+
+
+  <!-- Brazier -->
+
+  <MedTimes_Brazier.label>火盆</MedTimes_Brazier.label>
+  <MedTimes_Brazier.description>(發光半徑:8，無可種植範圍,不受雨水傷害)\n(熱功率:2)\n(燃料消耗速度:1)\n(美觀度+5，清潔度-3)\n\n燃著一小團火焰的金屬盆。有著鮮明中世紀風格的照明設施。</MedTimes_Brazier.description>
+  <MedTimes_Brazier_Blueprint.label>火盆(藍圖)</MedTimes_Brazier_Blueprint.label>
+  <MedTimes_Brazier_Blueprint_Install.label>火盆(藍圖)</MedTimes_Brazier_Blueprint_Install.label>
+  <MedTimes_Brazier_Frame.label>火盆(建造中)</MedTimes_Brazier_Frame.label>
+  <MedTimes_Brazier_Frame.description>(發光半徑:8，無可種植範圍,不受雨水傷害)\n(熱功率:2)\n(燃料消耗速度:1)\n(美觀度+5，清潔度-3)\n\n燃著一小團火焰的金屬盆。有著鮮明中世紀風格的照明設施。</MedTimes_Brazier_Frame.description>
+
+
+  <!-- Street Lamp -->
+
+  <MedTimes_StreetLamp.label>街燈</MedTimes_StreetLamp.label>
+  <MedTimes_StreetLamp.description>(發光半徑:12，無可種植範圍，不受雨水傷害)\n(熱功率:2)\n(燃料消耗速度:1)\n(清潔度-3)\n\n掛有燃著一小團火焰的金屬籠子的木樁。有著鮮明中世紀風格的照明設施，用木頭作為燃料。</MedTimes_StreetLamp.description>
+  <MedTimes_StreetLamp_Blueprint.label>街燈(藍圖)</MedTimes_StreetLamp_Blueprint.label>
+  <MedTimes_StreetLamp_Blueprint_Install.label>街燈(藍圖)</MedTimes_StreetLamp_Blueprint_Install.label>
+  <MedTimes_StreetLamp_Frame.label>街燈(建造中)</MedTimes_StreetLamp_Frame.label>
+  <MedTimes_StreetLamp_Frame.description>(發光半徑:12，無可種植範圍，不受雨水傷害)\n(熱功率:2)\n(燃料消耗速度:1)\n(清潔度-3)\n\n掛有燃著一小團火焰的金屬籠子的木樁。有著鮮明中世紀風格的照明設施，用木頭作為燃料。</MedTimes_StreetLamp_Frame.description>
+
+
+  <!-- Reflector -->
+
+  <MedTimes_Reflector.label>光線反射器</MedTimes_Reflector.label>
+  <MedTimes_Reflector.description>(發光半徑:3，可種植範圍:3,不受雨水傷害)\n(熱功率:2)\n(煤炭消耗:5)\n(美觀度+5，清潔度-3)\n\n高度拋光的金屬可以在小範圍內反射大量的火光。這並不是提供強光最好的方法，但聊勝於無。產生這麼高的亮度需要煤作為燃料。</MedTimes_Reflector.description>
+  <MedTimes_Reflector_Blueprint.label>光線反射器(藍圖)</MedTimes_Reflector_Blueprint.label>
+  <MedTimes_Reflector_Blueprint_Install.label>光線反射器(藍圖)</MedTimes_Reflector_Blueprint_Install.label>
+  <MedTimes_Reflector_Frame.label>光線反射器(建造中)</MedTimes_Reflector_Frame.label>
+  <MedTimes_Reflector_Frame.description>(發光半徑:3，可種植範圍:3,不受雨水傷害)\n(熱功率:2)\n(煤炭消耗:5)\n(美觀度+5，清潔度-3)\n\n高度拋光的金屬可以在小範圍內反射大量的火光。這並不是提供強光最好的方法，但聊勝於無。產生這麼高的亮度需要煤作為燃料。</MedTimes_Reflector_Frame.description>
+
+
+  <!-- Gardening Box -->
+
+  <MedTimes_GardeningBox.label>園藝箱</MedTimes_GardeningBox.label>
+  <MedTimes_GardeningBox.description>[可栽培植物]\n(清潔度-3)\n\n可以栽培植物。園藝箱是一種古老的技術，但依舊可以創造奇跡。在盒子裡裝滿土允許你可以在你喜歡的地方種植作物，也能讓你的食物來源遠離襲擊。</MedTimes_GardeningBox.description>
+  <MedTimes_GardeningBox_Blueprint.label>園藝盒(藍圖)</MedTimes_GardeningBox_Blueprint.label>
+  <MedTimes_GardeningBox_Blueprint_Install.label>園藝盒(藍圖)</MedTimes_GardeningBox_Blueprint_Install.label>
+  <MedTimes_GardeningBox_Frame.label>園藝箱(建造中)</MedTimes_GardeningBox_Frame.label>
+  <MedTimes_GardeningBox_Frame.description>[可栽培植物]\n(清潔度-3)\n\n可以栽培植物。園藝箱是一種古老的技術，但依舊可以創造奇跡。在盒子裡裝滿土允許你可以在你喜歡的地方種植作物，也能讓你的食物來源遠離襲擊。</MedTimes_GardeningBox_Frame.description>
+
+
+  <!-- Personal Desk -->
+
+  <MedTimes_Desk.label>書桌</MedTimes_Desk.label>
+  <MedTimes_Desk.description>這是你房間裡的個人書桌，雖然也可以拿來吃飯。這種高級的書桌用櫻桃木製成並配有紙張、墨水瓶和鵝毛筆。你可以在此寫下你的個人日誌或小故事，也可以記下重要的事情或工作的要點。實際上在自己房間有個書桌非常重要，當然前提是你是殖民地當中非常具有威望的人。</MedTimes_Desk.description>
+  <MedTimes_Desk_Blueprint.label>書桌(藍圖)</MedTimes_Desk_Blueprint.label>
+  <MedTimes_Desk_Blueprint_Install.label>書桌(藍圖)</MedTimes_Desk_Blueprint_Install.label>
+  <MedTimes_Desk_Frame.label>書桌(建造中)</MedTimes_Desk_Frame.label>
+  <MedTimes_Desk_Frame.description>這是你房間裡的個人書桌，雖然也可以拿來吃飯。這種高級的書桌用櫻桃木製成並配有紙張、墨水瓶和鵝毛筆。你可以在此寫下你的個人日誌或小故事，也可以記下重要的事情或工作的要點。實際上在自己房間有個書桌非常重要，當然前提是你是殖民地當中非常具有威望的人。</MedTimes_Desk_Frame.description>
+
+
+  <!-- (Medieval) Crafting Station -->
+
+  <MedTimes_CraftingStation.label>工藝台</MedTimes_CraftingStation.label>
+  <MedTimes_CraftingStation.description>[製造手工藝品]\n(清潔度-3)\n\n一個配備有各種工具用於生產各種必需品和貿易商品的工藝製造台。</MedTimes_CraftingStation.description>
+  <MedTimes_CraftingStation_Blueprint.label>工藝台(藍圖)</MedTimes_CraftingStation_Blueprint.label>
+  <MedTimes_CraftingStation_Blueprint_Install.label>工藝台(藍圖)</MedTimes_CraftingStation_Blueprint_Install.label>
+  <MedTimes_CraftingStation_Frame.label>工藝台(建造中)</MedTimes_CraftingStation_Frame.label>
+  <MedTimes_CraftingStation_Frame.description>[製造手工藝品]\n(清潔度-3)\n\n一個配備有各種工具用於生產各種必需品和貿易商品的工藝製造台。</MedTimes_CraftingStation_Frame.description>
+
+
+  <!-- (Medieval) Artisan Station -->
+
+  <MedTimes_ArtisanStation.label>藝術創作台</MedTimes_ArtisanStation.label>
+  <MedTimes_ArtisanStation.description>[創作藝術作品]\n(清潔度：-3) \n\n一個配備有各種工具的藝術創作台，用於生產各種雕塑和裝飾物。 </MedTimes_ArtisanStation.description>
+  <MedTimes_ArtisanStation_Blueprint.label>藝術工作台(藍圖)</MedTimes_ArtisanStation_Blueprint.label>
+  <MedTimes_ArtisanStation_Blueprint_Install.label>藝術創作台(藍圖)</MedTimes_ArtisanStation_Blueprint_Install.label>
+  <MedTimes_ArtisanStation_Frame.label>藝術創作台(建造中)</MedTimes_ArtisanStation_Frame.label>
+  <MedTimes_ArtisanStation_Frame.description>[創作藝術作品]\n(清潔度：-3) \n\n一個配備有各種工具的藝術創作台，用於生產各種雕塑和裝飾物。 </MedTimes_ArtisanStation_Frame.description>
+
+
+  <!-- (Medieval) FoodPrep Station -->
+
+  <MedTimes_FoodPrepStation.label>食物製備台</MedTimes_FoodPrepStation.label>
+  <MedTimes_FoodPrepStation.description>[烹飪大量食物]\n(使用時；燃料消耗速度:25)\n(清潔度-5)\n\n食物製備台配有大量的工具和一個大鍋，可以用來製作奶酪，也可以將大量食物混合做成燉菜。</MedTimes_FoodPrepStation.description>
+  <MedTimes_FoodPrepStation_Blueprint.label>食物製備台(藍圖)</MedTimes_FoodPrepStation_Blueprint.label>
+  <MedTimes_FoodPrepStation_Blueprint_Install.label>食物製備台(藍圖)</MedTimes_FoodPrepStation_Blueprint_Install.label>
+  <MedTimes_FoodPrepStation_Frame.label>食物製備台(建造中)</MedTimes_FoodPrepStation_Frame.label>
+  <MedTimes_FoodPrepStation_Frame.description>[烹飪大量食物]\n(使用時；燃料消耗速度:25)\n(清潔度-5)\n\n食物製備台配有大量的工具和一個大鍋，可以用來製作奶酪，也可以將大量食物混合做成燉菜。</MedTimes_FoodPrepStation_Frame.description>
+
+
+  <!-- (Medieval) Tailoring Station -->
+
+  <MedTimes_TailoringStation.label>裁縫台</MedTimes_TailoringStation.label>
+  <MedTimes_TailoringStation.description>[生產中世紀服裝，回收衣物]\n(清潔度-3)\n\n一個配備有各種工具用於生產和回收中世紀衣物的裁縫工作台。</MedTimes_TailoringStation.description>
+  <MedTimes_TailoringStation_Blueprint.label>裁縫台(藍圖)</MedTimes_TailoringStation_Blueprint.label>
+  <MedTimes_TailoringStation_Blueprint_Install.label>裁縫台(藍圖)</MedTimes_TailoringStation_Blueprint_Install.label>
+  <MedTimes_TailoringStation_Frame.label>裁縫台(建造中)</MedTimes_TailoringStation_Frame.label>
+  <MedTimes_TailoringStation_Frame.description>[生產中世紀服裝，回收衣物]\n(清潔度-3)\n\n一個配備有各種工具用於生產和回收中世紀衣物的裁縫工作台。</MedTimes_TailoringStation_Frame.description>
+
+
+  <!-- (Medieval) Tier 1 Blacksmith's Forge -->
+
+  <MedTimes_BlacksmithForge.label>鐵匠鍛造台</MedTimes_BlacksmithForge.label>
+  <MedTimes_BlacksmithForge.description>(一級)\n[製造武器/護甲/工具]\n(使用時；燃料消耗速度:50)\n(清潔度-5)\n\n一個消耗燃料、用於鍛造中世紀武器、護甲和工具的鍛造工作台。</MedTimes_BlacksmithForge.description>
+  <MedTimes_BlacksmithForge_Blueprint.label>鐵匠鍛造台(藍圖)</MedTimes_BlacksmithForge_Blueprint.label>
+  <MedTimes_BlacksmithForge_Blueprint_Install.label>鐵匠鍛造台(藍圖)</MedTimes_BlacksmithForge_Blueprint_Install.label>
+  <MedTimes_BlacksmithForge_Frame.label>鐵匠鍛造台(建造中)</MedTimes_BlacksmithForge_Frame.label>
+  <MedTimes_BlacksmithForge_Frame.description>(一級)\n[製造武器/護甲/工具]\n(使用時；燃料消耗速度:50)\n(清潔度-5)\n\n一個消耗燃料、用於鍛造中世紀武器、護甲和工具的鍛造工作台。</MedTimes_BlacksmithForge_Frame.description>
+
+
+  <!-- (Medieval) Tier 2 Blacksmith's Forge -->
+
+  <MedTimes_BlacksmithForgeTierTwo.label>高級鐵匠鍛造台</MedTimes_BlacksmithForgeTierTwo.label>
+  <MedTimes_BlacksmithForgeTierTwo.description>(二級)\n[製造武器/護甲/工具]\n(使用時；燃料消耗速度:50)\n(清潔度-5)\n\n一個消耗燃料、用於鍛造中世紀武器、護甲和工具的鍛造工作台。</MedTimes_BlacksmithForgeTierTwo.description>
+  <MedTimes_BlacksmithForgeTierTwo_Blueprint.label>高級鐵匠鍛造台(藍圖)</MedTimes_BlacksmithForgeTierTwo_Blueprint.label>
+  <MedTimes_BlacksmithForgeTierTwo_Blueprint_Install.label>高級鐵匠鍛造台(藍圖)</MedTimes_BlacksmithForgeTierTwo_Blueprint_Install.label>
+  <MedTimes_BlacksmithForgeTierTwo_Frame.label>高級鐵匠鍛造台(建造中)</MedTimes_BlacksmithForgeTierTwo_Frame.label>
+  <MedTimes_BlacksmithForgeTierTwo_Frame.description>(二級)\n[製造武器/護甲/工具]\n(使用時；燃料消耗速度:50)\n(清潔度-5)\n\n一個消耗燃料、用於鍛造中世紀武器、護甲和工具的鍛造工作台。</MedTimes_BlacksmithForgeTierTwo_Frame.description>
+
+
+  <!-- (Medieval) Blacksmith's Smelter -->
+
+  <MedTimes_FueledSmelter.label>鐵匠冶煉爐</MedTimes_FueledSmelter.label>
+  <MedTimes_FueledSmelter.description>[熔煉武器/護甲/鋼渣塊]\n(使用時；燃料消耗速度:100)\n(清潔度-5)\n\n從鋼渣塊和含有金屬的物品提取金屬。消耗大量燃料。</MedTimes_FueledSmelter.description>
+  <MedTimes_FueledSmelter_Blueprint.label>鐵匠冶煉爐(藍圖)</MedTimes_FueledSmelter_Blueprint.label>
+  <MedTimes_FueledSmelter_Blueprint_Install.label>鐵匠冶煉爐(藍圖)</MedTimes_FueledSmelter_Blueprint_Install.label>
+  <MedTimes_FueledSmelter_Frame.label>鐵匠冶煉爐(建造中)</MedTimes_FueledSmelter_Frame.label>
+  <MedTimes_FueledSmelter_Frame.description>[熔煉武器/護甲/鋼渣塊]\n(使用時；燃料消耗速度:100)\n(清潔度-5)\n\n從鋼渣塊和含有金屬的物品提取金屬。消耗大量燃料。</MedTimes_FueledSmelter_Frame.description>
+
+
+  <!-- (Medieval) Stone Quarry -->
+
+  <MedTimes_StoneQuarry.label>採石場</MedTimes_StoneQuarry.label>
+  <MedTimes_StoneQuarry.description>[採掘石塊]\n(清潔度-3)\n\n一個配備有各種工具、用於生產各種類型的石塊的採石場。</MedTimes_StoneQuarry.description>
+  <MedTimes_StoneQuarry_Blueprint.label>採石場(藍圖)</MedTimes_StoneQuarry_Blueprint.label>
+  <MedTimes_StoneQuarry_Blueprint_Install.label>採石場(藍圖)</MedTimes_StoneQuarry_Blueprint_Install.label>
+  <MedTimes_StoneQuarry_Frame.label>採石場(建造中)</MedTimes_StoneQuarry_Frame.label>
+  <MedTimes_StoneQuarry_Frame.description>[採掘石塊]\n(清潔度-3)\n\n一個配備有各種工具、用於生產各種類型的石塊的採石場。</MedTimes_StoneQuarry_Frame.description>
+
+
+  <!-- Ice Creation Station -->
+
+  <MedTimes_IceCreationStation.label>造冰台</MedTimes_IceCreationStation.label>
+  <MedTimes_IceCreationStation.description>[製造冰塊]\n(清潔度-3)\n\n製冰的辦法最初是由希臘人發明，之後由羅馬人改良，在中世紀和近代普遍使用。利用各種吸熱材料，通過蒸發水的方法來制取冰塊。雖然向外界購買冰塊更簡單，但這種需要大量工作量的“造冰台”會讓你哪怕是在沙漠裡也能製造出少量的冰。</MedTimes_IceCreationStation.description>
+  <MedTimes_IceCreationStation_Blueprint.label>造冰台(藍圖)</MedTimes_IceCreationStation_Blueprint.label>
+  <MedTimes_IceCreationStation_Blueprint_Install.label>造冰台(藍圖)</MedTimes_IceCreationStation_Blueprint_Install.label>
+  <MedTimes_IceCreationStation_Frame.label>造冰台(建造中)</MedTimes_IceCreationStation_Frame.label>
+  <MedTimes_IceCreationStation_Frame.description>[製造冰塊]\n(清潔度-3)\n\n製冰的辦法最初是由希臘人發明，之後由羅馬人改良，在中世紀和近代普遍使用。利用各種吸熱材料，通過蒸發水的方法來制取冰塊。雖然向外界購買冰塊更簡單，但這種需要大量工作量的“造冰台”會讓你哪怕是在沙漠裡也能製造出少量的冰。</MedTimes_IceCreationStation_Frame.description>
+
+
+  <!-- Ice Gathering Station -->
+
+  <MedTimes_IceGatheringStation.label>採冰場</MedTimes_IceGatheringStation.label>
+  <MedTimes_IceGatheringStation.description>[採掘冰塊]\n(清潔度-3)\n(溫度高於冰點會融化)\n\n冰是非常重要的資源，對吧？但如果你是在南極腹地，冰塊大概只有採集起來賣給路過的商人時才會有點存在的意義。並不只是把地上的冰撿起來，把雪製成冰是要一套完整手續的。不過你不用管那些，這是你的領地，你合法擁有一切。</MedTimes_IceGatheringStation.description>
+  <MedTimes_IceGatheringStation_Blueprint.label>採冰場(藍圖)</MedTimes_IceGatheringStation_Blueprint.label>
+  <MedTimes_IceGatheringStation_Frame.label>採冰場(建造中)</MedTimes_IceGatheringStation_Frame.label>
+  <MedTimes_IceGatheringStation_Frame.description>[採掘冰塊]\n(清潔度-3)\n(溫度高於冰點會融化)\n\n冰是非常重要的資源，對吧？但如果你是在南極腹地，冰塊大概只有採集起來賣給路過的商人時才會有點存在的意義。並不只是把地上的冰撿起來，把雪製成冰是要一套完整手續的。不過你不用管那些，這是你的領地，你合法擁有一切。</MedTimes_IceGatheringStation_Frame.description>
+
+
+  <!-- (Medieval) Fancy Icebox -->
+
+  <MedTimes_Icebox.label>冰盒</MedTimes_Icebox.label>
+  <MedTimes_Icebox.description>(熱功率:-10)\n(冰塊消耗:15)\n(清潔度-10，美觀度-5)\n\n一個傳統的製冷器，不需要通電也能起作用。如果你將足夠多的冰塊放入這個金屬盒子，甚至可以將房間的溫度降至近乎冰點。裡面的冰將在幾天內融化。這是個相當簡陋的盒子，四處漏水還容易生鏽。</MedTimes_Icebox.description>
+  <MedTimes_Icebox_Blueprint.label>冰盒(藍圖)</MedTimes_Icebox_Blueprint.label>
+  <MedTimes_Icebox_Blueprint_Install.label>冰盒(藍圖)</MedTimes_Icebox_Blueprint_Install.label>
+  <MedTimes_Icebox_Frame.label>冰盒(建造中)</MedTimes_Icebox_Frame.label>
+  <MedTimes_Icebox_Frame.description>(熱功率:-10)\n(冰塊消耗:15)\n(清潔度-10，美觀度-5)\n\n一個傳統的製冷器，不需要通電也能起作用。如果你將足夠多的冰塊放入這個金屬盒子，甚至可以將房間的溫度降至近乎冰點。裡面的冰將在幾天內融化。這是個相當簡陋的盒子，四處漏水還容易生鏽。</MedTimes_Icebox_Frame.description>
+
+  <MedTimes_IceboxFancy.label>精緻冰盒</MedTimes_IceboxFancy.label>
+  <MedTimes_IceboxFancy.description>(熱功率:-10)\n(冰塊消耗:15)\n(美觀度10)\n\n一個傳統的製冷器，不需要通電也能起作用。如果你將足夠多的冰塊放入這個金屬盒子，甚至可以將房間的溫度降至近乎冰點。裡面的冰將在幾天內融化。這個特別的冰盒非常精美，帶有收集融化冰水的裝置。 </MedTimes_IceboxFancy.description>
+  <MedTimes_IceboxFancy_Blueprint.label>精緻冰盒(藍圖)</MedTimes_IceboxFancy_Blueprint.label>
+  <MedTimes_IceboxFancy_Blueprint_Install.label>精緻冰盒(藍圖)</MedTimes_IceboxFancy_Blueprint_Install.label>
+  <MedTimes_IceboxFancy_Frame.label>精緻冰盒(建造中)</MedTimes_IceboxFancy_Frame.label>
+  <MedTimes_IceboxFancy_Frame.description>(熱功率:-10)\n(冰塊消耗:15)\n(美觀度10)\n\n一個傳統的製冷器，不需要通電也能起作用。如果你將足夠多的冰塊放入這個金屬盒子，甚至可以將房間的溫度降至近乎冰點。裡面的冰將在幾天內融化。這個特別的冰盒非常精美，帶有收集融化冰水的裝置。</MedTimes_IceboxFancy_Frame.description>
+
+
+  <!-- (Medieval) Top Tier Eternity Forge -->
+
+  <MedTimes_EternityForge.label>永恆熔爐</MedTimes_EternityForge.label>
+  <MedTimes_EternityForge.description>[使物品不會損壞]\n(電力消耗: 1000)\n\n當地土著部落和中世紀的部落將其稱之為“永恆熔爐”，圍繞著這些物品的傳說和它們能夠製造出傳說級武器的故事已經在這世上每個人的意識中根深蒂固。實際上它的正式名稱是“納米機械複製及祝福合成儀”，或被稱作“Roc'Toc”，由永恆工業公司製造。這種機械可以將具有自我複製能力的納米機器人注入到工具、裝甲和武器中，無論它們是何種形狀、何種大小。一旦物品遭到損壞，損壞處周圍的納米機械將會複製出同樣性質的材料進行修補。由於它的高度複雜性，操作這種機器的技術技能需求出奇的高，而且只能直接使用機器中預先編程好的特殊的原理圖。儘管技術上的難度相當高，但這種機器對於製造高端自我修復的物品的能力仍然具有令人震驚的價值。</MedTimes_EternityForge.description>
+  <MedTimes_EternityForge_Blueprint_Install.label>永恆熔爐(藍圖)</MedTimes_EternityForge_Blueprint_Install.label>
+
+
+  <!-- Personal Computer -->
+
+  <MedTimes_PersonalComputer.label>個人電腦</MedTimes_PersonalComputer.label>
+  <MedTimes_PersonalComputer.description>一台個人電腦可以滿足你所有的娛樂需求。它甚至預裝了一些現在最流行的遊戲。對於某些人來說這是用來放鬆和娛樂的愛好。</MedTimes_PersonalComputer.description>
+  <MedTimes_PersonalComputer_Blueprint_Install.label>個人電腦(藍圖)</MedTimes_PersonalComputer_Blueprint_Install.label>
+
+
+  <!-- Coal Generator -->
+
+  <MedTimes_CoalGenerator.label>燃煤發電機</MedTimes_CoalGenerator.label>
+  <MedTimes_CoalGenerator.description>以煤為燃料產生電力。必須手動添加燃料。</MedTimes_CoalGenerator.description>
+  <MedTimes_CoalGenerator_Blueprint.label>燃煤發電機(藍圖)</MedTimes_CoalGenerator_Blueprint.label>
+  <MedTimes_CoalGenerator_Blueprint_Install.label>燃煤發電機(藍圖)</MedTimes_CoalGenerator_Blueprint_Install.label>
+  <MedTimes_CoalGenerator_Frame.label>燃煤發電機(建造中)</MedTimes_CoalGenerator_Frame.label>
+  <MedTimes_CoalGenerator_Frame.description>以煤為燃料產生電力。必須手動添加燃料。</MedTimes_CoalGenerator_Frame.description>
+
+
+  <!-- (Medieval) Artisan Station-->
+
+</LanguageData>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- (Society) Trader -->
+
+  <MedTimes_Society_Trader.label>游商</MedTimes_Society_Trader.label>
+  <MedTimes_Society_Trader.labelPlural>游商</MedTimes_Society_Trader.labelPlural>
+
+
+  <!-- (Society) Peasant -->
+
+  <MedTimes_Society_Peasant.label>農民</MedTimes_Society_Peasant.label>
+  <MedTimes_Society_Peasant.labelPlural>農民</MedTimes_Society_Peasant.labelPlural>
+
+
+  <!-- (Society) Conscript -->
+
+  <MedTimes_Society_Conscript.label>徵召兵</MedTimes_Society_Conscript.label>
+  <MedTimes_Society_Conscript.labelPlural>徵召兵</MedTimes_Society_Conscript.labelPlural>
+
+
+  <!-- (Society) Archer -->
+
+  <MedTimes_Society_Archer.label>弓箭手</MedTimes_Society_Archer.label>
+  <MedTimes_Society_Archer.labelPlural>弓箭手</MedTimes_Society_Archer.labelPlural>
+
+
+  <!-- (Society) Alternate Sapper -->
+
+  <MedTimes_Society_Sapper.label>工兵</MedTimes_Society_Sapper.label>
+  <MedTimes_Society_Sapper.labelPlural>工兵</MedTimes_Society_Sapper.labelPlural>
+
+
+  <!-- (Society) Man at Arms -->
+
+  <MedTimes_Society_ManAtArms.label>士兵</MedTimes_Society_ManAtArms.label>
+  <MedTimes_Society_ManAtArms.labelPlural>士兵</MedTimes_Society_ManAtArms.labelPlural>
+
+  <MedTimes_Society_ManAtArms_Cheap.label>士兵</MedTimes_Society_ManAtArms_Cheap.label>
+  <MedTimes_Society_ManAtArms_Cheap.labelPlural>士兵</MedTimes_Society_ManAtArms_Cheap.labelPlural>
+
+
+  <!-- (Society) Elite Bowman -->
+
+  <MedTimes_Society_EliteBowman.label>神射手</MedTimes_Society_EliteBowman.label>
+  <MedTimes_Society_EliteBowman.labelPlural>神射手</MedTimes_Society_EliteBowman.labelPlural>
+
+  <MedTimes_Society_EliteBowman_Cheap.label>神射手</MedTimes_Society_EliteBowman_Cheap.label>
+  <MedTimes_Society_EliteBowman_Cheap.labelPlural>神射手</MedTimes_Society_EliteBowman_Cheap.labelPlural>
+
+
+  <!-- (Society) Knight -->
+
+  <MedTimes_Society_Knight.label>騎士</MedTimes_Society_Knight.label>
+  <MedTimes_Society_Knight.labelPlural>騎士</MedTimes_Society_Knight.labelPlural>
+
+
+  <!-- (Society) Royal Guard -->
+
+  <MedTimes_Society_RoyalGuard.label>皇家護衛</MedTimes_Society_RoyalGuard.label>
+  <MedTimes_Society_RoyalGuard.labelPlural>皇家護衛</MedTimes_Society_RoyalGuard.labelPlural>
+
+
+  <!-- (Society) God King -->
+
+  <MedTimes_Society_GodKing.label>貴族領主</MedTimes_Society_GodKing.label>
+  <MedTimes_Society_GodKing.labelPlural>貴族領主</MedTimes_Society_GodKing.labelPlural>
+
+
+</LanguageData>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wooden Vest Plates(Shell): Norm Apparel -->
+
+  <MedTimes_WoodenPlates_Nan.label>木甲</MedTimes_WoodenPlates_Nan.label>
+  <MedTimes_WoodenPlates_Nan.description>(納米強化)\n\n在前胸、後背以及肩部綁上木板的無袖護甲，最基本、也是最廉價的護甲。\n\n這件裝備已經被具有自我複製能力的納米機械增強了，因此其綜合能力及佩戴的舒適性也被提高了。</MedTimes_WoodenPlates_Nan.description>
+
+
+  <!-- (Light) Plate & Chains: Norm Apparel -->
+
+  <MedTimes_PlateJack_Nan.label>無袖板甲</MedTimes_PlateJack_Nan.label>
+  <MedTimes_PlateJack_Nan.description>(納米強化)[移動速度:-5%]\n\n在胸前背後附有鐵板的無袖護甲,肩甲和鎖鏈也提供部分防護，這是最常規的戰甲，使用最少的材料獲得最大的防護。\n\n這件裝備已經被具有自我複製能力的納米機械增強了，因此其綜合能力及佩戴的舒適性也被提高了。</MedTimes_PlateJack_Nan.description>
+
+
+  <!-- (Heavy) Scaled Hauberk: Norm Apparel -->
+
+  <MedTimes_Hauberk_Nan.label>鱗甲</MedTimes_Hauberk_Nan.label>
+  <MedTimes_Hauberk_Nan.description>(納米強化)[移動速度:-5%]\n\n一件及膝並帶有鋼板的護甲，有大量像魚鱗一樣排列的小甲片和鎖鏈作為額外保護措施。\n\n這件裝備已經被具有自我複製能力的納米機械增強了，因此其綜合能力及佩戴的舒適性也被提高了。</MedTimes_Hauberk_Nan.description>
+
+
+  <!-- (Light) Brigandine: Norm Apparel -->
+
+  <MedTimes_Brigandine_Nan.label>鑲嵌甲</MedTimes_Brigandine_Nan.label>
+  <MedTimes_Brigandine_Nan.description>(納米強化)[移動速度:-5%]\n\n一件及膝的，內層藏有鋼板，外部鑲嵌較小的甲片的護甲。\n\n這件裝備已經被具有自我複製能力的納米機械增強了，因此其綜合能力及佩戴的舒適性也被提高了。</MedTimes_Brigandine_Nan.description>
+
+
+  <!-- (Light) Warbourne: Norm Apparel -->
+
+  <MedTimes_Warbourne_Nan.label>滲透者鏈甲</MedTimes_Warbourne_Nan.label>
+  <MedTimes_Warbourne_Nan.description>(納米強化)[近戰閃避幾率: +10%][移動速度: -5%]\n\n一件帶有肩甲的重型鏈甲背心，通常由滲透者的那些狂熱成員穿著。\n\n這件裝備已經被具有自我複製能力的納米機械增強了，因此其綜合能力及佩戴的舒適性也被提高了。</MedTimes_Warbourne_Nan.description>
+
+
+  <!-- (Heavy) EncasedSteel Armour: Norm Apparel -->
+
+  <MedTimes_EncasedSteel_Nan.label>全身板甲</MedTimes_EncasedSteel_Nan.label>
+  <MedTimes_EncasedSteel_Nan.description>(納米強化)[移動速度: -5%]\n\n這種沉重的盔甲由許多鋼板和皮墊製成，薄弱處還用鏈甲進行了增強，可以很好地抵禦各種傷害，但代價是使得穿戴者的行動變得笨拙。\n\n這件裝備已經被具有自我複製能力的納米機械增強了，因此其綜合能力及佩戴的舒適性也被提高了。</MedTimes_EncasedSteel_Nan.description>
+
+
+  <!-- (Heavy) Royal Plate, Standard Apparel -->
+
+  <MedTimes_RoyalPlated_Nan.label>皇家板甲</MedTimes_RoyalPlated_Nan.label>
+  <MedTimes_RoyalPlated_Nan.description>(納米強化)[移動速度: -5%]\n\n這種沉重的盔甲由許多鋼板和皮墊製成，薄弱處還用鏈甲進行了增強，可以很好地抵禦各種傷害，但代價是使得穿戴者的行動變得笨拙。\n\n這件裝備已經被具有自我複製能力的納米機械增強了，因此其綜合能力及佩戴的舒適性也被提高了。</MedTimes_RoyalPlated_Nan.description>
+
+
+  <!-- (Heavy) Royal Death Plate, Standard Apparel -->
+
+  <MedTimes_RoyalPlated_Death_Nan.label>皇家死亡板甲</MedTimes_RoyalPlated_Death_Nan.label>
+  <MedTimes_RoyalPlated_Death_Nan.description>(納米強化)[移動速度: -5%]\n\n這種沉重的盔甲由許多鋼板和皮墊製成，薄弱處還用鏈甲進行了增強，可以很好地抵禦各種傷害，但代價是使得穿戴者的行動變得笨拙。\n\n這件裝備已經被具有自我複製能力的納米機械增強了，因此其綜合能力及佩戴的舒適性也被提高了。</MedTimes_RoyalPlated_Death_Nan.description>
+
+
+  <!-- (Heavy) Royal Plate, Blue Caped: Hot Apparel -->
+
+  <MedTimes_RoyalPlated_CapedBlue_Nan.label>皇家板甲(藍色披風)</MedTimes_RoyalPlated_CapedBlue_Nan.label>
+  <MedTimes_RoyalPlated_CapedBlue_Nan.description>(納米強化)[移動速度: -5%]\n\n這種沉重的盔甲由許多鋼板和皮墊製成，薄弱處還用鏈甲進行了增強，此外還包含一件斗篷，有助於保持穿著者的溫暖，以及更容易在戰場上被友軍識別。\n\n同時還加裝了一個小型的低科技水平的水冷系統，使得穿著者不會在這個鐵罐頭裡面過熱。這種盔甲可以很好地抵禦各種傷害，但代價是使得穿戴者的行動變得笨拙。這件裝備已經被具有自我複製能力的納米機械增強了，因此其綜合能力及佩戴的舒適性也被提高了。</MedTimes_RoyalPlated_CapedBlue_Nan.description>
+
+
+  <!-- (Heavy) Royal Plate, Green Caped: Hot Apparel -->
+
+  <MedTimes_RoyalPlated_CapedGreen_Nan.label>皇家板甲（貴族斗篷）</MedTimes_RoyalPlated_CapedGreen_Nan.label>
+  <MedTimes_RoyalPlated_CapedGreen_Nan.description>(納米強化)[移動速度: -5%]\n\n這種沉重的盔甲由許多鋼板和皮墊製成，薄弱處還用鏈甲進行了增強，此外還包含一件斗篷，有助於保持穿著者的溫暖，以及更容易在戰場上被友軍識別。\n\n同時還加裝了一個小型的低科技水平的水冷系統，使得穿著者不會在這個鐵罐頭裡面過熱。這種盔甲可以很好地抵禦各種傷害，但代價是使得穿戴者的行動變得笨拙。這件裝備已經被具有自我複製能力的納米機械增強了，因此其綜合能力及佩戴的舒適性也被提高了。這件裝備已經被具有自我複製能力的納米機械增強了，因此其綜合能力及佩戴的舒適性也被提高了。</MedTimes_RoyalPlated_CapedGreen_Nan.description>
+
+
+  <!-- (Heavy) Royal Plate, Orange Caped: Hot Apparel -->
+
+  <MedTimes_RoyalPlated_CapedOrange_Nan.label>皇家板甲（戰團斗篷）</MedTimes_RoyalPlated_CapedOrange_Nan.label>
+  <MedTimes_RoyalPlated_CapedOrange_Nan.description>(納米強化)[移動速度: -5%]\n\n這種沉重的盔甲由許多鋼板和皮墊製成，薄弱處還用鏈甲進行了增強，此外還包含一件斗篷，有助於保持穿著者的溫暖，以及更容易在戰場上被友軍識別。\n\n同時還加裝了一個小型的低科技水平的水冷系統，使得穿著者不會在這個鐵罐頭裡面過熱。這種盔甲可以很好地抵禦各種傷害，但代價是使得穿戴者的行動變得笨拙。這件裝備已經被具有自我複製能力的納米機械增強了，因此其綜合能力及佩戴的舒適性也被提高了。這件裝備已經被具有自我複製能力的納米機械增強了，因此其綜合能力及佩戴的舒適性也被提高了。</MedTimes_RoyalPlated_CapedOrange_Nan.description>
+
+
+</LanguageData>

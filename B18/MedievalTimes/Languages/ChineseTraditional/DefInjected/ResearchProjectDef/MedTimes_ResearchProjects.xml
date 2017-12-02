@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Start Tech -->
+
+  <MedTimes_MedievalTechnologies.label>中世紀：中世紀技術</MedTimes_MedievalTechnologies.label>
+  <MedTimes_MedievalTechnologies.description>開始研究中世紀的相關技術，走進中世紀的生活與戰火之中。這項技術能提供可以製作簡單食物也能為整個家庭取暖的石質壁爐、燻制室可以為你提供過冬用的乾果和燻肉，鐵匠熔爐可以讓你製造一些基本的護甲和武器，還有解決在低科技水平時代的照明設備。</MedTimes_MedievalTechnologies.description>
+
+  <MedTimes_IceSculpting.label>中世紀：冰塊雕塑技術</MedTimes_IceSculpting.label>
+  <MedTimes_IceSculpting.description>用“全新的”資源-冰塊，來建造你的基本牆壁或中世紀城牆。 這個主意來自於你的其中一位殖民者，有一天他睡醒時說道：“我們用冰來建造城牆怎麼樣？” 。如果你碰巧住在冰天雪地的北方，溫度常年都處在冰點以下，那麼建造一個冰雪城堡是一個好主意。不過，要是你住在比較溫暖的地方的話，這個想法就毫無意義了。</MedTimes_IceSculpting.description>
+
+
+  <!-- Tier 1 Tech -->
+
+  <MedTimes_MedievalTailoring.label>中世紀：裁縫技術</MedTimes_MedievalTailoring.label>
+  <MedTimes_MedievalTailoring.description>使你可以建造裁剪台來為你的中世紀生活製作必要的衣物，當然，它也可以用來回收衣物。</MedTimes_MedievalTailoring.description>
+
+  <MedTimes_MedievalCrafting.label>中世紀：工藝技術</MedTimes_MedievalCrafting.label>
+  <MedTimes_MedievalCrafting.description>為你的中世紀生活提供必要的工具和物品。你可以在工藝台製造各種貿易商品、生活用品和軍需品。</MedTimes_MedievalCrafting.description>
+
+  <MedTimes_MedievalDefenses.label>中世紀：防禦設施</MedTimes_MedievalDefenses.label>
+  <MedTimes_MedievalDefenses.description>為你的城市提供中世紀的防禦措施，包括矮護牆、弩炮和鐵蒺藜等。好好利用這些，就沒有敵人能夠挑戰你的威嚴了。</MedTimes_MedievalDefenses.description>
+
+  <MedTimes_MedievalFoodStorage.label>中世紀：食物製備技術</MedTimes_MedievalFoodStorage.label>
+  <MedTimes_MedievalFoodStorage.description>探索學習中世紀食品製備技術。你可以在食物製備台為你日益增多的人民準備食物，學會奶酪的製作方法，甚至是制冰來保存食物的方法。</MedTimes_MedievalFoodStorage.description>
+
+
+  <!-- Tier 2 Tech -->
+
+  <MedTimes_AdvancedMedievalSmithing.label>中世紀：先進鍛造技術</MedTimes_AdvancedMedievalSmithing.label>
+  <MedTimes_AdvancedMedievalSmithing.description>爐溫越高，工具越齊備，就意味著鍛造出來的武器和盔甲的質量也越好。解鎖各種即可以保護自己也可以快速殺死敵人的武器裝備，而且你也可以熔煉鋼渣塊了。</MedTimes_AdvancedMedievalSmithing.description>
+
+  <MedTimes_ImprovedMedievalDefenses.label>中世紀：先進防禦設施</MedTimes_ImprovedMedievalDefenses.label>
+  <MedTimes_ImprovedMedievalDefenses.description>解鎖屠殺孔，投石機和垛口。</MedTimes_ImprovedMedievalDefenses.description>
+
+
+</LanguageData>

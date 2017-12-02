@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wooden Helmet -->
+
+  <MedTimes_Helm_Wooden.label>木盔</MedTimes_Helm_Wooden.label>
+  <MedTimes_Helm_Wooden.description>(等級:0,輕甲)[近戰閃避率: +5%]\n\n內填棉花的皮帽，外面覆上了木板以抵擋攻擊，還可以為你的頭部保暖。</MedTimes_Helm_Wooden.description>
+
+
+  <!-- Padded Head-wrap -->
+
+  <MedTimes_Helm_Headwrap.label>覆鐵頭巾</MedTimes_Helm_Headwrap.label>
+  <MedTimes_Helm_Headwrap.description>(等級: 1, 輕甲)[近戰閃避率: +5%]\n\n用皮革和布料縫製而成的頭巾，上面縫製了一塊鐵板以抵擋攻擊，還可以為你的頭部保暖。</MedTimes_Helm_Headwrap.description>
+
+
+  <!-- Domed Helmet -->
+
+  <MedTimes_Helm_Domed.label>圓頂盔</MedTimes_Helm_Domed.label>
+  <MedTimes_Helm_Domed.description>(等級: 1, 重甲)\n\n內填棉花的皮帽，上面有一個大圓頂頭盔並附有鎖鏈。\n\n所有部件組合起來能在不降低移動速度或者能見度的情況下提供良好的防護，這些部件也提供了在冬季的保暖性。</MedTimes_Helm_Domed.description>
+
+
+  <!-- Sallet Helmet -->
+
+  <MedTimes_Helm_Sallet.label>覆面盔</MedTimes_Helm_Sallet.label>
+  <MedTimes_Helm_Sallet.description>(等級: 1, 重甲)\n\n內填棉花的皮帽，上面有一個輕型鋼盔並附有鎖鏈。\n\n所有部件組合起來能在不降低移動速度或者能見度的情況下提供良好的防護，這些部件也提供了在冬季的保暖性。</MedTimes_Helm_Sallet.description>
+
+
+  <!-- Nasal Helmet -->
+
+  <MedTimes_Helm_Nasal.label>諾曼護盔</MedTimes_Helm_Nasal.label>
+  <MedTimes_Helm_Nasal.description>(等級: 1, 重甲)\n\n內填棉花的皮帽，上面有一個帶護鼻的諾曼護盔並附有鎖鏈。\n\n所有部件組合起來能在不降低移動速度或者能見度的情況下提供良好的防護，這些部件也提供了在冬季的保暖性。</MedTimes_Helm_Nasal.description>
+
+
+  <!-- Full Plated Head-wrap -->
+
+  <MedTimes_Helm_FullPlated.label>嵌甲頭巾</MedTimes_Helm_FullPlated.label>
+  <MedTimes_Helm_FullPlated.description>(等級: 2, 輕甲)[近戰閃避率: +5%]\n\n用皮革和布料縫製而成的頭巾，縫製了數塊鐵片以抵擋攻擊，還可以為你的頭部保暖。</MedTimes_Helm_FullPlated.description>
+
+
+  <!-- Warbourne Helm -->
+
+  <MedTimes_Helm_Warbourne.label>滲透者護盔</MedTimes_Helm_Warbourne.label>
+  <MedTimes_Helm_Warbourne.description>(等級: 2, 輕甲)[近戰閃避率: +8%]\n\n(譯者注:作者什麼都沒有寫...)</MedTimes_Helm_Warbourne.description>
+
+
+  <!-- Bascinet -->
+
+  <MedTimes_Helm_Bascinet.label>騎士覆面盔</MedTimes_Helm_Bascinet.label>
+  <MedTimes_Helm_Bascinet.description>(等級: 2, 重甲)\n\n內填棉花的皮帽，外層使用重型鋼板來將防護力提高到極致，薄弱處還用鏈甲進行了加強。為了不影響視野，這種頭盔的面罩被設計為可隨意開合。\n\n所有部件組合起來能在不降低移動速度或者能見度的情況下提供良好的防護，這些部件也提供了在冬季的保暖性。</MedTimes_Helm_Bascinet.description>
+
+
+  <!-- Conical Bascinet -->
+
+  <MedTimes_Helm_ConicalBascinet.label>錐頂騎士覆面盔</MedTimes_Helm_ConicalBascinet.label>
+  <MedTimes_Helm_ConicalBascinet.description>(等級: 2, 重甲)\n\n內填棉花的皮帽，外層使用重型鋼板來將防護力提高到極致，薄弱處還用鋼鱗片和鏈甲進行了加強。為了不影響視野，這種頭盔的面罩被設計為可隨意開合。\n\n所有部件組合起來能在不降低移動速度或者能見度的情況下提供良好的防護，這些部件也提供了在冬季的保暖性。</MedTimes_Helm_ConicalBascinet.description>
+
+
+  <!-- Royal Mask -->
+
+  <MedTimes_Helm_RoyalMask.label>皇家面具</MedTimes_Helm_RoyalMask.label>
+  <MedTimes_Helm_RoyalMask.description>(等級: 2,重甲)\n\n內填棉花的皮帽，外層使用了裝飾華麗的重型鋼板來將防護力提高到極致，薄弱處還用鋼鱗片和鏈甲進行了加強。為了不影響視野，這種頭盔的面罩被設計為可隨意開合。\n\n所有部件組合起來能在不降低移動速度或者能見度的情況下提供良好的防護，這些部件也提供了在冬季的保暖性。</MedTimes_Helm_RoyalMask.description>
+
+
+  <!-- Death Mask -->
+
+  <MedTimes_Helm_DeathMask.label>死亡面具</MedTimes_Helm_DeathMask.label>
+  <MedTimes_Helm_DeathMask.description>(等級: 2,重甲)\n\n內填棉花的皮帽，外層使用了裝飾華麗的重型鋼板來將防護力提高到極致，薄弱處還用鋼鱗片和鏈甲進行了加強。為了不影響視野，這種頭盔的面罩被設計為可隨意開合。\n\n所有部件組合起來能在不降低移動速度或者能見度的情況下提供良好的防護，這些部件也提供了在冬季的保暖性。</MedTimes_Helm_DeathMask.description>
+
+
+</LanguageData>

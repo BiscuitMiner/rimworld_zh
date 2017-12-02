@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- (Medieval) Blackheart - 1h Knife -->
+
+  <MedTimes_Melee_KnifeBlackheart_Art.label>漆黑之心(Blackheart)</MedTimes_Melee_KnifeBlackheart_Art.label>
+  <MedTimes_Melee_KnifeBlackheart_Art.description>(人造品)(削切)[近战命中率:+10%][烹饪速度:+10%][屠宰速度:+10%]\n\n显然，这是一把“博伊刀”，但是这一把刀片长度超过1英尺。非常优质的刀具而且非常合手。\n\n有一些这种刀散落在这个星球上，每一把都被认为是珍宝，被所有士兵和收藏家所追捧。\n\n译者注：博伊刀最初设计就是用来格斗的，很可能有一英尺长，之后被改良成为了一种生存用刀，当然，尺寸大大缩减了。一英尺=30.48厘米</MedTimes_Melee_KnifeBlackheart_Art.description>
+  <MedTimes_Melee_KnifeBlackheart_Art.tools.0.label>握把</MedTimes_Melee_KnifeBlackheart_Art.tools.0.label>
+  <MedTimes_Melee_KnifeBlackheart_Art.tools.1.label>尖头</MedTimes_Melee_KnifeBlackheart_Art.tools.1.label>
+  <MedTimes_Melee_KnifeBlackheart_Art.tools.2.label>剑刃</MedTimes_Melee_KnifeBlackheart_Art.tools.2.label>
+
+
+  <!-- (Medieval) Techno Sword - 1h Sword -->
+
+  <MedTimes_Melee_SwordTechno_Art.label>高科技战剑</MedTimes_Melee_SwordTechno_Art.label>
+  <MedTimes_Melee_SwordTechno_Art.description>(人造品)(削切)[近战命中率:+10%]\n\n这把剑拿在手上感觉很奇怪而且不稳定。它的重心不好掌握，手感也不是很好。很显然，它的制造者不是个武者也不是剑客。但不得不说这把剑仍是现代技术的奇迹，它拥有难以置信的轻巧和坚固。\n\n这把剑使用电子约束系统使得剑的刃可以产生一层等离子体，并带有调节温度分布的温控系统，杀伤力相当可观。剑身由玻璃钢和一些不明零件、材料制成，握把则是由某种胶质品和合成皮革制作的。这种剑可能是在某个闪耀世界中大量制造的，同时也意味着这玩意没有经历过实战的考验。\n\n有很多遗失在这个星球周围宇宙空间的可怜闪耀世界士兵坠毁到这个星球上然后交出了这把剑，无论他们愿不愿意。</MedTimes_Melee_SwordTechno_Art.description>
+  <MedTimes_Melee_SwordTechno_Art.tools.0.label>握把</MedTimes_Melee_SwordTechno_Art.tools.0.label>
+  <MedTimes_Melee_SwordTechno_Art.tools.1.label>尖头</MedTimes_Melee_SwordTechno_Art.tools.1.label>
+  <MedTimes_Melee_SwordTechno_Art.tools.2.label>剑刃</MedTimes_Melee_SwordTechno_Art.tools.2.label>
+
+
+  <!-- (Medieval) Fun Bunny Mace - 1h Mace -->
+
+  <MedTimes_Melee_FunBunny_Art.label>有趣的兔兔(Fun Bunny)</MedTimes_Melee_FunBunny_Art.label>
+  <MedTimes_Melee_FunBunny_Art.description>(人造品)(钝击)[近战命中率: +8%]\n\n战争领主托瓦尔德(Torvald)是个异常残酷的人。据说每逢周六他都会公开处决他的敌人。在他的追随者之中，这一天被认为是“神圣的一天”，处决对他们来说总是带有戏剧性的基调。据说，托瓦尔德本人会参加处决并使用一把特别的武器，他称之为“有趣的兔兔(Fun Bunny)”，因为在握把的末端有一对可爱而有趣的兔子耳朵。\n\n传说他还会给这把武器缠上带倒刺的铁丝来增加死刑的观赏性。他会一直殴打受害者的尸体直到“有趣的兔兔”的握把折断，然后向他的观众们对失去“有趣的兔兔”表示惋惜。\n\n据说他还不断地在他的“游戏”中“添加艺术”，为观众展示令人毛骨悚然的表演。\n\n托瓦尔德似乎拥有数百把这种武器，而你手中的这一把很可能也只是高仿的仿制品而已。\n\n历史也许会让人感到不安，但不能否认的是，这确实是很有价值的战争工具。另外，没有办法可以得知目前你手中这把是否被使用过，也没办法这是不是托瓦尔德那众多仿制品中的一把，同样也没办法得知这是不是只是一把简单的复制品而已...</MedTimes_Melee_FunBunny_Art.description>
+  <MedTimes_Melee_FunBunny_Art.tools.0.label>握把</MedTimes_Melee_FunBunny_Art.tools.0.label>
+  <MedTimes_Melee_FunBunny_Art.tools.1.label>尖头</MedTimes_Melee_FunBunny_Art.tools.1.label>
+  <MedTimes_Melee_FunBunny_Art.tools.2.label>剑刃</MedTimes_Melee_FunBunny_Art.tools.2.label>
+  <MedTimes_Melee_FunBunny_Art.tools.3.label>冲击</MedTimes_Melee_FunBunny_Art.tools.3.label>
+
+
+  <!-- (Medieval) Viscious - 2h Sword -->
+
+  <MedTimes_Melee_SwordVicious_Art.label>恶毒(Vicious)</MedTimes_Melee_SwordVicious_Art.label>
+  <MedTimes_Melee_SwordVicious_Art.description>(人造品)(削切)[近战命中率:+10%]\n\n百炼钢制武士刀，虽然有点旧了甚至有点生锈，但依旧好用。这些武士刀遗失在这个星球，没人知道它们的由来。\n\n最有可能的是一个愚蠢的闪耀世界收藏家带来的。这是一个可笑的故事，一些来自闪耀世界的剑类收藏家想要在当地的野生动物身上测试一下这些刀，当然，按照剧情，在当地的武装人员到来时，发生了一些可怕的意外。\n\n我认为那一定是炒作，但同样也一定是个有趣的故事。</MedTimes_Melee_SwordVicious_Art.description>
+  <MedTimes_Melee_SwordVicious_Art.tools.0.label>握把</MedTimes_Melee_SwordVicious_Art.tools.0.label>
+  <MedTimes_Melee_SwordVicious_Art.tools.1.label>尖头</MedTimes_Melee_SwordVicious_Art.tools.1.label>
+  <MedTimes_Melee_SwordVicious_Art.tools.2.label>剑刃</MedTimes_Melee_SwordVicious_Art.tools.2.label>
+
+
+  <!-- (Medieval) The Wargod - 2h Sword -->
+
+  <MedTimes_Melee_SwordWargod_Art.label>战神(The Wargod)</MedTimes_Melee_SwordWargod_Art.label>
+  <MedTimes_Melee_SwordWargod_Art.description>(人造品)(Cut)[近战命中率: +8%]\n\n著名的战士庞力(Pang Li)，或者说是为人所知的“泥泞之虎”，在整个南部大陆给他的敌人播下了一个关于混乱和毁灭的故事。作为一个敢于反抗拥有压倒性实力大帝国的小将军，他其实有望成为一个庞大帝国的君主，和那些历史上著名的征服者们竞争地位，如果他那一路上烧光杀光抢光一切的事迹不是真的话。\n\n虽然这些事情发生在几千年前，但他曾经的血腥暴行至今仍能感受到。他的剑，被赋予“战神”之名而为人所知，但现在只存在于传说故事之中，以及大陆上那些贵族的纹章和旗帜之上。\n\n这把剑或许只是对那把传说中的武器的忠实仿制，或许又就是那把剑本身，这谁也说不清。</MedTimes_Melee_SwordWargod_Art.description>
+  <MedTimes_Melee_SwordWargod_Art.tools.0.label>握把</MedTimes_Melee_SwordWargod_Art.tools.0.label>
+  <MedTimes_Melee_SwordWargod_Art.tools.1.label>尖头</MedTimes_Melee_SwordWargod_Art.tools.1.label>
+  <MedTimes_Melee_SwordWargod_Art.tools.2.label>剑刃</MedTimes_Melee_SwordWargod_Art.tools.2.label>
+
+
+  <!-- (Medieval) Caladbog - 2h Sword -->
+
+  <MedTimes_Melee_SwordCaladbog_Art.label>胜利与誓约之剑(Caladbolg)</MedTimes_Melee_SwordCaladbog_Art.label>
+  <MedTimes_Melee_SwordCaladbog_Art.description>(人造品)(削切)[近战命中率:+10%]\n\n由传说中的英雄弗格斯·马克·罗伊（Fergus_mac_Róich）所持的魔剑，这个词本意是“坚固的雷电”或“雷电般的一击”，并且有可以在一击之间劈碎敌人武器的能力。\n\n传说中这把剑经由伟大的亚瑟王之手成为了著名的石中剑，最后在口耳相传中故事渐渐演变成为了亚瑟王手中的胜利与誓约之剑。\n\n不管这是仿造的，还是真的，人们都认为这是仿造的，特别是在他们附近有一个大量生产这些的厂商。这些剑都是精工制造，质量一流，不管怎么说，这是能用钱买到的最好的剑了。</MedTimes_Melee_SwordCaladbog_Art.description>
+  <MedTimes_Melee_SwordCaladbog_Art.tools.0.label>握把</MedTimes_Melee_SwordCaladbog_Art.tools.0.label>
+  <MedTimes_Melee_SwordCaladbog_Art.tools.1.label>尖头</MedTimes_Melee_SwordCaladbog_Art.tools.1.label>
+  <MedTimes_Melee_SwordCaladbog_Art.tools.2.label>剑刃</MedTimes_Melee_SwordCaladbog_Art.tools.2.label>
+
+
+  <!-- (Medieval) Answeller - 2h Sword -->
+
+  <MedTimes_Melee_SwordAnsweller_Art.label>解答者(Answeller)</MedTimes_Melee_SwordAnsweller_Art.label>
+  <MedTimes_Melee_SwordAnsweller_Art.description>(人造品)(削切)[近战命中率:+10%]\n\n亦被称作“冰牙刃”（Ice_Fang_Blade）。解答者（Answeller）是北境的英雄和最终之王巴巴罗斯（Balbarous）的传奇佩剑。在传说中详细描述了北方王国伊斯卡利亚（Escalia）史诗一般的兴衰史和与被称为“上帝审判庭”（The_Great_Father's_Court）的帝国之间的艰难斗争。\n\n整个故事充斥着政治阴谋和背叛，最后以伊斯卡利亚的覆灭而告终。在故事中伊斯卡利亚是在巴巴罗斯的兄弟萨博巴（Saboba）与其秘密情人卡珊德拉（Cassandra）结婚之后覆灭的，而卡珊德拉是马拉托里斯（Melatoris）的女儿被尊为“上帝审判庭”的公主（圣女？）。在这场联姻后，萨博巴调转他的矛头带着卡珊德拉与她父亲支援的军队和自己的部属指向了原来的兄弟。\n\n他们在一个被称作“冰雪之境”的巨型地下洞穴发生了一场史诗般的战斗。据传，巴巴罗斯被杀之后整个世界都笼罩在“烈日的炙烤”之中。\n\n在这个故事中对于佩剑有着极其详尽的描述，包括著名的被镶在剑柄上的被称为“北境之心”的蓝色宝石。所以多年以来不计其数的匠师都想按照它在传说中所描述的样子复原此剑。无论这把是真正的传说之剑或者仅仅只是一个玩笑，它都是材质优良的精美武器。\n\n译者注：这个故事我并不知其来由，所以全都是意识流翻译啦</MedTimes_Melee_SwordAnsweller_Art.description>
+  <MedTimes_Melee_SwordAnsweller_Art.tools.0.label>握把</MedTimes_Melee_SwordAnsweller_Art.tools.0.label>
+  <MedTimes_Melee_SwordAnsweller_Art.tools.1.label>尖头</MedTimes_Melee_SwordAnsweller_Art.tools.1.label>
+  <MedTimes_Melee_SwordAnsweller_Art.tools.2.label>剑刃</MedTimes_Melee_SwordAnsweller_Art.tools.2.label>
+
+
+  <!-- (Medieval) Talent Breaker - 2h Club -->
+
+  <MedTimes_Melee_ClubTalentBreaker_Art.label>天才粉碎者</MedTimes_Melee_ClubTalentBreaker_Art.label>
+  <MedTimes_Melee_ClubTalentBreaker_Art.description>(人造品)(钝击)[近战命中率:+10%]\n\n边缘世界土著最喜欢的武器，在附近有许多来自工业化世界的财团大量生产并运输到各个边缘世界当中。甚至还有一些资源丰富的土著城市可以生产，也意味着有不少财团在这个世界活动。\n\n这种武器在这些财团口中被称为“天才粉碎者”，因为它们可以让一个不熟练的人轻易击败比他们技巧高超的敌人。运气好的话，这件武器可以轻易地弄残或者杀死一个全副武装的敌人。\n\n正因为如此相当多的地方领主开始限制这种武器的销售，并且开始列装它和其他武器以降低受到敌人和强盗进攻的风险。</MedTimes_Melee_ClubTalentBreaker_Art.description>
+  <MedTimes_Melee_ClubTalentBreaker_Art.tools.0.label>柄</MedTimes_Melee_ClubTalentBreaker_Art.tools.0.label>
+
+
+  <!-- (Medieval) Blackheart - 1h Knife -->
+
+  <MedTimes_Melee_KnifeBlackheart_Leg.label>漆黑之心(Blackheart)</MedTimes_Melee_KnifeBlackheart_Leg.label>
+  <MedTimes_Melee_KnifeBlackheart_Leg.description>(传奇物品)(削切)[近战命中率:+10%][烹饪速度:+10%][屠宰速度:+10%]\n\n显然，这是一把“博伊刀”，但是这一把刀片长度超过1英尺。非常优质的刀具而且非常合手。\n\n有一些这种刀散落在这个星球上，每一把都被认为是珍宝，被所有士兵和收藏家所追捧。\n\n译者注：博伊刀最初设计就是用来格斗的，很可能有一英尺长，之后被改良成为了一种生存用刀，当然，尺寸大大缩减了。一英尺=30.48厘米</MedTimes_Melee_KnifeBlackheart_Leg.description>
+  <MedTimes_Melee_KnifeBlackheart_Leg.tools.0.label>握把</MedTimes_Melee_KnifeBlackheart_Leg.tools.0.label>
+  <MedTimes_Melee_KnifeBlackheart_Leg.tools.1.label>尖头</MedTimes_Melee_KnifeBlackheart_Leg.tools.1.label>
+  <MedTimes_Melee_KnifeBlackheart_Leg.tools.2.label>剑刃</MedTimes_Melee_KnifeBlackheart_Leg.tools.2.label>
+
+
+  <!-- (Medieval) Techno Sword - 1h Sword -->
+
+  <MedTimes_Melee_SwordTechno_Leg.label>高科技战剑</MedTimes_Melee_SwordTechno_Leg.label>
+  <MedTimes_Melee_SwordTechno_Leg.description>(传奇物品)(削切)[近战命中率:+10%]\n\n这把剑拿在手上感觉很奇怪而且不稳定。它的重心不好掌握，手感也不是很好。很显然，它的制造者不是个武者也不是剑客。但不得不说这把剑仍是现代技术的奇迹，它拥有难以置信的轻巧和坚固。\n\n这把剑使用电子约束系统使得剑的刃可以产生一层等离子体，并带有调节温度分布的温控系统，杀伤力相当可观。剑身由玻璃钢和一些不明零件、材料制成，握把则是由某种胶质品和合成皮革制作的。这种剑可能是在某个闪耀世界中大量制造的，同时也意味着这玩意没有经历过实战的考验。\n\n有很多遗失在这个星球周围宇宙空间的可怜闪耀世界士兵坠毁到这个星球上然后交出了这把剑，无论他们愿不愿意。</MedTimes_Melee_SwordTechno_Leg.description>
+  <MedTimes_Melee_SwordTechno_Leg.tools.0.label>握把</MedTimes_Melee_SwordTechno_Leg.tools.0.label>
+  <MedTimes_Melee_SwordTechno_Leg.tools.1.label>尖头</MedTimes_Melee_SwordTechno_Leg.tools.1.label>
+  <MedTimes_Melee_SwordTechno_Leg.tools.2.label>剑刃</MedTimes_Melee_SwordTechno_Leg.tools.2.label>
+
+
+  <!-- (Medieval) Fun Bunny Mace - 1h Mace -->
+
+  <MedTimes_Melee_FunBunny_Leg.label>有趣的兔兔(Fun Bunny)</MedTimes_Melee_FunBunny_Leg.label>
+  <MedTimes_Melee_FunBunny_Leg.description>(传奇物品)(钝击)[近战命中率: +10%]\n\n战争领主托瓦尔德(Torvald)是个异常残酷的人。据说每逢周六他都会公开处决他的敌人。在他的追随者之中，这一天被认为是“神圣的一天”，处决对他们来说总是带有戏剧性的基调。据说，托瓦尔德本人会参加处决并使用一把特别的武器，他称之为“有趣的兔兔(Fun Bunny)”，因为在握把的末端有一对可爱而有趣的兔子耳朵。\n\n传说他还会给这把武器缠上带倒刺的铁丝来增加死刑的观赏性。他会一直殴打受害者的尸体直到“有趣的兔兔”的握把折断，然后向他的观众们对失去“有趣的兔兔”表示惋惜。\n\n据说他还不断地在他的“游戏”中“添加艺术”，为观众展示令人毛骨悚然的表演。\n\n托瓦尔德似乎拥有数百把这种武器，而你手中的这一把很可能也只是高仿的仿制品而已。\n\n历史也许会让人感到不安，但不能否认的是，这确实是很有价值的战争工具。另外，没有办法可以得知目前你手中这把是否被使用过，也没办法这是不是托瓦尔德那众多仿制品中的一把，同样也没办法得知这是不是只是一把简单的复制品而已...</MedTimes_Melee_FunBunny_Leg.description>
+  <MedTimes_Melee_FunBunny_Leg.tools.0.label>握把</MedTimes_Melee_FunBunny_Leg.tools.0.label>
+  <MedTimes_Melee_FunBunny_Leg.tools.1.label>尖头</MedTimes_Melee_FunBunny_Leg.tools.1.label>
+  <MedTimes_Melee_FunBunny_Leg.tools.2.label>剑刃</MedTimes_Melee_FunBunny_Leg.tools.2.label>
+  <MedTimes_Melee_FunBunny_Leg.tools.3.label>冲击</MedTimes_Melee_FunBunny_Leg.tools.3.label>
+
+
+  <!-- (Medieval) Viscious - 2h Sword -->
+
+  <MedTimes_Melee_SwordVicious_Leg.label>恶毒(Vicious)</MedTimes_Melee_SwordVicious_Leg.label>
+  <MedTimes_Melee_SwordVicious_Leg.description>(传奇物品)(削切)[近战命中率:+10%]\n\n百炼钢制武士刀，虽然有点旧了甚至有点生锈，但依旧好用。这些武士刀遗失在这个星球，没人知道它们的由来。\n\n最有可能的是一个愚蠢的闪耀世界收藏家带来的。这是一个可笑的故事，一些来自闪耀世界的剑类收藏家想要在当地的野生动物身上测试一下这些刀，当然，按照剧情，在当地的武装人员到来时，发生了一些可怕的意外。\n\n我认为那一定是炒作，但同样也一定是个有趣的故事。</MedTimes_Melee_SwordVicious_Leg.description>
+  <MedTimes_Melee_SwordVicious_Leg.tools.0.label>握把</MedTimes_Melee_SwordVicious_Leg.tools.0.label>
+  <MedTimes_Melee_SwordVicious_Leg.tools.1.label>尖头</MedTimes_Melee_SwordVicious_Leg.tools.1.label>
+  <MedTimes_Melee_SwordVicious_Leg.tools.2.label>剑刃</MedTimes_Melee_SwordVicious_Leg.tools.2.label>
+
+
+  <!-- (Medieval) The Wargod - 2h Sword -->
+
+  <MedTimes_Melee_SwordWargod_Leg.label>战神(The Wargod)</MedTimes_Melee_SwordWargod_Leg.label>
+  <MedTimes_Melee_SwordWargod_Leg.description>(人造品)(Cut)[近战命中率: +10%]\n\n著名的战士庞力(Pang Li)，或者说是为人所知的“泥泞之虎”，在整个南部大陆给他的敌人播下了一个关于混乱和毁灭的故事。作为一个敢于反抗拥有压倒性实力大帝国的小将军，他其实有望成为一个庞大帝国的君主，和那些历史上著名的征服者们竞争地位，如果他那一路上烧光杀光抢光一切的事迹不是真的话。\n\n虽然这些事情发生在几千年前，但他曾经的血腥暴行至今仍能感受到。他的剑，被赋予“战神”之名而为人所知，但现在只存在于传说故事之中，以及大陆上那些贵族的纹章和旗帜之上。\n\n这把剑或许只是对那把传说中的武器的忠实仿制，或许又就是那把剑本身，这谁也说不清。</MedTimes_Melee_SwordWargod_Leg.description>
+  <MedTimes_Melee_SwordWargod_Leg.tools.0.label>握把</MedTimes_Melee_SwordWargod_Leg.tools.0.label>
+  <MedTimes_Melee_SwordWargod_Leg.tools.1.label>尖头</MedTimes_Melee_SwordWargod_Leg.tools.1.label>
+  <MedTimes_Melee_SwordWargod_Leg.tools.2.label>剑刃</MedTimes_Melee_SwordWargod_Leg.tools.2.label>
+
+
+  <!-- (Medieval) Caladbog - 2h Sword -->
+
+  <MedTimes_Melee_SwordCaladbog_Leg.label>胜利与誓约之剑(Caladbolg)</MedTimes_Melee_SwordCaladbog_Leg.label>
+  <MedTimes_Melee_SwordCaladbog_Leg.description>(传奇物品)(削切)[近战命中率:+10%]\n\n由传说中的英雄弗格斯·马克·罗伊（Fergus_mac_Róich）所持的魔剑，这个词本意是“坚固的雷电”或“雷电般的一击”，并且有可以在一击之间劈碎敌人武器的能力。\n\n传说中这把剑经由伟大的亚瑟王之手成为了著名的石中剑，最后在口耳相传中故事渐渐演变成为了亚瑟王手中的胜利与誓约之剑。\n\n不管这是仿造的，还是真的，人们都认为这是仿造的，特别是在他们附近有一个大量生产这些的厂商。这些剑都是精工制造，质量一流，不管怎么说，这是能用钱买到的最好的剑了。</MedTimes_Melee_SwordCaladbog_Leg.description>
+  <MedTimes_Melee_SwordCaladbog_Leg.tools.0.label>握把</MedTimes_Melee_SwordCaladbog_Leg.tools.0.label>
+  <MedTimes_Melee_SwordCaladbog_Leg.tools.1.label>尖头</MedTimes_Melee_SwordCaladbog_Leg.tools.1.label>
+  <MedTimes_Melee_SwordCaladbog_Leg.tools.2.label>剑刃</MedTimes_Melee_SwordCaladbog_Leg.tools.2.label>
+
+
+  <!-- (Medieval) Answeller - 2h Sword -->
+
+  <MedTimes_Melee_SwordAnsweller_Leg.label>解答者(Answeller)</MedTimes_Melee_SwordAnsweller_Leg.label>
+  <MedTimes_Melee_SwordAnsweller_Leg.description>(传奇物品)(削切)[近战命中率:+10%]\n\n亦被称作“冰牙刃”（Ice_Fang_Blade）。解答者（Answeller）是北境的英雄和最终之王巴巴罗斯（Balbarous）的传奇佩剑。在传说中详细描述了北方王国伊斯卡利亚（Escalia）史诗一般的兴衰史和与被称为“上帝审判庭”（The_Great_Father's_Court）的帝国之间的艰难斗争。\n\n整个故事充斥着政治阴谋和背叛，最后以伊斯卡利亚的覆灭而告终。在故事中伊斯卡利亚是在巴巴罗斯的兄弟萨博巴（Saboba）与其秘密情人卡珊德拉（Cassandra）结婚之后覆灭的，而卡珊德拉是马拉托里斯（Melatoris）的女儿被尊为“上帝审判庭”的公主（圣女？）。在这场联姻后，萨博巴调转他的矛头带着卡珊德拉与她父亲支援的军队和自己的部属指向了原来的兄弟。\n\n他们在一个被称作“冰雪之境”的巨型地下洞穴发生了一场史诗般的战斗。据传，巴巴罗斯被杀之后整个世界都笼罩在“烈日的炙烤”之中。\n\n在这个故事中对于佩剑有着极其详尽的描述，包括著名的被镶在剑柄上的被称为“北境之心”的蓝色宝石。所以多年以来不计其数的匠师都想按照它在传说中所描述的样子复原此剑。无论这把是真正的传说之剑或者仅仅只是一个玩笑，它都是材质优良的精美武器。\n\n译者注：这个故事我并不知其来由，所以全都是意识流翻译啦</MedTimes_Melee_SwordAnsweller_Leg.description>
+  <MedTimes_Melee_SwordAnsweller_Leg.tools.0.label>握把</MedTimes_Melee_SwordAnsweller_Leg.tools.0.label>
+  <MedTimes_Melee_SwordAnsweller_Leg.tools.1.label>尖头</MedTimes_Melee_SwordAnsweller_Leg.tools.1.label>
+  <MedTimes_Melee_SwordAnsweller_Leg.tools.2.label>剑刃</MedTimes_Melee_SwordAnsweller_Leg.tools.2.label>
+
+
+  <!-- (Medieval) Talent Breaker - 2h Club -->
+
+  <MedTimes_Melee_ClubTalentBreaker_Leg.label>天才粉碎者(Talent Breaker)</MedTimes_Melee_ClubTalentBreaker_Leg.label>
+  <MedTimes_Melee_ClubTalentBreaker_Leg.description>(人造品)(钝击)[近战命中率:+10%]\n\n边缘世界土著最喜欢的武器，在附近有许多来自工业化世界的财团大量生产并运输到各个边缘世界当中。甚至还有一些资源丰富的土著城市可以生产，也意味着有不少财团在这个世界活动。\n\n这种武器在这些财团口中被称为“天才粉碎者”，因为它们可以让一个不熟练的人轻易击败比他们技巧高超的敌人。运气好的话，这件武器可以轻易地弄残或者杀死一个全副武装的敌人。\n\n正因为如此相当多的地方领主开始限制这种武器的销售，并且开始列装它和其他武器以降低受到敌人和强盗进攻的风险。</MedTimes_Melee_ClubTalentBreaker_Leg.description>
+  <MedTimes_Melee_ClubTalentBreaker_Leg.tools.0.label>柄</MedTimes_Melee_ClubTalentBreaker_Leg.tools.0.label>
+
+
+  <!-- (Medieval) Fragment of Mjolnir - 1h Hammer -->
+
+  <MedTimes_Melee_HammerFragment_Leg.label>雷神之锤的碎片(Fragment of Mjolnir)</MedTimes_Melee_HammerFragment_Leg.label>
+  <MedTimes_Melee_HammerFragment_Leg.description>(传奇物品)(钝击)[锻造速度: +15%][近战命中率: +12%]\n\n在挪威的传说中，雷神之锤(Mjolnir)是雷神托尔(Thor)的神锤，传说它可以召唤闪电、移平大山或是锻造出最优秀的兵器。\n\n这把锤子并不是雷神之锤，但据称它的锤芯里包含着一块传说中雷神之锤的碎片。这种说法的真实性让人高度存疑。然而，这把锤子本身确实具有非凡的价值，它包含了一些神秘的特性。\n\n在锤子的中间似乎镶嵌着某种宝石，宝石中不断跳动着某种光，像是在燃烧。宝石中，一些黑色的小卷须似乎花了数个世纪来向周围伸展，它们似乎在寻找一个从宝石的囚禁中脱出的方式，而那个包围着它们的宝石也毫无疑问是活着的。\n\n整把锤子给人一种罕见的古怪感，而或许它也非常危险...</MedTimes_Melee_HammerFragment_Leg.description>
+  <MedTimes_Melee_HammerFragment_Leg.tools.0.label>握把</MedTimes_Melee_HammerFragment_Leg.tools.0.label>
+
+
+  <!-- (Medieval) Vidar's Cleaver - 2h Axe -->
+
+  <MedTimes_Melee_AxeBlood_Leg.label>鲜血之刃(Blood Blade)</MedTimes_Melee_AxeBlood_Leg.label>
+  <MedTimes_Melee_AxeBlood_Leg.description>(传奇物品)(削切)[近战命中率: +12%]\n\n鲜血之刃传说是一件神秘的物品，被成百上千死于它的斧刃的灵魂所诅咒。它血红的刃片在阳光下似乎会流动。这些斧子会时不时地出现，同时因为其极高的价值而受到收藏家和战士们的高度重视。</MedTimes_Melee_AxeBlood_Leg.description>
+  <MedTimes_Melee_AxeBlood_Leg.tools.0.label>柄</MedTimes_Melee_AxeBlood_Leg.tools.0.label>
+  <MedTimes_Melee_AxeBlood_Leg.tools.1.label>尖头</MedTimes_Melee_AxeBlood_Leg.tools.1.label>
+  <MedTimes_Melee_AxeBlood_Leg.tools.2.label>剑刃</MedTimes_Melee_AxeBlood_Leg.tools.2.label>
+
+  <MedTimes_Melee_AxeVidar_Leg.label>维达的切肉斧(Vidar's Cleaver)</MedTimes_Melee_AxeVidar_Leg.label>
+  <MedTimes_Melee_AxeVidar_Leg.description>(传奇物品)(削切)[近战命中率:+10%]\n\n没人知道这把造型野蛮的双手战斧的来历，只有它在战场上掀起的血浪能显示它的存在。如果它处在一名身经百战的战士手中，将敌人劈成两半的场面并不罕见。\n\n因此它深受战争领主和收藏家的追捧，当地人用北欧神中战争与复仇之神维达的名字来命名它。他是全世界所有雇佣兵的守护神，主神奥丁的儿子，沉默寡言的穿着重靴的神。据说他的力量仅次于雷神托尔，也就是说，比奥丁更强。</MedTimes_Melee_AxeVidar_Leg.description>
+  <MedTimes_Melee_AxeVidar_Leg.tools.0.label>柄</MedTimes_Melee_AxeVidar_Leg.tools.0.label>
+  <MedTimes_Melee_AxeVidar_Leg.tools.1.label>尖头</MedTimes_Melee_AxeVidar_Leg.tools.1.label>
+  <MedTimes_Melee_AxeVidar_Leg.tools.2.label>剑刃</MedTimes_Melee_AxeVidar_Leg.tools.2.label>
+
+
+  <!-- (Medieval) Void Hammer - 2h Hammer -->
+
+  <MedTimes_Melee_HammerVoid_Leg.label>虚空之锤(Void Hammer)</MedTimes_Melee_HammerVoid_Leg.label>
+  <MedTimes_Melee_HammerVoid_Leg.description>(传奇物品)(钝击)[近战命中率:+10%]\n\n双手锤，甚至已经成了当地的一个传说。一些东西在周围漂浮着，这些锤子是一段时间前被同一个人制造的。工艺精湛造型也同样精美，这锤子是用一种极其特殊的石头制造的，一种简称为“虚空石”的触感冰寒的光滑黑色石头。\n\n没人知道这种石头是如何制造的，但一位来自闪耀世界的尖端科学家将它命名为“达文”（Davin）并猜测这是某种形态的鲁伯特之泪其中还含有少量的暗物质。这种石头因为其不可思议的沉重和坚硬而为人所知。</MedTimes_Melee_HammerVoid_Leg.description>
+  <MedTimes_Melee_HammerVoid_Leg.tools.0.label>柄</MedTimes_Melee_HammerVoid_Leg.tools.0.label>
+  <MedTimes_Melee_HammerVoid_Leg.tools.1.label>锤头</MedTimes_Melee_HammerVoid_Leg.tools.1.label>
+
+
+</LanguageData>

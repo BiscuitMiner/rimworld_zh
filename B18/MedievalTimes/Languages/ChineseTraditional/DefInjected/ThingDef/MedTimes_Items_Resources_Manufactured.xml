@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Adobe Bricks -->
+
+  <MedTimes_Resource_AdobeBricks.label>土坯磚</MedTimes_Resource_AdobeBricks.label>
+  <MedTimes_Resource_AdobeBricks.description>將泥和稻草混合製成磚的形狀，然後放在太陽下曬乾。雖然這是非常原始的科技但也是建造廉價並結實的房屋的好技術。</MedTimes_Resource_AdobeBricks.description>
+  <MedTimes_Resource_AdobeBricks.stuffProps.stuffAdjective>土坯磚</MedTimes_Resource_AdobeBricks.stuffProps.stuffAdjective>
+
+
+  <!-- Coal Chunks -->
+
+  <MedTimes_Resource_Coal.label>煤塊</MedTimes_Resource_Coal.label>
+  <MedTimes_Resource_Coal.description>非常脆弱的石塊，沒有建築價值，但它極高的易燃性使它成為了非常好的燃料。\n\n（特別感謝"Flesh Forge"提出的有關煤的一系列建議）</MedTimes_Resource_Coal.description>
+  <MedTimes_Resource_Coal.stuffProps.stuffAdjective>煤</MedTimes_Resource_Coal.stuffProps.stuffAdjective>
+
+
+  <!-- Ice Blocks -->
+
+  <MedTimes_Resource_IceBlocks.label>冰塊</MedTimes_Resource_IceBlocks.label>
+  <MedTimes_Resource_IceBlocks.description>被凍結的水，如果處於炎熱的環境中時它是極其寶貴的資源。小心，它會在32華氏度以上融化。（譯者注：就是0攝氏度。）</MedTimes_Resource_IceBlocks.description>
+  <MedTimes_Resource_IceBlocks.stuffProps.stuffAdjective>冰</MedTimes_Resource_IceBlocks.stuffProps.stuffAdjective>
+
+
+  <!-- Nanite Vial -->
+
+  <MedTimes_NaniteVial.label>裝有納米機械的小瓶</MedTimes_NaniteVial.label>
+  <MedTimes_NaniteVial.description>由透明的複合材料製成的小瓶。瓶內裝著藍色的液體，散髮著幽光。那些液體實際上是保持在恆定狀態的具有自我複製能力的納米機械混合液。這種現代工程的奇跡，其價值遠遠超過其標籤價格。</MedTimes_NaniteVial.description>
+
+
+  <!-- Quicklime Pitch And Wick, Resource -->
+
+  <MedTimes_Resource_Quicklime.label>石灰焦油彈</MedTimes_Resource_Quicklime.label>
+  <MedTimes_Resource_Quicklime.description>使用屠殺孔進行射擊，受到撞擊時爆炸。</MedTimes_Resource_Quicklime.description>
+
+
+  <!-- Exploding Pot, Resource -->
+
+  <MedTimes_Resource_ExplosivePot.label>爆炸罐</MedTimes_Resource_ExplosivePot.label>
+  <MedTimes_Resource_ExplosivePot.description>使用投石機射擊，撞擊時爆炸。（譯者注：友情提示，遇火會炸。）</MedTimes_Resource_ExplosivePot.description>
+
+
+</LanguageData>

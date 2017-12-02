@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Archers Bracers -->
+
+  <MedTimes_Bracer_Marksman_Art.label>神射手護腕</MedTimes_Bracer_Marksman_Art.label>
+  <MedTimes_Bracer_Marksman_Art.description>(人造品)[射擊精確度:+12%][近戰命中率:+5%]\n\n一對由皮革和鋼板製成的護腕和手套，可以有效保護使用者的前臂和手指，讓他能專心射擊，專為射擊而生。</MedTimes_Bracer_Marksman_Art.description>
+
+
+  <!-- God King's Gauntlets -->
+
+  <MedTimes_Gauntlets_Godking_Art.label>領主臂鎧</MedTimes_Gauntlets_Godking_Art.label>
+  <MedTimes_Gauntlets_Godking_Art.description>(人造品)[近戰命中率:+12%]\n\n一雙鍍金的重甲臂鎧，其工藝和質量已經達到人類巔峰，以至於人們猜想是否有工匠把他的一生都獻給了這件傑作。</MedTimes_Gauntlets_Godking_Art.description>
+
+
+  <!-- Warlord's Gauntlets -->
+
+  <MedTimes_Gauntlets_Warlord_Art.label>戰爭領主臂鎧</MedTimes_Gauntlets_Warlord_Art.label>
+  <MedTimes_Gauntlets_Warlord_Art.description>(人造品)[近戰命中率: +12%][工作速度: +6%][社交效果: +3%]\n\n一雙以鋼鐵和漆黑的塑鋼製成的重甲臂鎧，工藝和質量已經達到人類巔峰，以至於人們猜想是否有工匠把他的一生都獻給了這件傑作。</MedTimes_Gauntlets_Warlord_Art.description>
+
+
+  <!-- Combat Gloves -->
+
+  <MedTimes_Gloves_Combat_Art.label>戰鬥護手</MedTimes_Gloves_Combat_Art.label>
+  <MedTimes_Gloves_Combat_Art.description>(人造品)[近戰命中率:+10%][射擊精確度:+5%][全局工作速度:+5%]\n\n大規模生產的由超級布料編織並植入塑鋼加固的手套。納米彈性材料和塑形超泡沫材料的應用使得其可以適陪任何手型，納米觸覺接收器則確保了抓握時的防滑性。\n\n配備著這種裝備的軍人們常說，這手套摸起來就像某種橡膠製粘性物質。因為其特殊的性質，無論近戰還是槍戰這種手套都可以發揮強大的作用。</MedTimes_Gloves_Combat_Art.description>
+
+
+  <!-- Techno Gauntlets -->
+
+  <MedTimes_Gauntlets_Techno_Art.label>高科技戰鬥護手</MedTimes_Gauntlets_Techno_Art.label>
+  <MedTimes_Gauntlets_Techno_Art.description>(人造品)[近戰命中率:+15%][射擊精確度:+15%][瞄準延時係數:-10%][全局工作速度:+5%]\n\n這種高端戰鬥手套由知名的星際工程工業公司定制，幾乎完全是由納米超級布料彈性材料和塑鋼板製成的。\n\n上面加裝的歐米茄絞合織物、熱動力輔助模塊和納米觸覺接收器都是用來確保其在進行抓握動作時良好的防滑性的。即使加裝了如此多的模塊，設計師們仍為其添置了梅爾科™輔助瞄準設備，使得瞄準射擊變得容易。而納米拉伸材料和超泡沫材料則確保了任何手型都能舒服地穿進去。這些手套倍受那些足夠幸運或足夠富有而能擁有它們的士兵們喜愛，因為就連最闊氣的閃耀世界中，都難以見到這種奢侈品。\n\n無論遠程或近身作戰，這雙手套都絕對是天賜之寶。</MedTimes_Gauntlets_Techno_Art.description>
+
+
+  <!-- Archers Bracers -->
+
+  <MedTimes_Bracer_Marksman_Leg.label>神射手護腕</MedTimes_Bracer_Marksman_Leg.label>
+  <MedTimes_Bracer_Marksman_Leg.description>(傳奇物品)[射擊精確度:+15%][近戰命中率:+5%]\n\n一對由皮革和鋼板製成的護腕和手套，可以有效保護使用者的前臂和手指，讓他能專心射擊，專為射擊而生。</MedTimes_Bracer_Marksman_Leg.description>
+
+
+  <!-- God King's Gauntlets -->
+
+  <MedTimes_Gauntlets_Godking_Leg.label>領主臂鎧</MedTimes_Gauntlets_Godking_Leg.label>
+  <MedTimes_Gauntlets_Godking_Leg.description>(傳奇物品)[近戰命中率:+15%]\n\n一雙鍍金的重甲手套，工藝和質量已經達到人類巔峰，以至於人們猜想是否有工匠把他的一生都獻給了這件傑作。</MedTimes_Gauntlets_Godking_Leg.description>
+
+
+  <!-- Warlord's Gauntlets -->
+
+  <MedTimes_Gauntlets_Warlord_Leg.label>戰爭領主臂鎧</MedTimes_Gauntlets_Warlord_Leg.label>
+  <MedTimes_Gauntlets_Warlord_Leg.description>(傳奇物品)[近戰命中率: +12%][工作速度: +6%][社交效果: +3%]\n\n一雙以鋼鐵和黑色的塑鋼製成的重甲臂鎧，工藝和質量已經達到人類巔峰，以至於人們猜想是否有工匠把他的一生都獻給了這件傑作。</MedTimes_Gauntlets_Warlord_Leg.description>
+
+
+  <!-- Combat Gloves -->
+
+  <MedTimes_Gloves_Combat_Leg.label>戰鬥護手</MedTimes_Gloves_Combat_Leg.label>
+  <MedTimes_Gloves_Combat_Leg.description>(傳奇物品)[近戰命中率:+12%][射擊精確度:+8%][全局工作速度:+8%]\n\n大規模生產的由超級布料編織並植入塑鋼加固的手套。納米彈性材料和塑形超泡沫材料的應用使得其可以適陪任何手型，納米觸覺接收器則確保了抓握時的防滑性。\n\n配備著這種裝備的軍人們常說，這手套摸起來就像某種橡膠製粘性物質。因為其特殊的性質，無論近戰還是槍戰這種手套都可以發揮強大的作用。</MedTimes_Gloves_Combat_Leg.description>
+
+
+  <!-- Techno Gauntlets -->
+
+  <MedTimes_Gauntlets_Techno_Leg.label>高科技戰鬥護手</MedTimes_Gauntlets_Techno_Leg.label>
+  <MedTimes_Gauntlets_Techno_Leg.description>(傳奇物品)[近戰命中率:+15%][射擊精確度:+15%][瞄準延時係數:-10%][全局工作速度:+10%]\n\n這種高端戰鬥手套由知名的星際工程工業公司定制，幾乎完全是由納米超級布料彈性材料和塑鋼板製成的。上面加裝的歐米茄絞合織物、熱動力輔助模塊和納米觸覺接收器都是用來確保其在進行抓握動作時良好的防滑性的。即使加裝了如此多的模塊，設計師們仍為其添置了梅爾科™輔助瞄準設備，使得瞄準射擊變得容易。而納米拉伸材料和超泡沫材料則確保了任何手型都能舒服地穿進去。這些手套倍受那些足夠幸運或足夠富有而能擁有它們的士兵們喜愛，因為就連最闊氣的閃耀世界中，都難以見到這種奢侈品。\n\n無論遠程或近身作戰，這雙手套都絕對是天賜之寶。</MedTimes_Gauntlets_Techno_Leg.description>
+
+
+</LanguageData>

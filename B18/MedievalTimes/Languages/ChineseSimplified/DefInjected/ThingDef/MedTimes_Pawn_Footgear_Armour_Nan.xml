@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wooden Boots -->
+
+  <MedTimes_Boots_Wooden_Nan.label>木靴</MedTimes_Boots_Wooden_Nan.label>
+  <MedTimes_Boots_Wooden_Nan.description>(纳米强化)[移动速度: +10%]\n\n在皮靴上缝上木靴底和木甲片，提供最基本的防护。</MedTimes_Boots_Wooden_Nan.description>
+
+
+  <!-- Steel Plated Boots -->
+
+  <MedTimes_Boots_Plated_Nan.label>覆铁靴</MedTimes_Boots_Plated_Nan.label>
+  <MedTimes_Boots_Plated_Nan.description>(纳米强化)[移动速度: +10%]\n\n一双绑上铁制护胫的靴子。</MedTimes_Boots_Plated_Nan.description>
+
+
+  <!-- Scaled Boots -->
+
+  <MedTimes_Boots_Scaled_Nan.label>鳞甲靴</MedTimes_Boots_Scaled_Nan.label>
+  <MedTimes_Boots_Scaled_Nan.description>(纳米强化)[移动速度: +10%]\n\n一双有大量像鱼鳞一样排列的小甲片的靴子。</MedTimes_Boots_Scaled_Nan.description>
+
+
+  <!-- Light Armours -->
+
+  <MedTimes_Boots_FullPlated_Nan.label>镶嵌甲靴</MedTimes_Boots_FullPlated_Nan.label>
+  <MedTimes_Boots_FullPlated_Nan.description>(纳米强化)[移动速度: +10%]\n\n靴子上使用特别方式镶嵌的甲片可以在不降低防护性的同时保持最大的机动性。</MedTimes_Boots_FullPlated_Nan.description>
+
+  <MedTimes_Boots_Warbourne_Nan.label>渗透者护靴</MedTimes_Boots_Warbourne_Nan.label>
+  <MedTimes_Boots_Warbourne_Nan.description>(纳米强化)[移动速度: +10%]\n\n一双覆盖着链甲的皮靴。除了链甲以外，还在足部添加了钢板，在膝盖处添加了翼型钢护膝来提高防护力。这种靴子的底部是用厚厚的皮革缝制的，这样有助于提高机动性。</MedTimes_Boots_Warbourne_Nan.description>
+
+
+  <!-- Steel Encased Boots -->
+
+  <MedTimes_Boots_EncasedSteel_Nan.label>板甲靴</MedTimes_Boots_EncasedSteel_Nan.label>
+  <MedTimes_Boots_EncasedSteel_Nan.description>(纳米强化)[移动速度: +10%]\n\n一双完全包裹在金属中的靴子，提供极好的防御，但与其他靴子相比机动性没那么好。</MedTimes_Boots_EncasedSteel_Nan.description>
+
+
+  <!-- Royal Plated Boots -->
+
+  <MedTimes_Boots_RoyalPlated_Nan.label>皇家板甲靴</MedTimes_Boots_RoyalPlated_Nan.label>
+  <MedTimes_Boots_RoyalPlated_Nan.description>(纳米强化)[移动速度: +10%]\n\n一双完全包裹在金属中的靴子，提供极好的防御，但与其他靴子相比机动性没那么好。</MedTimes_Boots_RoyalPlated_Nan.description>
+
+
+</LanguageData>

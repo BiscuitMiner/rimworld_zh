@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- (Warband) Trader -->
+
+  <MedTimes_Warband_Trader.label>游商</MedTimes_Warband_Trader.label>
+  <MedTimes_Warband_Trader.labelPlural>游商</MedTimes_Warband_Trader.labelPlural>
+
+
+  <!-- (Warband) Peasant -->
+
+  <MedTimes_Warband_Peasant.label>农民</MedTimes_Warband_Peasant.label>
+  <MedTimes_Warband_Peasant.labelPlural>农民</MedTimes_Warband_Peasant.labelPlural>
+
+
+  <!-- (Warband) Conscript -->
+
+  <MedTimes_Warband_Conscript.label>有抱负的雇佣兵</MedTimes_Warband_Conscript.label>
+  <MedTimes_Warband_Conscript.labelPlural>有抱负的雇佣兵</MedTimes_Warband_Conscript.labelPlural>
+
+
+  <!-- (Warband) Archer -->
+
+  <MedTimes_Warband_Archer.label>弓箭手</MedTimes_Warband_Archer.label>
+  <MedTimes_Warband_Archer.labelPlural>弓箭手</MedTimes_Warband_Archer.labelPlural>
+
+
+  <!-- (Warband) Alternate Sapper -->
+
+  <MedTimes_Warband_Sapper.label>工兵</MedTimes_Warband_Sapper.label>
+  <MedTimes_Warband_Sapper.labelPlural>工兵</MedTimes_Warband_Sapper.labelPlural>
+
+
+  <!-- (Warband) Man at Arms -->
+
+  <MedTimes_Warband_ManAtArms.label>雇佣兵</MedTimes_Warband_ManAtArms.label>
+  <MedTimes_Warband_ManAtArms.labelPlural>雇佣兵</MedTimes_Warband_ManAtArms.labelPlural>
+
+  <MedTimes_Warband_ManAtArms_Cheap.label>雇佣兵</MedTimes_Warband_ManAtArms_Cheap.label>
+  <MedTimes_Warband_ManAtArms_Cheap.labelPlural>雇佣兵</MedTimes_Warband_ManAtArms_Cheap.labelPlural>
+
+
+  <!-- (Warband) Elite Bowman -->
+
+  <MedTimes_Warband_EliteBowman.label>雇佣神射手</MedTimes_Warband_EliteBowman.label>
+  <MedTimes_Warband_EliteBowman.labelPlural>雇佣神射手</MedTimes_Warband_EliteBowman.labelPlural>
+
+  <MedTimes_Warband_EliteBowman_Cheap.label>雇佣神射手</MedTimes_Warband_EliteBowman_Cheap.label>
+  <MedTimes_Warband_EliteBowman_Cheap.labelPlural>雇佣神射手</MedTimes_Warband_EliteBowman_Cheap.labelPlural>
+
+
+  <!-- (Warband) Knight -->
+
+  <MedTimes_Warband_Knight.label>臭名昭著的骑士</MedTimes_Warband_Knight.label>
+  <MedTimes_Warband_Knight.labelPlural>臭名昭著的骑士</MedTimes_Warband_Knight.labelPlural>
+
+
+  <!-- (Warband) Royal Guard -->
+
+  <MedTimes_Warband_RoyalGuard.label>死亡守卫</MedTimes_Warband_RoyalGuard.label>
+  <MedTimes_Warband_RoyalGuard.labelPlural>死亡守卫</MedTimes_Warband_RoyalGuard.labelPlural>
+
+
+  <!-- (Warband) God King -->
+
+  <MedTimes_Warband_Warlord.label>战争领主</MedTimes_Warband_Warlord.label>
+  <MedTimes_Warband_Warlord.labelPlural>战争领主</MedTimes_Warband_Warlord.labelPlural>
+
+
+</LanguageData>

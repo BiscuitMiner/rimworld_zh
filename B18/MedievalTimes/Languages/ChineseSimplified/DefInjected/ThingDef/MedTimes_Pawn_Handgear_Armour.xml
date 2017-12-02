@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wooden Plated Gloves -->
+
+  <MedTimes_Bracers_Wooden.label>木护腕</MedTimes_Bracers_Wooden.label>
+  <MedTimes_Bracers_Wooden.description>(等级:0, 轻甲)[近战命中率:+5%][工作速度:+5%]\n\n把一些木板绑在一块，提供最基本的防护。</MedTimes_Bracers_Wooden.description>
+
+
+  <!-- Steel Plated Gloves -->
+
+  <MedTimes_Gloves_Plated.label>装甲手套</MedTimes_Gloves_Plated.label>
+  <MedTimes_Gloves_Plated.description>(等级:1, 轻甲)[近战命中率:+5%][工作速度:+5%]\n\n在关键部位附上铁板的皮手套，在近接战斗中提供防护。</MedTimes_Gloves_Plated.description>
+
+
+  <!-- Scaled Gloves -->
+
+  <MedTimes_Gloves_Scaled.label>鳞甲手套</MedTimes_Gloves_Scaled.label>
+  <MedTimes_Gloves_Scaled.description>(等级:1, 重甲)[近战命中率:+10%]\n\n覆有鳞片状甲片的皮手套，在近接战斗中提供防护。</MedTimes_Gloves_Scaled.description>
+
+
+  <!-- Lamellar Gauntlets -->
+
+  <MedTimes_Gauntlets_Plated.label>全钢手套</MedTimes_Gauntlets_Plated.label>
+  <MedTimes_Gauntlets_Plated.description>(等级:2, 轻甲)[近战命中率:+5%][工作速度:+5%]\n\n一双覆甲的手套，采用了特别设计，不会妨碍活动。</MedTimes_Gauntlets_Plated.description>
+
+  <MedTimes_Gauntlets_Warbourne.label>渗透者护手</MedTimes_Gauntlets_Warbourne.label>
+  <MedTimes_Gauntlets_Warbourne.description>(等级:2, 轻甲)[近战命中率: +10%][工作速度: +5%]\n\n一双覆盖着链甲的结实的皮手套，外层还覆盖了一些钢鳞片和金属板来提高防护力。</MedTimes_Gauntlets_Warbourne.description>
+
+
+  <!-- Archers Bracers -->
+
+  <MedTimes_Bracer_Archer.label>射手护腕</MedTimes_Bracer_Archer.label>
+  <MedTimes_Bracer_Archer.description>(等级:2, 轻甲)[射击精确度:+7.5%][近战命中率:+5%][工作速度:+5%]\n\n一对由皮革和钢板制成的护腕和手套，可以有效保护使用者的前臂和手指，让他能专心射击。</MedTimes_Bracer_Archer.description>
+
+
+  <!-- Steel Gauntlets -->
+
+  <MedTimes_Gauntlets_EncasedSteel.label>板甲臂铠</MedTimes_Gauntlets_EncasedSteel.label>
+  <MedTimes_Gauntlets_EncasedSteel.description>(等级:2, 重甲)[近战命中率:+10%]\n\n一双完全被金属包裹的手套，这也意味着戴着这双手套难以完成日常工作。但极致的保护意味着在激烈的近接战中完全不必担心丢掉手指。这使得这双手套在近战中非常有效。</MedTimes_Gauntlets_EncasedSteel.description>
+
+
+  <!-- Royal Plated Gauntlets -->
+
+  <MedTimes_Gauntlets_RoyalPlated.label>皇家板甲臂铠</MedTimes_Gauntlets_RoyalPlated.label>
+  <MedTimes_Gauntlets_RoyalPlated.description>(等级:2, 重甲)[近战命中率:+10%][工作速度:+2.5%]\n\n虽然样式与板甲手套有所区别，但还是一双完全被金属包裹的手套，这同样意味着戴着这双手套难以完成日常工作。虽然如此，极致的保护则意味着在激烈的近接战中完全不必担心丢掉手指。这使得这双手套在近战中非常有效。</MedTimes_Gauntlets_RoyalPlated.description>
+
+
+</LanguageData>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Read Graphic Novel -->
+
+  <MedTimes_GraphicNovel.stages.0.label>讀了一本圖文並茂的小說</MedTimes_GraphicNovel.stages.0.label>
+  <MedTimes_GraphicNovel.stages.0.description>我閱覽了當地藝術家創作的一部小說。那真的很棒，我很喜歡那個故事。</MedTimes_GraphicNovel.stages.0.description>
+
+
+  <!-- Hearty Stew -->
+
+  <MedTimes_AteHeartyStew.stages.0.label>享用了豐盛燉菜</MedTimes_AteHeartyStew.stages.0.label>
+  <MedTimes_AteHeartyStew.stages.0.description>這份豐盛燉菜簡直太棒了，我感覺我的身體和靈魂都被滋養了。</MedTimes_AteHeartyStew.stages.0.description>
+
+
+  <!-- Weak Stew -->
+
+  <MedTimes_AteWeakStew.stages.0.label>享用了簡易燉菜</MedTimes_AteWeakStew.stages.0.label>
+  <MedTimes_AteWeakStew.stages.0.description>我享用了一份簡易燉菜，雖然那不算什麼，但它確實即溫暖又美味。吃飽喝足，至少我現在是這樣了。</MedTimes_AteWeakStew.stages.0.description>
+
+
+  <!-- Cheese -->
+
+  <MedTimes_AteCheese.stages.0.label>享用了奶酪</MedTimes_AteCheese.stages.0.label>
+  <MedTimes_AteCheese.stages.0.description>我吃了一些奶酪...神啊，請再賜給我一點吧！</MedTimes_AteCheese.stages.0.description>
+
+
+</LanguageData>

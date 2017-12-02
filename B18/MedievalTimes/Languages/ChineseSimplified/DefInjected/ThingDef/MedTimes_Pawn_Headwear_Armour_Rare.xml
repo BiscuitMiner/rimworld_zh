@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- God King's Mask Blue -->
+
+  <MedTimes_Helm_GodKingBlue_Art.label>领主面具</MedTimes_Helm_GodKingBlue_Art.label>
+  <MedTimes_Helm_GodKingBlue_Art.description>(人造品)[社交效果: +5%]\n\n一个装饰华丽并附有镀金面罩的头盔，这种头盔的面部随意开合。\n\n所有部件组合起来能在不降低移动速度或者能见度的情况下提供良好的防护，同时还安装了一个使得使用者的声音听起来更阳刚更有权威的声音调节器。</MedTimes_Helm_GodKingBlue_Art.description>
+
+
+  <!-- God King's Mask Green -->
+
+  <MedTimes_Helm_GodKingGreen_Art.label>领主面具（贵族）</MedTimes_Helm_GodKingGreen_Art.label>
+  <MedTimes_Helm_GodKingGreen_Art.description>(人造品)[社交效果: +5%]\n\n一个装饰华丽并附有镀金面罩的头盔，这种头盔的面部随意开合。\n\n所有部件组合起来能在不降低移动速度或者能见度的情况下提供良好的防护，同时还安装了一个使得使用者的声音听起来更阳刚更有权威的声音调节器。</MedTimes_Helm_GodKingGreen_Art.description>
+
+
+  <!-- Warlord's Mask Green -->
+
+  <MedTimes_Helm_Warlord_Art.label>战争领主面具</MedTimes_Helm_Warlord_Art.label>
+  <MedTimes_Helm_Warlord_Art.description>(人造品)[社交效果: +5%]\n\n（译者注:这里作者也是什么都没有写...）</MedTimes_Helm_Warlord_Art.description>
+
+
+  <!-- Torvald's Headwrap -->
+
+  <MedTimes_Helm_Torvald_Art.label>托瓦尔德的头巾</MedTimes_Helm_Torvald_Art.label>
+  <MedTimes_Helm_Torvald_Art.description>(人造品)[近战闪避率: +8%]\n\n战争领主托瓦尔德(Torvald)是个大块头，每次铁匠给他做的新头盔他都嫌小。后来铁匠绝望了，花大价钱购置了一批来自异域的货物，最后制造了这件头巾。领主有了新头盔欣喜若狂，但同时所有效力于领主的人也都想要这样一顶别致的新帽子，就像托瓦尔德的一样。据说，截止于死在托瓦尔德的手下之前，这位铁匠大量生产这些东西已经好几年了。\n\n这种头巾主要是由超织物和玻璃钢以极其高超的手艺制成，舒适且防护力强。</MedTimes_Helm_Torvald_Art.description>
+
+
+  <!-- Combat Helmet -->
+
+  <MedTimes_Helm_Combat_Art.label>战斗头盔</MedTimes_Helm_Combat_Art.label>
+  <MedTimes_Helm_Combat_Art.description>(人造品)[射击准确率: +8%][瞄准延迟系数: -8%]\n\n在城市化世界为成千上万的士兵大量生产的高级战斗头盔。至于为什么这样的头盔会出现在边缘世界的角落里，目前尚不得而知。这种头盔主要由玻璃钢制成，夹层使用了超凝胶以提供对钝器冲击的额外防护，内层则应用了纳米弹性材料和超泡沫材料保证其舒适性，整个头盔还应用了具有自复制能力的纳米机器人进行加强使得它难以损坏，头盔附带的目镜上面还集成了辅助瞄准和数据处理系统。\n\n虽然功能如此强大，对佩戴者的要求却不高，即使是受过简单训练的新兵也能轻易使用它。</MedTimes_Helm_Combat_Art.description>
+
+
+  <!-- God King's Mask Blue -->
+
+  <MedTimes_Helm_GodKingBlue_Leg.label>领主面具</MedTimes_Helm_GodKingBlue_Leg.label>
+  <MedTimes_Helm_GodKingBlue_Leg.description>(传奇物品)[社交效果: +8%]\n\n一个装饰华丽并附有镀金面罩的头盔，这种头盔的面部随意开合。\n\n所有部件组合起来能在不降低移动速度或者能见度的情况下提供良好的防护，同时还安装了一个使得使用者的声音听起来更阳刚更有权威的声音调节器。</MedTimes_Helm_GodKingBlue_Leg.description>
+
+
+  <!-- God King's Mask Green -->
+
+  <MedTimes_Helm_GodKingGreen_Leg.label>领主面具（贵族）</MedTimes_Helm_GodKingGreen_Leg.label>
+  <MedTimes_Helm_GodKingGreen_Leg.description>(传奇物品)[社交效果: +8%]\n\n一个装饰华丽并附有镀金面罩的头盔，这种头盔的面部随意开合。\n\n所有部件组合起来能在不降低移动速度或者能见度的情况下提供良好的防护，同时还安装了一个使得使用者的声音听起来更阳刚更有权威的声音调节器。</MedTimes_Helm_GodKingGreen_Leg.description>
+
+
+  <!-- Warlord's Mask -->
+
+  <MedTimes_Helm_Warlord_Leg.label>战争领主面具</MedTimes_Helm_Warlord_Leg.label>
+  <MedTimes_Helm_Warlord_Leg.description>(传奇物品)[社交效果: +8%]\n\n（译者注:这里作者也是什么都没有写...）</MedTimes_Helm_Warlord_Leg.description>
+
+
+  <!-- Torvald's Headwrap -->
+
+  <MedTimes_Helm_Torvald_Leg.label>托瓦尔德的头巾</MedTimes_Helm_Torvald_Leg.label>
+  <MedTimes_Helm_Torvald_Leg.description>(传奇物品) [近战闪避率: +10%]\n\n战争领主托瓦尔德(Torvald)是个大块头，每次铁匠给他做的新头盔他都嫌小。后来铁匠绝望了，花大价钱购置了一批来自异域的货物，最后制造了这件头巾。\n\n领主有了新头盔欣喜若狂，但同时所有效力于领主的人也都想要这样一顶别致的新帽子，就像托瓦尔德的一样。据说，截止于死在托瓦尔德的手下之前，这位铁匠大量生产这些东西已经好几年了。\n\n这种头巾主要是由超织物和玻璃钢以极其高超的手艺制成，舒适且防护力强。</MedTimes_Helm_Torvald_Leg.description>
+
+
+  <!-- Combat Helmet -->
+
+  <MedTimes_Helm_Combat_Leg.label>战斗头盔</MedTimes_Helm_Combat_Leg.label>
+  <MedTimes_Helm_Combat_Leg.description>(传奇物品)[射击准确率: +10%][瞄准延迟系数: -10%]\n\n在城市化世界为成千上万的士兵大量生产的高级战斗头盔。至于为什么这样的头盔会出现在边缘世界的角落里，目前尚不得而知。\n\n这种头盔主要由玻璃钢制成，夹层使用了超凝胶以提供对钝器冲击的额外防护，内层则应用了纳米弹性材料和超泡沫材料保证其舒适性，整个头盔还应用了具有自复制能力的纳米机器人进行加强使得它难以损坏，头盔附带的目镜上面还集成了辅助瞄准和数据处理系统。\n\n虽然功能如此强大，对佩戴者的要求却不高，即使是受过简单训练的新兵也能轻易使用它。</MedTimes_Helm_Combat_Leg.description>
+
+
+</LanguageData>

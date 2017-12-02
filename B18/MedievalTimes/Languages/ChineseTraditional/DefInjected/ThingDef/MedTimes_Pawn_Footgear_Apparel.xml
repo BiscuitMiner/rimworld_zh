@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tailored Socks -->
+
+  <MedTimes_Socks_Tailored.label>手工襪</MedTimes_Socks_Tailored.label>
+  <MedTimes_Socks_Tailored.description>[移動速度:+2%]\n\n手工縫製的適合你的腳的襪子，有助於防止腳部擦傷。</MedTimes_Socks_Tailored.description>
+
+
+  <!-- Tailored Boots -->
+
+  <MedTimes_Boots_Tailored.label>手工靴</MedTimes_Boots_Tailored.label>
+  <MedTimes_Boots_Tailored.description>[移動速度:+8%]\n\n手工製作的完全合腳的靴子，在你跋山涉水的時候保護你的雙腳。</MedTimes_Boots_Tailored.description>
+
+
+  <!-- Winter Boots -->
+
+  <MedTimes_Boots_Winter.label>雪地靴</MedTimes_Boots_Winter.label>
+  <MedTimes_Boots_Winter.description>[移動速度:+8%]\n\n完全合腳的雪地靴，既厚又防水，完美適合在寒冷環境下使用。</MedTimes_Boots_Winter.description>
+
+
+  <!-- Tribal Boots -->
+
+  <MedTimes_Boots_Tribal.label>部落靴</MedTimes_Boots_Tribal.label>
+  <MedTimes_Boots_Tribal.description>[移動速度:+6%]\n\n用獸皮縫製的老式風格部落靴，超級暖和，在邊緣世界非常受歡迎！</MedTimes_Boots_Tribal.description>
+
+
+</LanguageData>

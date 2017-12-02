@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wooden Vest Plates(Shell): Norm Apparel -->
+
+  <MedTimes_WoodenPlates.label>木甲</MedTimes_WoodenPlates.label>
+  <MedTimes_WoodenPlates.description>(等級:0, 輕甲)[移動速度:-5%]\n\n在前胸、後背以及肩部綁上木板的無袖護甲，最基本、也是最廉價的護甲。</MedTimes_WoodenPlates.description>
+
+
+  <!-- (Light) Berserker: Norm Apparel -->
+
+  <MedTimes_Berserker.label>狂戰士鏈甲</MedTimes_Berserker.label>
+  <MedTimes_Berserker.description>(等級: 0, 輕甲)[近戰閃避幾率: +25%][移動速度: +10%]\n\n一種用皮帶捆紮起來的重型鏈甲裙。通常由滲透者的那些狂熱成員穿著。</MedTimes_Berserker.description>
+
+
+  <!-- (Light) Plate & Chains: Norm Apparel -->
+
+  <MedTimes_PlateJack.label>無袖板甲</MedTimes_PlateJack.label>
+  <MedTimes_PlateJack.description>(等級:1, 輕甲)[移動速度:-5%]\n\n在胸前背後附有鐵板的無袖護甲，肩甲和鎖鏈也提供部分防護，這是最常規的戰甲，使用最少的材料獲得最大的防護。</MedTimes_PlateJack.description>
+
+
+  <!-- (Heavy) Scaled Hauberk: Norm Apparel -->
+
+  <MedTimes_Hauberk.label>鱗甲</MedTimes_Hauberk.label>
+  <MedTimes_Hauberk.description>(等級:1, 重甲)[移動速度:-10%][工作速度:-5%]\n\n一件及膝並帶有鋼板的護甲，有大量像魚鱗一樣排列的小甲片和鎖鏈作為額外保護措施。</MedTimes_Hauberk.description>
+
+
+  <!-- (Light) Brigandine: Norm Apparel -->
+
+  <MedTimes_Brigandine.label>鑲嵌甲</MedTimes_Brigandine.label>
+  <MedTimes_Brigandine.description>(等級:2, 輕甲)[移動速度:-5%]\n\n一件及膝的，內層藏有鋼板，外部鑲嵌著較小的甲片的護甲。</MedTimes_Brigandine.description>
+
+
+  <!-- (Light) Warbourne: Norm Apparel -->
+
+  <MedTimes_Warbourne.label>滲透者鏈甲</MedTimes_Warbourne.label>
+  <MedTimes_Warbourne.description>(等級: 2, 輕甲)[近戰閃避幾率: +8%][移動速度: -5%]\n\n一件帶有肩甲的重型鏈甲背心，通常由滲透者的那些狂熱成員穿著。</MedTimes_Warbourne.description>
+
+
+  <!-- (Heavy) Full Plate Armour: Norm Apparel -->
+
+  <MedTimes_EncasedSteel.label>全身板甲</MedTimes_EncasedSteel.label>
+  <MedTimes_EncasedSteel.description>(等級:2, 重甲)[移動速度:-10%][工作速度:-5%]\n\n這種沉重的盔甲由許多鋼板和皮墊製成，薄弱處還用鎖鏈進行了增強，可以很好地抵禦各種傷害，但代價是使得穿戴者的行動變得笨拙。</MedTimes_EncasedSteel.description>
+
+
+  <!-- (Heavy) Royal Plate, Standard Apparel -->
+
+  <MedTimes_RoyalPlated.label>皇家板甲</MedTimes_RoyalPlated.label>
+  <MedTimes_RoyalPlated.description>(等級:2, 重甲)[移動速度:-10%][工作速度:-5%]\n\n這種沉重的盔甲由許多鋼板和皮墊製成，薄弱處還用鎖鏈進行了增強，可以很好地抵禦各種傷害，但代價是使得穿戴者的行動變得笨拙。</MedTimes_RoyalPlated.description>
+
+
+  <!-- (Heavy) Royal Death Plate, Standard Apparel -->
+
+  <MedTimes_RoyalPlated_Death.label>皇家死亡板甲</MedTimes_RoyalPlated_Death.label>
+  <MedTimes_RoyalPlated_Death.description>(等級:2, 重甲)[移動速度:-10%][工作速度:-5%]\n\n這種沉重的盔甲由許多鋼板和皮墊製成，薄弱處還用鎖鏈進行了增強，可以很好地抵禦各種傷害，但代價是使得穿戴者的行動變得笨拙。</MedTimes_RoyalPlated_Death.description>
+
+
+  <!-- (Heavy) Royal Plate, Blue Caped: Hot Apparel -->
+
+  <MedTimes_RoyalPlated_CapedBlue.label>皇家板甲（藍色斗篷）</MedTimes_RoyalPlated_CapedBlue.label>
+  <MedTimes_RoyalPlated_CapedBlue.description>(等級:2, 重甲)[移動速度:-10%][工作速度:-5%]\n\n這種沉重的盔甲由許多鋼板和皮墊製成，薄弱處還用鎖鏈進行了增強，可以很好地抵禦各種傷害，但代價是使得穿戴者的行動變得笨拙。此外還包含一件藍色斗篷，有助於保持涼爽。</MedTimes_RoyalPlated_CapedBlue.description>
+
+
+  <!-- (Heavy) Royal Plate, Green Caped: Hot Apparel -->
+
+  <MedTimes_RoyalPlated_CapedGreen.label>皇家板甲（貴族斗篷）</MedTimes_RoyalPlated_CapedGreen.label>
+  <MedTimes_RoyalPlated_CapedGreen.description>(等級:2, 重甲)[移動速度:-10%][全局工作速度:-5%]\n\n這種沉重的盔甲由許多鋼板和皮墊製成，薄弱處還用鎖鏈進行了增強，可以很好地抵禦各種傷害，但代價是使得穿戴者的行動變得笨拙。此外還包含一件貴族斗篷，有助於保持涼爽。</MedTimes_RoyalPlated_CapedGreen.description>
+
+
+  <!-- (Heavy) Royal Plate, Orange Caped: Hot Apparel -->
+
+  <MedTimes_RoyalPlated_CapedOrange.label>皇家板甲（戰團斗篷）</MedTimes_RoyalPlated_CapedOrange.label>
+  <MedTimes_RoyalPlated_CapedOrange.description>(等級:2, 重甲)[移動速度:-10%][全局工作速度:-5%]\n\n這種沉重的盔甲由許多鋼板和皮墊製成，薄弱處還用鎖鏈進行了增強，可以很好地抵禦各種傷害，但代價是使得穿戴者的行動變得笨拙。此外還包含一件戰團斗篷，有助於保持涼爽。</MedTimes_RoyalPlated_CapedOrange.description>
+
+
+</LanguageData>

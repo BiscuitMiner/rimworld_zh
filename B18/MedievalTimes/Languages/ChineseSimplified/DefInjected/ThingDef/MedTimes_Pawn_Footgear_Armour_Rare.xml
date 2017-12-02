@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Techno Socks -->
+
+  <MedTimes_Socks_Techno_Art.label>高科技袜子</MedTimes_Socks_Techno_Art.label>
+  <MedTimes_Socks_Techno_Art.description>(人造品)[移动速度:+3%]\n\n设计时髦的高科技袜子，为一些星球上的明星或运动员所爱。主要由超织物制成，有自我调节冷热的能力，填充有塑形超泡沫材料和超凝胶来确保长期使用的舒适性。正因为如此，它也深受闪耀世界军事人员的喜爱。</MedTimes_Socks_Techno_Art.description>
+
+
+  <!-- Godking Boots -->
+
+  <MedTimes_Boots_Godking_Art.label>领主之靴</MedTimes_Boots_Godking_Art.label>
+  <MedTimes_Boots_Godking_Art.description>(人造品)[移动速度:+10%][社交效果:+2%]\n\n覆有金箔的装甲靴，这靴子为养尊处优的皇家领主尊贵的脚部而特别设计。用超织物做花边，敲击兽角和稀有毛皮作为装饰，甚至于底部都是由珍贵稀有的特殊橡胶制成。完美的表现出皇室尊贵的气息，每走一步都会明确的让其他人明白谁才是这片土地的主人。</MedTimes_Boots_Godking_Art.description>
+
+
+  <!-- Warlord Boots -->
+
+  <MedTimes_Boots_Warlord_Art.label>战争领主之靴</MedTimes_Boots_Warlord_Art.label>
+  <MedTimes_Boots_Warlord_Art.description>(人造品)[移动速度:+10%][社交效果:+3%]\n\n一个干净利落毫无赘饰的靴口，围绕着一圈漆黑的玻璃钢护框。高质量，高技术含量需求的成品。由于采用了超橡胶靴底和敲击兽皮内衬的缘故，这对护靴同时具有高力量和高效用两项特性。在护靴前端部位甚至还加装了利刃，所以在你踹那些失去行动力的对手的时候能起到两倍多的效果。</MedTimes_Boots_Warlord_Art.description>
+
+
+  <!-- Combat Boots -->
+
+  <MedTimes_Boots_Combat_Art.label>战斗靴</MedTimes_Boots_Combat_Art.label>
+  <MedTimes_Boots_Combat_Art.description>(人造品)[移动速度:+10%]\n\n由超织物和玻璃钢批量制造的战斗靴，经过特殊设计，采用超凝胶和塑形超泡沫材料保证所有使用者脚部的舒适。</MedTimes_Boots_Combat_Art.description>
+
+
+  <!-- Techno Boots -->
+
+  <MedTimes_Boots_Techno_Art.label>高科技护靴</MedTimes_Boots_Techno_Art.label>
+  <MedTimes_Boots_Techno_Art.description>(人造品)[移动速度:+15%]\n\n太空时代的高科技产物，这些高科技的奇妙产物是由纳米弹性材料加上超微玻璃钢反馈涂层而成。它还包括欧米伽绝缘系统、重力液压辅助系统、热动力辅助系统和纳米触觉感受器，甚至还使用了超凝胶和塑形超泡沫材料来确保靴子与脚的完美契合。</MedTimes_Boots_Techno_Art.description>
+
+
+  <!-- Techno Socks -->
+
+  <MedTimes_Socks_Techno_Leg.label>高科技袜子</MedTimes_Socks_Techno_Leg.label>
+  <MedTimes_Socks_Techno_Leg.description>(传奇物品)[移动速度:+3%]\n\n设计时髦的高科技袜子，为一些星球上的明星或运动员所爱。主要由超织物制成，有自我调节冷热的能力，填充有塑形超泡沫材料和超凝胶来确保长期使用的舒适性。正因为如此，它也深受闪耀世界军事人员的喜爱。</MedTimes_Socks_Techno_Leg.description>
+
+
+  <!-- Godking Boots -->
+
+  <MedTimes_Boots_Godking_Leg.label>领主之靴</MedTimes_Boots_Godking_Leg.label>
+  <MedTimes_Boots_Godking_Leg.description>(传奇物品)[移动速度:+12%][社交效果:+5%]\n\n覆有金箔的装甲靴，这靴子为养尊处优的皇家领主尊贵的脚部而特别设计。用超织物做花边，敲击兽角和稀有毛皮作为装饰，甚至于底部都是由珍贵稀有的特殊橡胶制成。完美的表现出皇室尊贵的气息，每走一步都会明确的让其他人明白谁才是这片土地的主人。</MedTimes_Boots_Godking_Leg.description>
+
+
+  <!-- Warlord Boots -->
+
+  <MedTimes_Boots_Warlord_Leg.label>战争领主之靴</MedTimes_Boots_Warlord_Leg.label>
+  <MedTimes_Boots_Warlord_Leg.description>(传奇物品)[移动速度:+12%][社交效果: +5%]\n\n一个干净利落毫无赘饰的靴口，围绕着一圈漆黑的玻璃钢护框。高质量，高技术含量需求的成品。由于采用了超橡胶靴底和敲击兽皮内衬的缘故，这对护靴同时具有高力量和高效用两项特性。在护靴前端部位甚至还加装了利刃，所以在你踹那些失去行动力的对手的时候能起到两倍多的效果。</MedTimes_Boots_Warlord_Leg.description>
+
+
+  <!-- Combat Boots -->
+
+  <MedTimes_Boots_Combat_Leg.label>战斗靴</MedTimes_Boots_Combat_Leg.label>
+  <MedTimes_Boots_Combat_Leg.description>(传奇物品)[移动速度:+12%]\n\n由超织物和玻璃钢批量制造的战斗靴，经过特殊设计，采用超凝胶和塑形超泡沫材料保证所有使用者脚部的舒适。</MedTimes_Boots_Combat_Leg.description>
+
+
+  <!-- Techno Boots -->
+
+  <MedTimes_Boots_Techno_Leg.label>高科技护靴</MedTimes_Boots_Techno_Leg.label>
+  <MedTimes_Boots_Techno_Leg.description>(传奇物品)[移动速度:+18%]\n\n太空时代的高科技产物，这些高科技的奇妙产物是由纳米弹性材料加上超微玻璃钢反馈涂层而成。它还包括欧米伽绝缘系统、重力液压辅助系统、热动力辅助系统和纳米触觉感受器，甚至还使用了超凝胶和塑形超泡沫材料来确保靴子与脚的完美契合。</MedTimes_Boots_Techno_Leg.description>
+
+
+</LanguageData>

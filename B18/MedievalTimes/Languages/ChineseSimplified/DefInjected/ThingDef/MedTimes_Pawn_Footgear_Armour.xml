@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wooden Boots -->
+
+  <MedTimes_Boots_Wooden.label>木靴</MedTimes_Boots_Wooden.label>
+  <MedTimes_Boots_Wooden.description>(等级:0)[移动速度:+8%]\n\n在皮靴上缝上木靴底和木甲片，提供最基本的防护。</MedTimes_Boots_Wooden.description>
+
+
+  <!-- Steel Plated Boots -->
+
+  <MedTimes_Boots_Plated.label>覆铁靴</MedTimes_Boots_Plated.label>
+  <MedTimes_Boots_Plated.description>(等级:1, 轻甲)[移动速度:+8%]\n\n一双绑上铁制护胫的靴子。</MedTimes_Boots_Plated.description>
+
+
+  <!-- Scaled Boots -->
+
+  <MedTimes_Boots_Scaled.label>鳞甲靴</MedTimes_Boots_Scaled.label>
+  <MedTimes_Boots_Scaled.description>(等级:1, 重甲)[移动速度:+5%]\n\n一双有大量像鱼鳞一样排列的小甲片的靴子。</MedTimes_Boots_Scaled.description>
+
+
+  <!-- Light Armours -->
+
+  <MedTimes_Boots_FullPlated.label>镶嵌甲靴</MedTimes_Boots_FullPlated.label>
+  <MedTimes_Boots_FullPlated.description>(等级:2, 轻甲)[移动速度:+8%]\n\n靴子上使用特别方式镶嵌的甲片可以在不降低防护性的同时保持最大的机动性。</MedTimes_Boots_FullPlated.description>
+
+  <MedTimes_Boots_Warbourne.label>渗透者护靴</MedTimes_Boots_Warbourne.label>
+  <MedTimes_Boots_Warbourne.description>(等级:2, 轻甲)[移动速度:+10%]\n\n一双覆盖着链甲的皮靴。除了链甲以外，还在足部添加了钢板，在膝盖处添加了翼型钢护膝来提高防护力。这种靴子的底部是用厚厚的皮革缝制的，这样有助于提高机动性。</MedTimes_Boots_Warbourne.description>
+
+
+  <!-- Steel Encased Boots -->
+
+  <MedTimes_Boots_EncasedSteel.label>板甲靴</MedTimes_Boots_EncasedSteel.label>
+  <MedTimes_Boots_EncasedSteel.description>(等级:2, 重甲)[移动速度:+5%]\n\n一双完全包裹在金属中的靴子，提供极好的防御，但与其他靴子相比机动性没那么好。</MedTimes_Boots_EncasedSteel.description>
+
+
+  <!-- Royal Plated Boots -->
+
+  <MedTimes_Boots_RoyalPlated.label>皇家板甲靴</MedTimes_Boots_RoyalPlated.label>
+  <MedTimes_Boots_RoyalPlated.description>(等级:2, 重甲)[移动速度:+5%]\n\n一双包裹在大大小小的甲片里的板靴，提供了极好的防护，但与其他靴子相比机动性没那么好。</MedTimes_Boots_RoyalPlated.description>
+
+
+</LanguageData>

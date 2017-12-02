@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Personal Desk -->
+
+  <MedTimes_DoBillsDesk.label>在書桌上創作</MedTimes_DoBillsDesk.label>
+  <MedTimes_DoBillsDesk.verb>創作</MedTimes_DoBillsDesk.verb>
+  <MedTimes_DoBillsDesk.gerund>創作於</MedTimes_DoBillsDesk.gerund>
+
+
+  <!-- Crafting Station -->
+
+  <MedTimes_DoBillsCraftingStation.label>製造物品</MedTimes_DoBillsCraftingStation.label>
+  <MedTimes_DoBillsCraftingStation.verb>製造</MedTimes_DoBillsCraftingStation.verb>
+  <MedTimes_DoBillsCraftingStation.gerund>製造於</MedTimes_DoBillsCraftingStation.gerund>
+
+
+  <!-- Artisan Station -->
+
+  <MedTimes_DoBillsArtisanStation.label>創作作品</MedTimes_DoBillsArtisanStation.label>
+  <MedTimes_DoBillsArtisanStation.verb>創作</MedTimes_DoBillsArtisanStation.verb>
+  <MedTimes_DoBillsArtisanStation.gerund>創作於</MedTimes_DoBillsArtisanStation.gerund>
+
+
+  <!-- Tailoring Station -->
+
+  <MedTimes_DoBillsTailoringStation.label>裁剪衣物</MedTimes_DoBillsTailoringStation.label>
+  <MedTimes_DoBillsTailoringStation.verb>裁剪</MedTimes_DoBillsTailoringStation.verb>
+  <MedTimes_DoBillsTailoringStation.gerund>裁剪於</MedTimes_DoBillsTailoringStation.gerund>
+
+
+  <!-- Blacksmith's Forge -->
+
+  <MedTimes_DoBillsSmithing.label>鍛造中世紀物品</MedTimes_DoBillsSmithing.label>
+  <MedTimes_DoBillsSmithing.verb>鍛造</MedTimes_DoBillsSmithing.verb>
+  <MedTimes_DoBillsSmithing.gerund>鍛造於</MedTimes_DoBillsSmithing.gerund>
+
+
+  <!-- Blacksmith's Smelter -->
+
+  <MedTimes_DoBillsSmelter.label>熔煉物品</MedTimes_DoBillsSmelter.label>
+  <MedTimes_DoBillsSmelter.verb>熔煉</MedTimes_DoBillsSmelter.verb>
+  <MedTimes_DoBillsSmelter.gerund>熔煉於</MedTimes_DoBillsSmelter.gerund>
+
+
+  <!-- Eternity Forge -->
+
+  <MedTimes_DoBillsEternityForge.label>注入擁有自我複製能力的納米機器人</MedTimes_DoBillsEternityForge.label>
+  <MedTimes_DoBillsEternityForge.verb>注入</MedTimes_DoBillsEternityForge.verb>
+  <MedTimes_DoBillsEternityForge.gerund>注入於</MedTimes_DoBillsEternityForge.gerund>
+
+
+  <!-- FoodPrepStation -->
+
+  <MedTimes_DoBillsCook.label>製備食物</MedTimes_DoBillsCook.label>
+  <MedTimes_DoBillsCook.verb>烹飪</MedTimes_DoBillsCook.verb>
+  <MedTimes_DoBillsCook.gerund>烹飪於</MedTimes_DoBillsCook.gerund>
+
+  <MedTimes_DoBillsButcher.label>屠宰動物</MedTimes_DoBillsButcher.label>
+  <MedTimes_DoBillsButcher.verb>屠宰</MedTimes_DoBillsButcher.verb>
+  <MedTimes_DoBillsButcher.gerund>屠宰於</MedTimes_DoBillsButcher.gerund>
+
+
+  <!-- Corpse Bonfire -->
+
+  <MedTimes_DoBillsCremateCorpseBonfire.label>焚燒</MedTimes_DoBillsCremateCorpseBonfire.label>
+  <MedTimes_DoBillsCremateCorpseBonfire.verb>焚化</MedTimes_DoBillsCremateCorpseBonfire.verb>
+  <MedTimes_DoBillsCremateCorpseBonfire.gerund>焚化於</MedTimes_DoBillsCremateCorpseBonfire.gerund>
+
+
+  <!-- Stone Quarry -->
+
+  <MedTimes_DoBillsQuarry.label>切割石材</MedTimes_DoBillsQuarry.label>
+  <MedTimes_DoBillsQuarry.verb>切石</MedTimes_DoBillsQuarry.verb>
+  <MedTimes_DoBillsQuarry.gerund>切石於</MedTimes_DoBillsQuarry.gerund>
+
+
+  <!-- Ice Creation Station -->
+
+  <MedTimes_DoBillsIceCreation.label>製造冰塊</MedTimes_DoBillsIceCreation.label>
+  <MedTimes_DoBillsIceCreation.verb>扇扇子中</MedTimes_DoBillsIceCreation.verb>
+  <MedTimes_DoBillsIceCreation.gerund>扇扇子於</MedTimes_DoBillsIceCreation.gerund>
+
+
+  <!-- Ice Gathering Station -->
+
+  <MedTimes_DoBillsIceGathering.label>採集冰塊</MedTimes_DoBillsIceGathering.label>
+  <MedTimes_DoBillsIceGathering.verb>採集</MedTimes_DoBillsIceGathering.verb>
+  <MedTimes_DoBillsIceGathering.gerund>採集於</MedTimes_DoBillsIceGathering.gerund>
+
+
+</LanguageData>
